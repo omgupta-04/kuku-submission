@@ -1,0 +1,1820 @@
+{
+  "ep": 3,
+  "file": "episode-003-Episode 1671705.txt",
+  "meta": {
+    "ep": 3,
+    "file": "episode-003-Episode 1671705.txt",
+    "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.",
+    "continuity": "Follows directly from Episode 2's confrontation at the altar, where Juliana publicly exposed Gerald's dishonor before the entire aristocratic congregation.",
+    "duration": 145.75
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. CATHEDRAL NAVE – DAY",
+      "start": 0,
+      "end": 22.8
+    },
+    {
+      "n": 2,
+      "heading": "INT. CATHEDRAL – CONTINUOUS",
+      "start": 22.8,
+      "end": 64.5
+    },
+    {
+      "n": 3,
+      "heading": "INT. CATHEDRAL AISLE – CONTINUOUS",
+      "start": 64.5,
+      "end": 145.75
+    }
+  ],
+  "beats": [
+    {
+      "id": "e03_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 3.5
+    },
+    {
+      "id": "e03_b002",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 2.1,
+      "end": 4.2
+    },
+    {
+      "id": "e03_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 3.5,
+      "end": 6.1
+    },
+    {
+      "id": "e03_b004",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 3.6,
+      "end": 8.2
+    },
+    {
+      "id": "e03_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 6.1,
+      "end": 8.5
+    },
+    {
+      "id": "e03_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 8.5,
+      "end": 11.1
+    },
+    {
+      "id": "e03_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 8.8,
+      "end": 10.8
+    },
+    {
+      "id": "e03_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.1,
+      "end": 13.6
+    },
+    {
+      "id": "e03_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 11.2,
+      "end": 13.4
+    },
+    {
+      "id": "e03_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 13.6,
+      "end": 16.4
+    },
+    {
+      "id": "e03_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 13.8,
+      "end": 16.3
+    },
+    {
+      "id": "e03_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 16.4,
+      "end": 18.6
+    },
+    {
+      "id": "e03_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 16.6,
+      "end": 18.4
+    },
+    {
+      "id": "e03_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 18.6,
+      "end": 20.5
+    },
+    {
+      "id": "e03_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 18.7,
+      "end": 20.4
+    },
+    {
+      "id": "e03_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 20.5,
+      "end": 22.8
+    },
+    {
+      "id": "e03_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20.6,
+      "end": 22.5
+    },
+    {
+      "id": "e03_b018",
+      "type": "camera",
+      "scene": 2,
+      "start": 22.8,
+      "end": 25.8
+    },
+    {
+      "id": "e03_b019",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 23.1,
+      "end": 25.5
+    },
+    {
+      "id": "e03_b020",
+      "type": "camera",
+      "scene": 2,
+      "start": 25.8,
+      "end": 28
+    },
+    {
+      "id": "e03_b021",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 25.9,
+      "end": 28
+    },
+    {
+      "id": "e03_b022",
+      "type": "camera",
+      "scene": 2,
+      "start": 28,
+      "end": 30.3
+    },
+    {
+      "id": "e03_b023",
+      "type": "camera",
+      "scene": 2,
+      "start": 30.3,
+      "end": 35.5
+    },
+    {
+      "id": "e03_b024",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 30.4,
+      "end": 33.2
+    },
+    {
+      "id": "e03_b025",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 33.3,
+      "end": 35.6
+    },
+    {
+      "id": "e03_b026",
+      "type": "camera",
+      "scene": 2,
+      "start": 35.5,
+      "end": 38.2
+    },
+    {
+      "id": "e03_b027",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 36.5,
+      "end": 38.4
+    },
+    {
+      "id": "e03_b028",
+      "type": "camera",
+      "scene": 2,
+      "start": 38.2,
+      "end": 40.4
+    },
+    {
+      "id": "e03_b029",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 38.5,
+      "end": 40.4
+    },
+    {
+      "id": "e03_b030",
+      "type": "camera",
+      "scene": 2,
+      "start": 40.4,
+      "end": 42
+    },
+    {
+      "id": "e03_b031",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 40.5,
+      "end": 41.9
+    },
+    {
+      "id": "e03_b032",
+      "type": "camera",
+      "scene": 2,
+      "start": 42,
+      "end": 43.3
+    },
+    {
+      "id": "e03_b033",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 42.1,
+      "end": 43.3
+    },
+    {
+      "id": "e03_b034",
+      "type": "camera",
+      "scene": 2,
+      "start": 43.3,
+      "end": 45.9
+    },
+    {
+      "id": "e03_b035",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 43.4,
+      "end": 46
+    },
+    {
+      "id": "e03_b036",
+      "type": "camera",
+      "scene": 2,
+      "start": 45.9,
+      "end": 48.8
+    },
+    {
+      "id": "e03_b037",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 46.4,
+      "end": 48.6
+    },
+    {
+      "id": "e03_b038",
+      "type": "camera",
+      "scene": 2,
+      "start": 48.8,
+      "end": 51.2
+    },
+    {
+      "id": "e03_b039",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 48.9,
+      "end": 51.1
+    },
+    {
+      "id": "e03_b040",
+      "type": "camera",
+      "scene": 2,
+      "start": 51.2,
+      "end": 53
+    },
+    {
+      "id": "e03_b041",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 51.3,
+      "end": 53
+    },
+    {
+      "id": "e03_b042",
+      "type": "camera",
+      "scene": 2,
+      "start": 53,
+      "end": 56.2
+    },
+    {
+      "id": "e03_b043",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 53.3,
+      "end": 56.2
+    },
+    {
+      "id": "e03_b044",
+      "type": "camera",
+      "scene": 2,
+      "start": 56.2,
+      "end": 58.2
+    },
+    {
+      "id": "e03_b045",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 56.3,
+      "end": 58.2
+    },
+    {
+      "id": "e03_b046",
+      "type": "action",
+      "scene": 2,
+      "start": 58.2,
+      "end": 59.8
+    },
+    {
+      "id": "e03_b047",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 58.3,
+      "end": 60
+    },
+    {
+      "id": "e03_b048",
+      "type": "camera",
+      "scene": 2,
+      "start": 60,
+      "end": 62
+    },
+    {
+      "id": "e03_b049",
+      "type": "action",
+      "scene": 2,
+      "start": 60.5,
+      "end": 62.5
+    },
+    {
+      "id": "e03_b050",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 60.6,
+      "end": 62.3
+    },
+    {
+      "id": "e03_b051",
+      "type": "camera",
+      "scene": 2,
+      "start": 62,
+      "end": 63.2
+    },
+    {
+      "id": "e03_b052",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 62.4,
+      "end": 63.5
+    },
+    {
+      "id": "e03_b053",
+      "type": "action",
+      "scene": 2,
+      "start": 63,
+      "end": 64.5
+    },
+    {
+      "id": "e03_b054",
+      "type": "sfx",
+      "scene": 2,
+      "start": 63,
+      "end": 64.5
+    },
+    {
+      "id": "e03_b055",
+      "type": "camera",
+      "scene": 3,
+      "start": 64.5,
+      "end": 66
+    },
+    {
+      "id": "e03_b056",
+      "type": "camera",
+      "scene": 3,
+      "start": 66,
+      "end": 68.1
+    },
+    {
+      "id": "e03_b057",
+      "type": "action",
+      "scene": 3,
+      "start": 66,
+      "end": 68.1
+    },
+    {
+      "id": "e03_b058",
+      "type": "camera",
+      "scene": 3,
+      "start": 68.1,
+      "end": 70.5
+    },
+    {
+      "id": "e03_b059",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 69.9,
+      "end": 72.1
+    },
+    {
+      "id": "e03_b060",
+      "type": "camera",
+      "scene": 3,
+      "start": 70.5,
+      "end": 72.8
+    },
+    {
+      "id": "e03_b061",
+      "type": "camera",
+      "scene": 3,
+      "start": 72.8,
+      "end": 75.1
+    },
+    {
+      "id": "e03_b062",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 73,
+      "end": 76.8
+    },
+    {
+      "id": "e03_b063",
+      "type": "camera",
+      "scene": 3,
+      "start": 75.1,
+      "end": 77
+    },
+    {
+      "id": "e03_b064",
+      "type": "camera",
+      "scene": 3,
+      "start": 77,
+      "end": 79
+    },
+    {
+      "id": "e03_b065",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 77.2,
+      "end": 78.9
+    },
+    {
+      "id": "e03_b066",
+      "type": "camera",
+      "scene": 3,
+      "start": 79,
+      "end": 81
+    },
+    {
+      "id": "e03_b067",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 79.3,
+      "end": 80.9
+    },
+    {
+      "id": "e03_b068",
+      "type": "camera",
+      "scene": 3,
+      "start": 81,
+      "end": 84
+    },
+    {
+      "id": "e03_b069",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 81.8,
+      "end": 83.9
+    },
+    {
+      "id": "e03_b070",
+      "type": "camera",
+      "scene": 3,
+      "start": 84,
+      "end": 85.5
+    },
+    {
+      "id": "e03_b071",
+      "type": "action",
+      "scene": 3,
+      "start": 84,
+      "end": 85.5
+    },
+    {
+      "id": "e03_b072",
+      "type": "sfx",
+      "scene": 3,
+      "start": 84.5,
+      "end": 85.4
+    },
+    {
+      "id": "e03_b073",
+      "type": "camera",
+      "scene": 3,
+      "start": 85.5,
+      "end": 88.1
+    },
+    {
+      "id": "e03_b074",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 85.6,
+      "end": 88
+    },
+    {
+      "id": "e03_b075",
+      "type": "camera",
+      "scene": 3,
+      "start": 88.1,
+      "end": 89.3
+    },
+    {
+      "id": "e03_b076",
+      "type": "camera",
+      "scene": 3,
+      "start": 89.3,
+      "end": 91.7
+    },
+    {
+      "id": "e03_b077",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 90.4,
+      "end": 91.6
+    },
+    {
+      "id": "e03_b078",
+      "type": "camera",
+      "scene": 3,
+      "start": 91.7,
+      "end": 94
+    },
+    {
+      "id": "e03_b079",
+      "type": "action",
+      "scene": 3,
+      "start": 91.8,
+      "end": 93.6
+    },
+    {
+      "id": "e03_b080",
+      "type": "camera",
+      "scene": 3,
+      "start": 94,
+      "end": 96.5
+    },
+    {
+      "id": "e03_b081",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 94.1,
+      "end": 96.3
+    },
+    {
+      "id": "e03_b082",
+      "type": "camera",
+      "scene": 3,
+      "start": 96.5,
+      "end": 98.4
+    },
+    {
+      "id": "e03_b083",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 96.5,
+      "end": 98.5
+    },
+    {
+      "id": "e03_b084",
+      "type": "camera",
+      "scene": 3,
+      "start": 98.4,
+      "end": 100.8
+    },
+    {
+      "id": "e03_b085",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 98.8,
+      "end": 100.8
+    },
+    {
+      "id": "e03_b086",
+      "type": "camera",
+      "scene": 3,
+      "start": 100.8,
+      "end": 103
+    },
+    {
+      "id": "e03_b087",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 100.8,
+      "end": 103.8
+    },
+    {
+      "id": "e03_b088",
+      "type": "camera",
+      "scene": 3,
+      "start": 103,
+      "end": 105.9
+    },
+    {
+      "id": "e03_b089",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 104.2,
+      "end": 107.4
+    },
+    {
+      "id": "e03_b090",
+      "type": "camera",
+      "scene": 3,
+      "start": 105.9,
+      "end": 108.8
+    },
+    {
+      "id": "e03_b091",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 107.4,
+      "end": 109
+    },
+    {
+      "id": "e03_b092",
+      "type": "camera",
+      "scene": 3,
+      "start": 108.8,
+      "end": 110.8
+    },
+    {
+      "id": "e03_b093",
+      "type": "camera",
+      "scene": 3,
+      "start": 110.8,
+      "end": 112.5
+    },
+    {
+      "id": "e03_b094",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 110.9,
+      "end": 112.5
+    },
+    {
+      "id": "e03_b095",
+      "type": "camera",
+      "scene": 3,
+      "start": 112.5,
+      "end": 114.2
+    },
+    {
+      "id": "e03_b096",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 112.8,
+      "end": 114.1
+    },
+    {
+      "id": "e03_b097",
+      "type": "camera",
+      "scene": 3,
+      "start": 114.2,
+      "end": 116
+    },
+    {
+      "id": "e03_b098",
+      "type": "camera",
+      "scene": 3,
+      "start": 116,
+      "end": 117.9
+    },
+    {
+      "id": "e03_b099",
+      "type": "camera",
+      "scene": 3,
+      "start": 117.9,
+      "end": 119.2
+    },
+    {
+      "id": "e03_b100",
+      "type": "camera",
+      "scene": 3,
+      "start": 119.2,
+      "end": 121
+    },
+    {
+      "id": "e03_b101",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 119.8,
+      "end": 122.1
+    },
+    {
+      "id": "e03_b102",
+      "type": "camera",
+      "scene": 3,
+      "start": 121,
+      "end": 123.2
+    },
+    {
+      "id": "e03_b103",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 122.5,
+      "end": 124.2
+    },
+    {
+      "id": "e03_b104",
+      "type": "camera",
+      "scene": 3,
+      "start": 123.2,
+      "end": 125.1
+    },
+    {
+      "id": "e03_b105",
+      "type": "camera",
+      "scene": 3,
+      "start": 125.1,
+      "end": 127.4
+    },
+    {
+      "id": "e03_b106",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 125.3,
+      "end": 127.3
+    },
+    {
+      "id": "e03_b107",
+      "type": "camera",
+      "scene": 3,
+      "start": 127.4,
+      "end": 130.2
+    },
+    {
+      "id": "e03_b108",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 127.7,
+      "end": 129.9
+    },
+    {
+      "id": "e03_b109",
+      "type": "camera",
+      "scene": 3,
+      "start": 130.2,
+      "end": 132.7
+    },
+    {
+      "id": "e03_b110",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 130.4,
+      "end": 132
+    },
+    {
+      "id": "e03_b111",
+      "type": "camera",
+      "scene": 3,
+      "start": 132.7,
+      "end": 135.5
+    },
+    {
+      "id": "e03_b112",
+      "type": "action",
+      "scene": 3,
+      "start": 133.2,
+      "end": 135.5
+    },
+    {
+      "id": "e03_b113",
+      "type": "sfx",
+      "scene": 3,
+      "start": 134.8,
+      "end": 136.2
+    },
+    {
+      "id": "e03_b114",
+      "type": "camera",
+      "scene": 3,
+      "start": 135.5,
+      "end": 137.3
+    },
+    {
+      "id": "e03_b115",
+      "type": "camera",
+      "scene": 3,
+      "start": 137.3,
+      "end": 140.5
+    },
+    {
+      "id": "e03_b116",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 137.5,
+      "end": 140.3
+    },
+    {
+      "id": "e03_b117",
+      "type": "camera",
+      "scene": 3,
+      "start": 140.5,
+      "end": 145.75
+    },
+    {
+      "id": "e03_b118",
+      "type": "action",
+      "scene": 3,
+      "start": 140.5,
+      "end": 145.75
+    }
+  ],
+  "scores": {
+    "e03_b002": {
+      "id": "e03_b002",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e03_b004": {
+      "id": "e03_b004",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e03_b007": {
+      "id": "e03_b007",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e03_b009": {
+      "id": "e03_b009",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e03_b011": {
+      "id": "e03_b011",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "humiliation"
+    },
+    "e03_b013": {
+      "id": "e03_b013",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e03_b015": {
+      "id": "e03_b015",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e03_b017": {
+      "id": "e03_b017",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e03_b019": {
+      "id": "e03_b019",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e03_b021": {
+      "id": "e03_b021",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e03_b022": {
+      "id": "e03_b022",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e03_b024": {
+      "id": "e03_b024",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e03_b025": {
+      "id": "e03_b025",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e03_b027": {
+      "id": "e03_b027",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e03_b029": {
+      "id": "e03_b029",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b031": {
+      "id": "e03_b031",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b033": {
+      "id": "e03_b033",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b035": {
+      "id": "e03_b035",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e03_b037": {
+      "id": "e03_b037",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b039": {
+      "id": "e03_b039",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b041": {
+      "id": "e03_b041",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b043": {
+      "id": "e03_b043",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e03_b045": {
+      "id": "e03_b045",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e03_b046": {
+      "id": "e03_b046",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b047": {
+      "id": "e03_b047",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b049": {
+      "id": "e03_b049",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b050": {
+      "id": "e03_b050",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b052": {
+      "id": "e03_b052",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b053": {
+      "id": "e03_b053",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b054": {
+      "id": "e03_b054",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b055": {
+      "id": "e03_b055",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b057": {
+      "id": "e03_b057",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b059": {
+      "id": "e03_b059",
+      "hook": 9,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b062": {
+      "id": "e03_b062",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b065": {
+      "id": "e03_b065",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b067": {
+      "id": "e03_b067",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b069": {
+      "id": "e03_b069",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b071": {
+      "id": "e03_b071",
+      "hook": 9,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b072": {
+      "id": "e03_b072",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b074": {
+      "id": "e03_b074",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b075": {
+      "id": "e03_b075",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b077": {
+      "id": "e03_b077",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b079": {
+      "id": "e03_b079",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e03_b081": {
+      "id": "e03_b081",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e03_b083": {
+      "id": "e03_b083",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b085": {
+      "id": "e03_b085",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b087": {
+      "id": "e03_b087",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b089": {
+      "id": "e03_b089",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b091": {
+      "id": "e03_b091",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b094": {
+      "id": "e03_b094",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b096": {
+      "id": "e03_b096",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b097": {
+      "id": "e03_b097",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b098": {
+      "id": "e03_b098",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b099": {
+      "id": "e03_b099",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b101": {
+      "id": "e03_b101",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e03_b103": {
+      "id": "e03_b103",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b106": {
+      "id": "e03_b106",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b108": {
+      "id": "e03_b108",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b110": {
+      "id": "e03_b110",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b112": {
+      "id": "e03_b112",
+      "hook": 10,
+      "cliff": 10,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e03_b113": {
+      "id": "e03_b113",
+      "hook": 9,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e03_b116": {
+      "id": "e03_b116",
+      "hook": 9,
+      "cliff": 10,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e03_b118": {
+      "id": "e03_b118",
+      "hook": 8,
+      "cliff": 10,
+      "context_need": 2,
+      "tag": "confession"
+    }
+  },
+  "promos": [
+    {
+      "id": "s03_0033",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 3,
+          "start": 84,
+          "end": 135.5,
+          "beatIds": [
+            "e03_b070",
+            "e03_b071",
+            "e03_b072",
+            "e03_b073",
+            "e03_b074",
+            "e03_b075",
+            "e03_b076",
+            "e03_b077",
+            "e03_b078",
+            "e03_b079",
+            "e03_b080",
+            "e03_b081",
+            "e03_b082",
+            "e03_b083",
+            "e03_b084",
+            "e03_b085",
+            "e03_b086",
+            "e03_b087",
+            "e03_b088",
+            "e03_b089",
+            "e03_b090",
+            "e03_b091",
+            "e03_b092",
+            "e03_b093",
+            "e03_b094",
+            "e03_b095",
+            "e03_b096",
+            "e03_b097",
+            "e03_b098",
+            "e03_b099",
+            "e03_b100",
+            "e03_b101",
+            "e03_b102",
+            "e03_b103",
+            "e03_b104",
+            "e03_b105",
+            "e03_b106",
+            "e03_b107",
+            "e03_b108",
+            "e03_b109",
+            "e03_b110",
+            "e03_b111",
+            "e03_b112",
+            "e03_b113"
+          ]
+        }
+      ],
+      "duration": 51.5,
+      "preScore": 18,
+      "tag": "rescue",
+      "scene": 3,
+      "hook_text": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him",
+      "cliffhanger_text": "The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana; the resolution of her acceptance is left hanging.",
+      "why": "The clip effectively balances high-stakes physical action with a romantic, emotional payoff, making it a complete narrative arc.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Stranger's Bold Wedding Intervention",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The clip establishes the stakes clearly and ends on a genuine moment of suspense."
+        }
+      }
+    },
+    {
+      "id": "m03_0068",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 3,
+          "start": 69.9,
+          "end": 80.9,
+          "beatIds": [
+            "e03_b059",
+            "e03_b060",
+            "e03_b061",
+            "e03_b062",
+            "e03_b063",
+            "e03_b064",
+            "e03_b065",
+            "e03_b066",
+            "e03_b067"
+          ]
+        },
+        {
+          "ep": 3,
+          "start": 122.5,
+          "end": 135.5,
+          "beatIds": [
+            "e03_b103",
+            "e03_b104",
+            "e03_b105",
+            "e03_b106",
+            "e03_b107",
+            "e03_b108",
+            "e03_b109",
+            "e03_b110",
+            "e03_b111",
+            "e03_b112",
+            "e03_b113"
+          ]
+        }
+      ],
+      "duration": 24,
+      "preScore": 18,
+      "tag": "rescue",
+      "scene": 3,
+      "hook_text": "Take your hands off her.",
+      "cliffhanger_text": "A collective, stunned gasp rippling across the entire congregation; the immediate reaction to the proposal is left unresolved.",
+      "why": "It cuts straight to the conflict and the romantic climax, though it lacks the context of the fight scene.",
+      "standalone": 7,
+      "hook_3s": 7,
+      "cliff": 6,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "A Sudden Chapel Proposal",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The transition between the confrontation and the proposal is abrupt and lacks narrative flow."
+        }
+      }
+    },
+    {
+      "id": "m03_0070",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 3,
+          "start": 69.9,
+          "end": 80.9,
+          "beatIds": [
+            "e03_b059",
+            "e03_b060",
+            "e03_b061",
+            "e03_b062",
+            "e03_b063",
+            "e03_b064",
+            "e03_b065",
+            "e03_b066",
+            "e03_b067"
+          ]
+        },
+        {
+          "ep": 3,
+          "start": 133.2,
+          "end": 145.75,
+          "beatIds": [
+            "e03_b112",
+            "e03_b113",
+            "e03_b114",
+            "e03_b115",
+            "e03_b116",
+            "e03_b117",
+            "e03_b118"
+          ]
+        }
+      ],
+      "duration": 23.55,
+      "preScore": 18,
+      "tag": "rescue",
+      "scene": 3,
+      "hook_text": "Take your hands off her.",
+      "cliffhanger_text": "Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.",
+      "why": "The emotional focus on Juliana's reaction provides a stronger, more lingering cliffhanger than the previous clip.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Stranger's Romantic Chapel Rescue",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The emotional payoff is effective, though the sudden shift from combat to romance feels jarring."
+        }
+      }
+    },
+    {
+      "id": "m03_0071",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 3,
+          "start": 84,
+          "end": 96.3,
+          "beatIds": [
+            "e03_b070",
+            "e03_b071",
+            "e03_b072",
+            "e03_b073",
+            "e03_b074",
+            "e03_b075",
+            "e03_b076",
+            "e03_b077",
+            "e03_b078",
+            "e03_b079",
+            "e03_b080",
+            "e03_b081"
+          ]
+        },
+        {
+          "ep": 3,
+          "start": 122.5,
+          "end": 135.5,
+          "beatIds": [
+            "e03_b103",
+            "e03_b104",
+            "e03_b105",
+            "e03_b106",
+            "e03_b107",
+            "e03_b108",
+            "e03_b109",
+            "e03_b110",
+            "e03_b111",
+            "e03_b112",
+            "e03_b113"
+          ]
+        }
+      ],
+      "duration": 25.3,
+      "preScore": 18,
+      "tag": "rescue",
+      "scene": 3,
+      "hook_text": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him",
+      "cliffhanger_text": "A collective, stunned gasp rippling across the entire congregation; the immediate reaction to the proposal is left unresolved.",
+      "why": "The transition from intense combat to a tender proposal creates a compelling contrast that hooks the viewer.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 6,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "Combat Meets Romantic Proposal",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The pacing is disjointed, jumping from a fight scene directly into a proposal without sufficient connective tissue."
+        }
+      }
+    },
+    {
+      "id": "m03_0073",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 3,
+          "start": 84,
+          "end": 96.3,
+          "beatIds": [
+            "e03_b070",
+            "e03_b071",
+            "e03_b072",
+            "e03_b073",
+            "e03_b074",
+            "e03_b075",
+            "e03_b076",
+            "e03_b077",
+            "e03_b078",
+            "e03_b079",
+            "e03_b080",
+            "e03_b081"
+          ]
+        },
+        {
+          "ep": 3,
+          "start": 133.2,
+          "end": 145.75,
+          "beatIds": [
+            "e03_b112",
+            "e03_b113",
+            "e03_b114",
+            "e03_b115",
+            "e03_b116",
+            "e03_b117",
+            "e03_b118"
+          ]
+        }
+      ],
+      "duration": 24.85,
+      "preScore": 18,
+      "tag": "rescue",
+      "scene": 3,
+      "hook_text": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him",
+      "cliffhanger_text": "Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.",
+      "why": "This is the most effective edit, combining the high-octane opening with a deeply emotional, unresolved romantic climax.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 9,
+      "spoiler_risk": "low",
+      "title": "Action Hero Proposes to Stranger",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The edit feels like two separate clips spliced together rather than a cohesive narrative unit."
+        }
+      }
+    },
+    {
+      "id": "s03_0053",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 3,
+          "start": 119.8,
+          "end": 140.3,
+          "beatIds": [
+            "e03_b101",
+            "e03_b102",
+            "e03_b103",
+            "e03_b104",
+            "e03_b105",
+            "e03_b106",
+            "e03_b107",
+            "e03_b108",
+            "e03_b109",
+            "e03_b110",
+            "e03_b111",
+            "e03_b112",
+            "e03_b113",
+            "e03_b114",
+            "e03_b115",
+            "e03_b116"
+          ]
+        }
+      ],
+      "duration": 20.5,
+      "preScore": 17,
+      "tag": "reveal",
+      "scene": 3,
+      "hook_text": "You came here to become a wife.",
+      "cliffhanger_text": "Lady Juliana... accept my hand.",
+      "why": "It focuses purely on the romantic tension, but lacks the initial action hook that makes the other clips stand out.",
+      "standalone": 6,
+      "hook_3s": 5,
+      "cliff": 5,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Stranger Offers a Ring",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The hook is weak and the ending feels like a mid-sentence cut rather than a compelling cliffhanger."
+        }
+      }
+    },
+    {
+      "id": "s03_0055",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 3,
+          "start": 125.3,
+          "end": 145.75,
+          "beatIds": [
+            "e03_b106",
+            "e03_b107",
+            "e03_b108",
+            "e03_b109",
+            "e03_b110",
+            "e03_b111",
+            "e03_b112",
+            "e03_b113",
+            "e03_b114",
+            "e03_b115",
+            "e03_b116",
+            "e03_b117",
+            "e03_b118"
+          ]
+        }
+      ],
+      "duration": 20.45,
+      "preScore": 17,
+      "tag": "other",
+      "scene": 3,
+      "hook_text": "I am offering it back.",
+      "cliffhanger_text": "Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.",
+      "why": "It is a very intimate, character-focused clip that works well for romance fans but lacks broader appeal.",
+      "standalone": 6,
+      "hook_3s": 5,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Emotional Climax of the Proposal",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The clip works well as a romantic beat, though the context of the stranger's arrival is missing."
+        }
+      }
+    },
+    {
+      "id": "s03_0026",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 3,
+          "start": 69.9,
+          "end": 122.1,
+          "beatIds": [
+            "e03_b059",
+            "e03_b060",
+            "e03_b061",
+            "e03_b062",
+            "e03_b063",
+            "e03_b064",
+            "e03_b065",
+            "e03_b066",
+            "e03_b067",
+            "e03_b068",
+            "e03_b069",
+            "e03_b070",
+            "e03_b071",
+            "e03_b072",
+            "e03_b073",
+            "e03_b074",
+            "e03_b075",
+            "e03_b076",
+            "e03_b077",
+            "e03_b078",
+            "e03_b079",
+            "e03_b080",
+            "e03_b081",
+            "e03_b082",
+            "e03_b083",
+            "e03_b084",
+            "e03_b085",
+            "e03_b086",
+            "e03_b087",
+            "e03_b088",
+            "e03_b089",
+            "e03_b090",
+            "e03_b091",
+            "e03_b092",
+            "e03_b093",
+            "e03_b094",
+            "e03_b095",
+            "e03_b096",
+            "e03_b097",
+            "e03_b098",
+            "e03_b099",
+            "e03_b100",
+            "e03_b101",
+            "e03_b102"
+          ]
+        }
+      ],
+      "duration": 52.2,
+      "preScore": 16,
+      "tag": "rescue",
+      "scene": 3,
+      "hook_text": "Take your hands off her.",
+      "cliffhanger_text": "You came here to become a wife.",
+      "why": "The clip is too long and the pacing drags, ending on a line that doesn't feel like a true cliffhanger.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 3,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Stranger Confronts the Wedding",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": false,
+          "resolved": true,
+          "note": "The clip is far too long and the ending is an anti-climactic dialogue line rather than a true cliffhanger."
+        }
+      }
+    }
+  ]
+}

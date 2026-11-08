@@ -1,0 +1,945 @@
+{
+  "ep": 10,
+  "file": "episode-010-Episode 1671712.txt",
+  "meta": {
+    "ep": 10,
+    "file": "episode-010-Episode 1671712.txt",
+    "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+    "continuity": "Follows the ominous revelation from Episode 9 of rumors circulating about a scarred war veteran, cutting directly to the secluded cottage where Alexander arrives bearing fresh wounds.",
+    "duration": 94
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. WOODLAND COTTAGE – NIGHT",
+      "start": 0,
+      "end": 94
+    }
+  ],
+  "beats": [
+    {
+      "id": "e10_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 2.5
+    },
+    {
+      "id": "e10_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 2.2
+    },
+    {
+      "id": "e10_b003",
+      "type": "sfx",
+      "scene": 1,
+      "start": 2.1,
+      "end": 3.3
+    },
+    {
+      "id": "e10_b004",
+      "type": "action",
+      "scene": 1,
+      "start": 2.2,
+      "end": 3.5
+    },
+    {
+      "id": "e10_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 2.6,
+      "end": 4.2
+    },
+    {
+      "id": "e10_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.2,
+      "end": 6.8
+    },
+    {
+      "id": "e10_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 5.1,
+      "end": 6.6
+    },
+    {
+      "id": "e10_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 6.8,
+      "end": 9.1
+    },
+    {
+      "id": "e10_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 7.5,
+      "end": 9
+    },
+    {
+      "id": "e10_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.1,
+      "end": 11.5
+    },
+    {
+      "id": "e10_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 9.15,
+      "end": 11.45
+    },
+    {
+      "id": "e10_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.5,
+      "end": 14.2
+    },
+    {
+      "id": "e10_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 11.9,
+      "end": 14.3
+    },
+    {
+      "id": "e10_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 14.2,
+      "end": 16
+    },
+    {
+      "id": "e10_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 14.5,
+      "end": 16
+    },
+    {
+      "id": "e10_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 16,
+      "end": 17.8
+    },
+    {
+      "id": "e10_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 16.2,
+      "end": 17.3
+    },
+    {
+      "id": "e10_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 17.8,
+      "end": 20
+    },
+    {
+      "id": "e10_b019",
+      "type": "camera",
+      "scene": 1,
+      "start": 20,
+      "end": 23
+    },
+    {
+      "id": "e10_b020",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20.9,
+      "end": 22.9
+    },
+    {
+      "id": "e10_b021",
+      "type": "camera",
+      "scene": 1,
+      "start": 23,
+      "end": 25.2
+    },
+    {
+      "id": "e10_b022",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.2,
+      "end": 24.9
+    },
+    {
+      "id": "e10_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 25.2,
+      "end": 28
+    },
+    {
+      "id": "e10_b024",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 25.5,
+      "end": 28
+    },
+    {
+      "id": "e10_b025",
+      "type": "camera",
+      "scene": 1,
+      "start": 28,
+      "end": 31.8
+    },
+    {
+      "id": "e10_b026",
+      "type": "camera",
+      "scene": 1,
+      "start": 31.8,
+      "end": 33.2
+    },
+    {
+      "id": "e10_b027",
+      "type": "camera",
+      "scene": 1,
+      "start": 33.2,
+      "end": 36.5
+    },
+    {
+      "id": "e10_b028",
+      "type": "camera",
+      "scene": 1,
+      "start": 36.5,
+      "end": 38
+    },
+    {
+      "id": "e10_b029",
+      "type": "camera",
+      "scene": 1,
+      "start": 38,
+      "end": 39.2
+    },
+    {
+      "id": "e10_b030",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 38.1,
+      "end": 38.9
+    },
+    {
+      "id": "e10_b031",
+      "type": "camera",
+      "scene": 1,
+      "start": 39.2,
+      "end": 43
+    },
+    {
+      "id": "e10_b032",
+      "type": "camera",
+      "scene": 1,
+      "start": 43,
+      "end": 45
+    },
+    {
+      "id": "e10_b033",
+      "type": "camera",
+      "scene": 1,
+      "start": 45,
+      "end": 47.3
+    },
+    {
+      "id": "e10_b034",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 45.3,
+      "end": 47.1
+    },
+    {
+      "id": "e10_b035",
+      "type": "camera",
+      "scene": 1,
+      "start": 47.3,
+      "end": 49.5
+    },
+    {
+      "id": "e10_b036",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 47.8,
+      "end": 49
+    },
+    {
+      "id": "e10_b037",
+      "type": "camera",
+      "scene": 1,
+      "start": 49.5,
+      "end": 51.5
+    },
+    {
+      "id": "e10_b038",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 49.7,
+      "end": 51.3
+    },
+    {
+      "id": "e10_b039",
+      "type": "camera",
+      "scene": 1,
+      "start": 51.5,
+      "end": 54
+    },
+    {
+      "id": "e10_b040",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 52,
+      "end": 53.3
+    },
+    {
+      "id": "e10_b041",
+      "type": "camera",
+      "scene": 1,
+      "start": 54,
+      "end": 55.5
+    },
+    {
+      "id": "e10_b042",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 54,
+      "end": 55.2
+    },
+    {
+      "id": "e10_b043",
+      "type": "camera",
+      "scene": 1,
+      "start": 55.5,
+      "end": 58
+    },
+    {
+      "id": "e10_b044",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 55.6,
+      "end": 57.6
+    },
+    {
+      "id": "e10_b045",
+      "type": "camera",
+      "scene": 1,
+      "start": 58,
+      "end": 60
+    },
+    {
+      "id": "e10_b046",
+      "type": "camera",
+      "scene": 1,
+      "start": 60,
+      "end": 63
+    },
+    {
+      "id": "e10_b047",
+      "type": "camera",
+      "scene": 1,
+      "start": 63,
+      "end": 66.2
+    },
+    {
+      "id": "e10_b048",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 63.9,
+      "end": 66.1
+    },
+    {
+      "id": "e10_b049",
+      "type": "camera",
+      "scene": 1,
+      "start": 66.2,
+      "end": 68.8
+    },
+    {
+      "id": "e10_b050",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 66.5,
+      "end": 68.4
+    },
+    {
+      "id": "e10_b051",
+      "type": "camera",
+      "scene": 1,
+      "start": 68.8,
+      "end": 71.5
+    },
+    {
+      "id": "e10_b052",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 69.6,
+      "end": 70.9
+    },
+    {
+      "id": "e10_b053",
+      "type": "camera",
+      "scene": 1,
+      "start": 71.5,
+      "end": 74.5
+    },
+    {
+      "id": "e10_b054",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 72.1,
+      "end": 74.2
+    },
+    {
+      "id": "e10_b055",
+      "type": "camera",
+      "scene": 1,
+      "start": 74.5,
+      "end": 77
+    },
+    {
+      "id": "e10_b056",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 76.8,
+      "end": 79
+    },
+    {
+      "id": "e10_b057",
+      "type": "camera",
+      "scene": 1,
+      "start": 79,
+      "end": 82.5
+    },
+    {
+      "id": "e10_b058",
+      "type": "camera",
+      "scene": 1,
+      "start": 82.5,
+      "end": 86.5
+    },
+    {
+      "id": "e10_b059",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 82.6,
+      "end": 85.9
+    },
+    {
+      "id": "e10_b060",
+      "type": "camera",
+      "scene": 1,
+      "start": 86.5,
+      "end": 94
+    }
+  ],
+  "scores": {
+    "e10_b002": {
+      "id": "e10_b002",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e10_b003": {
+      "id": "e10_b003",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b004": {
+      "id": "e10_b004",
+      "hook": 8,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e10_b007": {
+      "id": "e10_b007",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e10_b009": {
+      "id": "e10_b009",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e10_b011": {
+      "id": "e10_b011",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b013": {
+      "id": "e10_b013",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b015": {
+      "id": "e10_b015",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b017": {
+      "id": "e10_b017",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b018": {
+      "id": "e10_b018",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b020": {
+      "id": "e10_b020",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e10_b022": {
+      "id": "e10_b022",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b024": {
+      "id": "e10_b024",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b025": {
+      "id": "e10_b025",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b026": {
+      "id": "e10_b026",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b027": {
+      "id": "e10_b027",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "reveal"
+    },
+    "e10_b028": {
+      "id": "e10_b028",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "reveal"
+    },
+    "e10_b030": {
+      "id": "e10_b030",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b031": {
+      "id": "e10_b031",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b032": {
+      "id": "e10_b032",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b034": {
+      "id": "e10_b034",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b036": {
+      "id": "e10_b036",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b038": {
+      "id": "e10_b038",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b040": {
+      "id": "e10_b040",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b042": {
+      "id": "e10_b042",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b044": {
+      "id": "e10_b044",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b045": {
+      "id": "e10_b045",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b046": {
+      "id": "e10_b046",
+      "hook": 2,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b048": {
+      "id": "e10_b048",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b050": {
+      "id": "e10_b050",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "confession"
+    },
+    "e10_b052": {
+      "id": "e10_b052",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b054": {
+      "id": "e10_b054",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b056": {
+      "id": "e10_b056",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "kiss"
+    },
+    "e10_b057": {
+      "id": "e10_b057",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e10_b059": {
+      "id": "e10_b059",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 0,
+      "tag": "confession"
+    },
+    "e10_b060": {
+      "id": "e10_b060",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "m10_0090",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 10,
+          "start": 2.2,
+          "end": 14.3,
+          "beatIds": [
+            "e10_b004",
+            "e10_b005",
+            "e10_b006",
+            "e10_b007",
+            "e10_b008",
+            "e10_b009",
+            "e10_b010",
+            "e10_b011",
+            "e10_b012",
+            "e10_b013",
+            "e10_b014"
+          ]
+        },
+        {
+          "ep": 10,
+          "start": 72.1,
+          "end": 85.9,
+          "beatIds": [
+            "e10_b054",
+            "e10_b055",
+            "e10_b056",
+            "e10_b057",
+            "e10_b058",
+            "e10_b059"
+          ]
+        }
+      ],
+      "duration": 25.9,
+      "preScore": 14.83,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "Juliana jerks her head up from the book, startled by the sudden intrusion.",
+      "cliffhanger_text": "Your touch is the only medicine that has ever eased my pain; the scene ends with them on the verge of a romantic encounter.",
+      "why": "The clip establishes immediate stakes with a wounded character and transitions effectively into a romantic tension-filled climax.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Wounded Intruder Romantic Tension",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden entry without context makes the relationship and the urgency of the injury feel unearned and confusing."
+        }
+      }
+    },
+    {
+      "id": "s10_0089",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 10,
+          "start": 33.2,
+          "end": 85.9,
+          "beatIds": [
+            "e10_b027",
+            "e10_b028",
+            "e10_b029",
+            "e10_b030",
+            "e10_b031",
+            "e10_b032",
+            "e10_b033",
+            "e10_b034",
+            "e10_b035",
+            "e10_b036",
+            "e10_b037",
+            "e10_b038",
+            "e10_b039",
+            "e10_b040",
+            "e10_b041",
+            "e10_b042",
+            "e10_b043",
+            "e10_b044",
+            "e10_b045",
+            "e10_b046",
+            "e10_b047",
+            "e10_b048",
+            "e10_b049",
+            "e10_b050",
+            "e10_b051",
+            "e10_b052",
+            "e10_b053",
+            "e10_b054",
+            "e10_b055",
+            "e10_b056",
+            "e10_b057",
+            "e10_b058",
+            "e10_b059"
+          ]
+        }
+      ],
+      "duration": 52.7,
+      "preScore": 13.95,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars.",
+      "cliffhanger_text": "Your touch is the only medicine that has ever eased my pain; the scene ends with them on the verge of a romantic encounter.",
+      "why": "The long duration allows for a deep emotional build-up, but it feels more like a full scene than a punchy social media promo.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "Healing Scars And Romantic Connection",
+      "score": 0,
+      "qc": {
+        "pass": false,
+        "flags": [
+          "no_content_in_first_3s"
+        ],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The clip is far too long and loses its impact by dragging out the romantic tension for nearly a minute."
+        }
+      }
+    },
+    {
+      "id": "m10_0093",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 10,
+          "start": 33.2,
+          "end": 45,
+          "beatIds": [
+            "e10_b027",
+            "e10_b028",
+            "e10_b029",
+            "e10_b030",
+            "e10_b031",
+            "e10_b032"
+          ]
+        },
+        {
+          "ep": 10,
+          "start": 72.1,
+          "end": 85.9,
+          "beatIds": [
+            "e10_b054",
+            "e10_b055",
+            "e10_b056",
+            "e10_b057",
+            "e10_b058",
+            "e10_b059"
+          ]
+        }
+      ],
+      "duration": 25.6,
+      "preScore": 13.89,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars.",
+      "cliffhanger_text": "Your touch is the only medicine that has ever eased my pain; the scene ends with them on the verge of a romantic encounter.",
+      "why": "The visual of the scars provides a strong, immediate hook that draws the viewer into the intimacy of the scene.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Scars And Intimate Healing Moment",
+      "score": 0,
+      "qc": {
+        "pass": false,
+        "flags": [
+          "no_content_in_first_3s"
+        ],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The jump cut between the initial shock of the wounds and the intimate romantic climax feels jarring and disjointed."
+        }
+      }
+    },
+    {
+      "id": "m10_0094",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 10,
+          "start": 33.2,
+          "end": 45,
+          "beatIds": [
+            "e10_b027",
+            "e10_b028",
+            "e10_b029",
+            "e10_b030",
+            "e10_b031",
+            "e10_b032"
+          ]
+        },
+        {
+          "ep": 10,
+          "start": 66.5,
+          "end": 79,
+          "beatIds": [
+            "e10_b050",
+            "e10_b051",
+            "e10_b052",
+            "e10_b053",
+            "e10_b054",
+            "e10_b055",
+            "e10_b056"
+          ]
+        }
+      ],
+      "duration": 24.3,
+      "preScore": 12.89,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars.",
+      "cliffhanger_text": "Perhaps it is your hand; the scene leaves the viewer wondering if they will kiss.",
+      "why": "The transition from the visual shock of the wounds to the dialogue-heavy romantic tension creates a compelling narrative arc.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Battle Scars To Romantic Proximity",
+      "score": 0,
+      "qc": {
+        "pass": false,
+        "flags": [
+          "no_content_in_first_3s"
+        ],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The transition between the medical care and the romantic dialogue is abrupt and lacks a natural narrative flow."
+        }
+      }
+    }
+  ]
+}

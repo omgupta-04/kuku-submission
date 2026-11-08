@@ -1,0 +1,639 @@
+{
+  "ep": 26,
+  "file": "episode-026-Episode 1678579.txt",
+  "meta": {
+    "ep": 26,
+    "file": "episode-026-Episode 1678579.txt",
+    "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+    "continuity": "Following her encounter with Alexander in the forest where she vowed to protect the Duchess, Juliana sneaks into the bedchamber at Ashburg Manor to deliver the remaining antidote before Rupert and Catherine's poison takes full hold.",
+    "duration": 120.88
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – NIGHT",
+      "start": 0,
+      "end": 120.88
+    }
+  ],
+  "beats": [
+    {
+      "id": "e26_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 5.8
+    },
+    {
+      "id": "e26_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 5.5
+    },
+    {
+      "id": "e26_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 5.8,
+      "end": 10.5
+    },
+    {
+      "id": "e26_b004",
+      "type": "sfx",
+      "scene": 1,
+      "start": 6.5,
+      "end": 9
+    },
+    {
+      "id": "e26_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 10.5,
+      "end": 14.2
+    },
+    {
+      "id": "e26_b006",
+      "type": "action",
+      "scene": 1,
+      "start": 11,
+      "end": 14
+    },
+    {
+      "id": "e26_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 14.2,
+      "end": 20.5
+    },
+    {
+      "id": "e26_b008",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 14.2,
+      "end": 20.2
+    },
+    {
+      "id": "e26_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 20.5,
+      "end": 25.8
+    },
+    {
+      "id": "e26_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20.6,
+      "end": 25.4
+    },
+    {
+      "id": "e26_b011",
+      "type": "camera",
+      "scene": 1,
+      "start": 25.8,
+      "end": 28.5
+    },
+    {
+      "id": "e26_b012",
+      "type": "action",
+      "scene": 1,
+      "start": 25.8,
+      "end": 28.4
+    },
+    {
+      "id": "e26_b013",
+      "type": "camera",
+      "scene": 1,
+      "start": 28.5,
+      "end": 30.8
+    },
+    {
+      "id": "e26_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 30.8,
+      "end": 35.8
+    },
+    {
+      "id": "e26_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 30.8,
+      "end": 35.5
+    },
+    {
+      "id": "e26_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 35.8,
+      "end": 40.2
+    },
+    {
+      "id": "e26_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 36,
+      "end": 39.8
+    },
+    {
+      "id": "e26_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 40.2,
+      "end": 43.2
+    },
+    {
+      "id": "e26_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 40.3,
+      "end": 43
+    },
+    {
+      "id": "e26_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 43.2,
+      "end": 47.5
+    },
+    {
+      "id": "e26_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 43.5,
+      "end": 47
+    },
+    {
+      "id": "e26_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 47.5,
+      "end": 50.8
+    },
+    {
+      "id": "e26_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 50.8,
+      "end": 55.8
+    },
+    {
+      "id": "e26_b024",
+      "type": "action",
+      "scene": 1,
+      "start": 52.5,
+      "end": 55.5
+    },
+    {
+      "id": "e26_b025",
+      "type": "camera",
+      "scene": 1,
+      "start": 55.8,
+      "end": 62.5
+    },
+    {
+      "id": "e26_b026",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 56,
+      "end": 62
+    },
+    {
+      "id": "e26_b027",
+      "type": "camera",
+      "scene": 1,
+      "start": 62.5,
+      "end": 67
+    },
+    {
+      "id": "e26_b028",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 62.6,
+      "end": 66.7
+    },
+    {
+      "id": "e26_b029",
+      "type": "camera",
+      "scene": 1,
+      "start": 67,
+      "end": 71.8
+    },
+    {
+      "id": "e26_b030",
+      "type": "camera",
+      "scene": 1,
+      "start": 71.8,
+      "end": 79.6
+    },
+    {
+      "id": "e26_b031",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 73.8,
+      "end": 79.4
+    },
+    {
+      "id": "e26_b032",
+      "type": "camera",
+      "scene": 1,
+      "start": 79.6,
+      "end": 86.5
+    },
+    {
+      "id": "e26_b033",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 80,
+      "end": 85.8
+    },
+    {
+      "id": "e26_b034",
+      "type": "camera",
+      "scene": 1,
+      "start": 86.5,
+      "end": 90.8
+    },
+    {
+      "id": "e26_b035",
+      "type": "action",
+      "scene": 1,
+      "start": 87,
+      "end": 90.5
+    },
+    {
+      "id": "e26_b036",
+      "type": "sfx",
+      "scene": 1,
+      "start": 90.2,
+      "end": 92
+    },
+    {
+      "id": "e26_b037",
+      "type": "camera",
+      "scene": 1,
+      "start": 90.8,
+      "end": 95
+    },
+    {
+      "id": "e26_b038",
+      "type": "action",
+      "scene": 1,
+      "start": 90.8,
+      "end": 95
+    },
+    {
+      "id": "e26_b039",
+      "type": "camera",
+      "scene": 1,
+      "start": 95,
+      "end": 100
+    },
+    {
+      "id": "e26_b040",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 96,
+      "end": 99.8
+    },
+    {
+      "id": "e26_b041",
+      "type": "camera",
+      "scene": 1,
+      "start": 100,
+      "end": 105.5
+    },
+    {
+      "id": "e26_b042",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 100.5,
+      "end": 105
+    },
+    {
+      "id": "e26_b043",
+      "type": "camera",
+      "scene": 1,
+      "start": 105.5,
+      "end": 109
+    },
+    {
+      "id": "e26_b044",
+      "type": "action",
+      "scene": 1,
+      "start": 106,
+      "end": 109
+    },
+    {
+      "id": "e26_b045",
+      "type": "sfx",
+      "scene": 1,
+      "start": 108.8,
+      "end": 110
+    },
+    {
+      "id": "e26_b046",
+      "type": "camera",
+      "scene": 1,
+      "start": 109,
+      "end": 110.8
+    },
+    {
+      "id": "e26_b047",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 109.2,
+      "end": 110.6
+    },
+    {
+      "id": "e26_b048",
+      "type": "camera",
+      "scene": 1,
+      "start": 110.8,
+      "end": 115.8
+    },
+    {
+      "id": "e26_b049",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 111,
+      "end": 115.5
+    },
+    {
+      "id": "e26_b050",
+      "type": "camera",
+      "scene": 1,
+      "start": 115.8,
+      "end": 119.5
+    },
+    {
+      "id": "e26_b051",
+      "type": "camera",
+      "scene": 1,
+      "start": 119.5,
+      "end": 120.88
+    }
+  ],
+  "scores": {
+    "e26_b002": {
+      "id": "e26_b002",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "rescue"
+    },
+    "e26_b004": {
+      "id": "e26_b004",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b006": {
+      "id": "e26_b006",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b008": {
+      "id": "e26_b008",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e26_b010": {
+      "id": "e26_b010",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e26_b012": {
+      "id": "e26_b012",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e26_b013": {
+      "id": "e26_b013",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b015": {
+      "id": "e26_b015",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "identity"
+    },
+    "e26_b017": {
+      "id": "e26_b017",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e26_b019": {
+      "id": "e26_b019",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e26_b021": {
+      "id": "e26_b021",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e26_b022": {
+      "id": "e26_b022",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b024": {
+      "id": "e26_b024",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e26_b026": {
+      "id": "e26_b026",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e26_b028": {
+      "id": "e26_b028",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "rescue"
+    },
+    "e26_b029": {
+      "id": "e26_b029",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b031": {
+      "id": "e26_b031",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e26_b033": {
+      "id": "e26_b033",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e26_b035": {
+      "id": "e26_b035",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e26_b036": {
+      "id": "e26_b036",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e26_b038": {
+      "id": "e26_b038",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e26_b040": {
+      "id": "e26_b040",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e26_b042": {
+      "id": "e26_b042",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b044": {
+      "id": "e26_b044",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b045": {
+      "id": "e26_b045",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b047": {
+      "id": "e26_b047",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e26_b049": {
+      "id": "e26_b049",
+      "hook": 8,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e26_b050": {
+      "id": "e26_b050",
+      "hook": 7,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e26_b051": {
+      "id": "e26_b051",
+      "hook": 8,
+      "cliff": 10,
+      "context_need": 2,
+      "tag": "identity"
+    }
+  },
+  "promos": [
+    {
+      "id": "s26_0295",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 26,
+          "start": 90.2,
+          "end": 120.88,
+          "beatIds": [
+            "e26_b036",
+            "e26_b037",
+            "e26_b038",
+            "e26_b039",
+            "e26_b040",
+            "e26_b041",
+            "e26_b042",
+            "e26_b043",
+            "e26_b044",
+            "e26_b045",
+            "e26_b046",
+            "e26_b047",
+            "e26_b048",
+            "e26_b049",
+            "e26_b050",
+            "e26_b051"
+          ]
+        }
+      ],
+      "duration": 30.68,
+      "preScore": 16,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "A sharp, stunned gasp. The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+      "cliffhanger_text": "The Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells.",
+      "why": "The immediate visceral reaction of the Duchess creates an effective mystery regarding the ring that compels the viewer to want to know the connection between the two characters.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Secret Of The Ring",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip relies on the viewer knowing the significance of the ring and the relationship between the characters, which is not established."
+        }
+      }
+    }
+  ]
+}

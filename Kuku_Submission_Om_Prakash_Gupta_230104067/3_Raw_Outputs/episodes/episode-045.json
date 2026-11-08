@@ -1,0 +1,1313 @@
+{
+  "ep": 45,
+  "file": "episode-045-Episode 1686805.txt",
+  "meta": {
+    "ep": 45,
+    "file": "episode-045-Episode 1686805.txt",
+    "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+    "continuity": "Picks up directly from Episode 44's climax where Alexander walked away from Catherine towards Juliana standing in chains at the church doorway.",
+    "duration": 121.75
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. CATHEDRAL NAVE – CONTINUOUS",
+      "start": 0,
+      "end": 48.9
+    },
+    {
+      "n": 2,
+      "heading": "INT. CATHEDRAL – CONTINUOUS",
+      "start": 48.9,
+      "end": 86.5
+    },
+    {
+      "n": 3,
+      "heading": "INT. CATHEDRAL ENTRANCE – CONTINUOUS",
+      "start": 86.5,
+      "end": 121.75
+    }
+  ],
+  "beats": [
+    {
+      "id": "e45_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": "e45_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 2.8
+    },
+    {
+      "id": "e45_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 2.8,
+      "end": 5
+    },
+    {
+      "id": "e45_b004",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 3.2,
+      "end": 4.8
+    },
+    {
+      "id": "e45_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 5,
+      "end": 8.5
+    },
+    {
+      "id": "e45_b006",
+      "type": "action",
+      "scene": 1,
+      "start": 5.2,
+      "end": 7.8
+    },
+    {
+      "id": "e45_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 7.4,
+      "end": 8.9
+    },
+    {
+      "id": "e45_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 8.8,
+      "end": 9.9
+    },
+    {
+      "id": "e45_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.9,
+      "end": 12.2
+    },
+    {
+      "id": "e45_b010",
+      "type": "sfx",
+      "scene": 1,
+      "start": 10.2,
+      "end": 11.8
+    },
+    {
+      "id": "e45_b011",
+      "type": "camera",
+      "scene": 1,
+      "start": 12.2,
+      "end": 15
+    },
+    {
+      "id": "e45_b012",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 12.5,
+      "end": 14.3
+    },
+    {
+      "id": "e45_b013",
+      "type": "camera",
+      "scene": 1,
+      "start": 15,
+      "end": 21.8
+    },
+    {
+      "id": "e45_b014",
+      "type": "action",
+      "scene": 1,
+      "start": 15.2,
+      "end": 18.5
+    },
+    {
+      "id": "e45_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 17.1,
+      "end": 18.7
+    },
+    {
+      "id": "e45_b016",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 19.4,
+      "end": 21.5
+    },
+    {
+      "id": "e45_b017",
+      "type": "camera",
+      "scene": 1,
+      "start": 21.8,
+      "end": 24.5
+    },
+    {
+      "id": "e45_b018",
+      "type": "action",
+      "scene": 1,
+      "start": 21.9,
+      "end": 24.2
+    },
+    {
+      "id": "e45_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 22.9,
+      "end": 24.4
+    },
+    {
+      "id": "e45_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 24.5,
+      "end": 27.2
+    },
+    {
+      "id": "e45_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 24.6,
+      "end": 27.4
+    },
+    {
+      "id": "e45_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 27.2,
+      "end": 29.8
+    },
+    {
+      "id": "e45_b023",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 27.6,
+      "end": 29.6
+    },
+    {
+      "id": "e45_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 29.8,
+      "end": 35.8
+    },
+    {
+      "id": "e45_b025",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 30.2,
+      "end": 33
+    },
+    {
+      "id": "e45_b026",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 33.2,
+      "end": 34.9
+    },
+    {
+      "id": "e45_b027",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 35.1,
+      "end": 36.8
+    },
+    {
+      "id": "e45_b028",
+      "type": "camera",
+      "scene": 1,
+      "start": 35.8,
+      "end": 38.5
+    },
+    {
+      "id": "e45_b029",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 37,
+      "end": 38.7
+    },
+    {
+      "id": "e45_b030",
+      "type": "camera",
+      "scene": 1,
+      "start": 38.5,
+      "end": 42
+    },
+    {
+      "id": "e45_b031",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 38.8,
+      "end": 41.8
+    },
+    {
+      "id": "e45_b032",
+      "type": "camera",
+      "scene": 1,
+      "start": 42,
+      "end": 48.9
+    },
+    {
+      "id": "e45_b033",
+      "type": "action",
+      "scene": 1,
+      "start": 42.2,
+      "end": 48.5
+    },
+    {
+      "id": "e45_b034",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 43.8,
+      "end": 46
+    },
+    {
+      "id": "e45_b035",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 46.1,
+      "end": 48.8
+    },
+    {
+      "id": "e45_b036",
+      "type": "camera",
+      "scene": 2,
+      "start": 48.9,
+      "end": 51.8
+    },
+    {
+      "id": "e45_b037",
+      "type": "action",
+      "scene": 2,
+      "start": 49,
+      "end": 51.5
+    },
+    {
+      "id": "e45_b038",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 49.8,
+      "end": 51.5
+    },
+    {
+      "id": "e45_b039",
+      "type": "camera",
+      "scene": 2,
+      "start": 51.8,
+      "end": 58.2
+    },
+    {
+      "id": "e45_b040",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 54,
+      "end": 58
+    },
+    {
+      "id": "e45_b041",
+      "type": "camera",
+      "scene": 2,
+      "start": 58.2,
+      "end": 62.5
+    },
+    {
+      "id": "e45_b042",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 58.2,
+      "end": 59.8
+    },
+    {
+      "id": "e45_b043",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 60,
+      "end": 62.4
+    },
+    {
+      "id": "e45_b044",
+      "type": "camera",
+      "scene": 2,
+      "start": 62.5,
+      "end": 67
+    },
+    {
+      "id": "e45_b045",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 62.6,
+      "end": 66.8
+    },
+    {
+      "id": "e45_b046",
+      "type": "camera",
+      "scene": 2,
+      "start": 67,
+      "end": 71.2
+    },
+    {
+      "id": "e45_b047",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 68.8,
+      "end": 70.5
+    },
+    {
+      "id": "e45_b048",
+      "type": "camera",
+      "scene": 2,
+      "start": 71.2,
+      "end": 74.5
+    },
+    {
+      "id": "e45_b049",
+      "type": "action",
+      "scene": 2,
+      "start": 71.2,
+      "end": 74.5
+    },
+    {
+      "id": "e45_b050",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 71.5,
+      "end": 74
+    },
+    {
+      "id": "e45_b051",
+      "type": "camera",
+      "scene": 2,
+      "start": 74.5,
+      "end": 80.5
+    },
+    {
+      "id": "e45_b052",
+      "type": "action",
+      "scene": 2,
+      "start": 74.6,
+      "end": 80
+    },
+    {
+      "id": "e45_b053",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 74.8,
+      "end": 80.4
+    },
+    {
+      "id": "e45_b054",
+      "type": "camera",
+      "scene": 2,
+      "start": 80.5,
+      "end": 83.5
+    },
+    {
+      "id": "e45_b055",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 81.5,
+      "end": 83
+    },
+    {
+      "id": "e45_b056",
+      "type": "camera",
+      "scene": 2,
+      "start": 83.5,
+      "end": 86.5
+    },
+    {
+      "id": "e45_b057",
+      "type": "camera",
+      "scene": 3,
+      "start": 86.5,
+      "end": 90.5
+    },
+    {
+      "id": "e45_b058",
+      "type": "sfx",
+      "scene": 3,
+      "start": 86.5,
+      "end": 88.2
+    },
+    {
+      "id": "e45_b059",
+      "type": "action",
+      "scene": 3,
+      "start": 87.5,
+      "end": 91
+    },
+    {
+      "id": "e45_b060",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 88.4,
+      "end": 90.8
+    },
+    {
+      "id": "e45_b061",
+      "type": "camera",
+      "scene": 3,
+      "start": 90.8,
+      "end": 93
+    },
+    {
+      "id": "e45_b062",
+      "type": "camera",
+      "scene": 3,
+      "start": 93,
+      "end": 101.2
+    },
+    {
+      "id": "e45_b063",
+      "type": "action",
+      "scene": 3,
+      "start": 93.2,
+      "end": 101
+    },
+    {
+      "id": "e45_b064",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 93.2,
+      "end": 101.1
+    },
+    {
+      "id": "e45_b065",
+      "type": "camera",
+      "scene": 3,
+      "start": 101.2,
+      "end": 105.8
+    },
+    {
+      "id": "e45_b066",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 101.5,
+      "end": 105.5
+    },
+    {
+      "id": "e45_b067",
+      "type": "camera",
+      "scene": 3,
+      "start": 105.8,
+      "end": 108.8
+    },
+    {
+      "id": "e45_b068",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 106.2,
+      "end": 108.8
+    },
+    {
+      "id": "e45_b069",
+      "type": "camera",
+      "scene": 3,
+      "start": 108.8,
+      "end": 113.2
+    },
+    {
+      "id": "e45_b070",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 109,
+      "end": 113
+    },
+    {
+      "id": "e45_b071",
+      "type": "camera",
+      "scene": 3,
+      "start": 113.2,
+      "end": 117.5
+    },
+    {
+      "id": "e45_b072",
+      "type": "action",
+      "scene": 3,
+      "start": 113.5,
+      "end": 117.2
+    },
+    {
+      "id": "e45_b073",
+      "type": "camera",
+      "scene": 3,
+      "start": 117.5,
+      "end": 121.75
+    },
+    {
+      "id": "e45_b074",
+      "type": "action",
+      "scene": 3,
+      "start": 118,
+      "end": 121.75
+    }
+  ],
+  "scores": {
+    "e45_b002": {
+      "id": "e45_b002",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "rescue"
+    },
+    "e45_b004": {
+      "id": "e45_b004",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e45_b006": {
+      "id": "e45_b006",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e45_b007": {
+      "id": "e45_b007",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e45_b010": {
+      "id": "e45_b010",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "rescue"
+    },
+    "e45_b012": {
+      "id": "e45_b012",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "identity"
+    },
+    "e45_b014": {
+      "id": "e45_b014",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "identity"
+    },
+    "e45_b015": {
+      "id": "e45_b015",
+      "hook": 5,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "identity"
+    },
+    "e45_b016": {
+      "id": "e45_b016",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "confession"
+    },
+    "e45_b018": {
+      "id": "e45_b018",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e45_b019": {
+      "id": "e45_b019",
+      "hook": 5,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e45_b021": {
+      "id": "e45_b021",
+      "hook": 6,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e45_b023": {
+      "id": "e45_b023",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e45_b025": {
+      "id": "e45_b025",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e45_b026": {
+      "id": "e45_b026",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e45_b027": {
+      "id": "e45_b027",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e45_b029": {
+      "id": "e45_b029",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e45_b031": {
+      "id": "e45_b031",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e45_b033": {
+      "id": "e45_b033",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "kiss"
+    },
+    "e45_b034": {
+      "id": "e45_b034",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e45_b035": {
+      "id": "e45_b035",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e45_b037": {
+      "id": "e45_b037",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e45_b038": {
+      "id": "e45_b038",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e45_b040": {
+      "id": "e45_b040",
+      "hook": 7,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "threat"
+    },
+    "e45_b042": {
+      "id": "e45_b042",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e45_b043": {
+      "id": "e45_b043",
+      "hook": 7,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e45_b045": {
+      "id": "e45_b045",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "confession"
+    },
+    "e45_b047": {
+      "id": "e45_b047",
+      "hook": 8,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "reveal"
+    },
+    "e45_b049": {
+      "id": "e45_b049",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e45_b050": {
+      "id": "e45_b050",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e45_b052": {
+      "id": "e45_b052",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e45_b053": {
+      "id": "e45_b053",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "reveal"
+    },
+    "e45_b055": {
+      "id": "e45_b055",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e45_b056": {
+      "id": "e45_b056",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e45_b058": {
+      "id": "e45_b058",
+      "hook": 8,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e45_b059": {
+      "id": "e45_b059",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e45_b060": {
+      "id": "e45_b060",
+      "hook": 8,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e45_b063": {
+      "id": "e45_b063",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e45_b064": {
+      "id": "e45_b064",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 3,
+      "tag": "reveal"
+    },
+    "e45_b066": {
+      "id": "e45_b066",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 3,
+      "tag": "reveal"
+    },
+    "e45_b068": {
+      "id": "e45_b068",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e45_b070": {
+      "id": "e45_b070",
+      "hook": 7,
+      "cliff": 9,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e45_b072": {
+      "id": "e45_b072",
+      "hook": 5,
+      "cliff": 8,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e45_b074": {
+      "id": "e45_b074",
+      "hook": 9,
+      "cliff": 10,
+      "context_need": 4,
+      "tag": "betrayal"
+    }
+  },
+  "promos": [
+    {
+      "id": "m45_0539",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 45,
+          "start": 86.5,
+          "end": 101.1,
+          "beatIds": [
+            "e45_b057",
+            "e45_b058",
+            "e45_b059",
+            "e45_b060",
+            "e45_b061",
+            "e45_b062",
+            "e45_b063",
+            "e45_b064"
+          ]
+        },
+        {
+          "ep": 45,
+          "start": 109,
+          "end": 121.75,
+          "beatIds": [
+            "e45_b070",
+            "e45_b071",
+            "e45_b072",
+            "e45_b073",
+            "e45_b074"
+          ]
+        }
+      ],
+      "duration": 27.35,
+      "preScore": 16.69,
+      "tag": "other",
+      "scene": 3,
+      "hook_text": "Loud, echoing thud of cathedral doors swinging open violently.",
+      "cliffhanger_text": "Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces.",
+      "why": "The immediate conflict and high-stakes interruption create an effective, fast-paced narrative hook.",
+      "standalone": 7,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "Cathedral Marriage Interruption Drama",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden introduction of the High Priest without context makes the conflict feel abrupt and confusing."
+        }
+      }
+    },
+    {
+      "id": "s45_0506",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 45,
+          "start": 68.8,
+          "end": 121.75,
+          "beatIds": [
+            "e45_b047",
+            "e45_b048",
+            "e45_b049",
+            "e45_b050",
+            "e45_b051",
+            "e45_b052",
+            "e45_b053",
+            "e45_b054",
+            "e45_b055",
+            "e45_b056",
+            "e45_b057",
+            "e45_b058",
+            "e45_b059",
+            "e45_b060",
+            "e45_b061",
+            "e45_b062",
+            "e45_b063",
+            "e45_b064",
+            "e45_b065",
+            "e45_b066",
+            "e45_b067",
+            "e45_b068",
+            "e45_b069",
+            "e45_b070",
+            "e45_b071",
+            "e45_b072",
+            "e45_b073",
+            "e45_b074"
+          ]
+        }
+      ],
+      "duration": 52.95,
+      "preScore": 16.47,
+      "tag": "reveal",
+      "scene": 2,
+      "hook_text": "Catherine (Trembling, Stunned): Wife?!",
+      "cliffhanger_text": "Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces.",
+      "why": "The clip provides a complete arc from the announcement of marriage to the public humiliation of the protagonist, making it very engaging.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 8,
+      "emotion": 9,
+      "spoiler_risk": "high",
+      "title": "The Duchess Marriage Scandal",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "This clip provides enough context to understand the stakes and ends on a strong, unresolved cliffhanger."
+        }
+      }
+    },
+    {
+      "id": "m45_0536",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 45,
+          "start": 68.8,
+          "end": 80.4,
+          "beatIds": [
+            "e45_b047",
+            "e45_b048",
+            "e45_b049",
+            "e45_b050",
+            "e45_b051",
+            "e45_b052",
+            "e45_b053"
+          ]
+        },
+        {
+          "ep": 45,
+          "start": 109,
+          "end": 121.75,
+          "beatIds": [
+            "e45_b070",
+            "e45_b071",
+            "e45_b072",
+            "e45_b073",
+            "e45_b074"
+          ]
+        }
+      ],
+      "duration": 24.35,
+      "preScore": 16.31,
+      "tag": "reveal",
+      "scene": 2,
+      "hook_text": "Catherine (Trembling, Stunned): Wife?!",
+      "cliffhanger_text": "Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces.",
+      "why": "It effectively contrasts the joy of a wedding announcement with the sudden, crushing reality of a legal invalidation.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "Wedding Announcement Turned Disaster",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The transition between the marriage announcement and the interruption is effective and maintains tension."
+        }
+      }
+    },
+    {
+      "id": "s45_0508",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 45,
+          "start": 86.5,
+          "end": 113,
+          "beatIds": [
+            "e45_b057",
+            "e45_b058",
+            "e45_b059",
+            "e45_b060",
+            "e45_b061",
+            "e45_b062",
+            "e45_b063",
+            "e45_b064",
+            "e45_b065",
+            "e45_b066",
+            "e45_b067",
+            "e45_b068",
+            "e45_b069",
+            "e45_b070"
+          ]
+        }
+      ],
+      "duration": 26.5,
+      "preScore": 15.75,
+      "tag": "other",
+      "scene": 3,
+      "hook_text": "Loud, echoing thud of cathedral doors swinging open violently.",
+      "cliffhanger_text": "You are not Alexander Ashburton's lawful wife.",
+      "why": "The clip focuses purely on the legal and social destruction of the marriage, which is compelling but lacks the personal reaction shots of other clips.",
+      "standalone": 6,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Bishop's Legal Condemnation",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "Starting with a loud door slam without establishing the scene leaves the viewer disoriented."
+        }
+      }
+    },
+    {
+      "id": "s45_0535",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 45,
+          "start": 93.2,
+          "end": 121.75,
+          "beatIds": [
+            "e45_b063",
+            "e45_b064",
+            "e45_b065",
+            "e45_b066",
+            "e45_b067",
+            "e45_b068",
+            "e45_b069",
+            "e45_b070",
+            "e45_b071",
+            "e45_b072",
+            "e45_b073",
+            "e45_b074"
+          ]
+        }
+      ],
+      "duration": 28.55,
+      "preScore": 15.5,
+      "tag": "reveal",
+      "scene": 3,
+      "hook_text": "The Priest holds up the sealed royal proclamation, holding his rosary beads as he marches forward.",
+      "cliffhanger_text": "Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces.",
+      "why": "Starting mid-action is disorienting for a new viewer, though the ending provides a strong emotional payoff.",
+      "standalone": 5,
+      "hook_3s": 4,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "Royal Proclamation Destroys Marriage",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip lacks the necessary setup to explain why the Priest is interrupting the ceremony."
+        }
+      }
+    },
+    {
+      "id": "m45_0537",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 45,
+          "start": 68.8,
+          "end": 80.4,
+          "beatIds": [
+            "e45_b047",
+            "e45_b048",
+            "e45_b049",
+            "e45_b050",
+            "e45_b051",
+            "e45_b052",
+            "e45_b053"
+          ]
+        },
+        {
+          "ep": 45,
+          "start": 93.2,
+          "end": 113,
+          "beatIds": [
+            "e45_b063",
+            "e45_b064",
+            "e45_b065",
+            "e45_b066",
+            "e45_b067",
+            "e45_b068",
+            "e45_b069",
+            "e45_b070"
+          ]
+        }
+      ],
+      "duration": 31.4,
+      "preScore": 15.45,
+      "tag": "reveal",
+      "scene": 2,
+      "hook_text": "Catherine (Trembling, Stunned): Wife?!",
+      "cliffhanger_text": "You are not Alexander Ashburton's lawful wife.",
+      "why": "The transition from the wedding announcement to the legal invalidation is clear, but the ending feels slightly abrupt.",
+      "standalone": 7,
+      "hook_3s": 7,
+      "cliff": 6,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "Marriage Announcement And Legal Rejection",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The contrast between the wedding joy and the legal invalidation creates a clear, unresolved conflict."
+        }
+      }
+    },
+    {
+      "id": "s45_0517",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 45,
+          "start": 54,
+          "end": 108.8,
+          "beatIds": [
+            "e45_b040",
+            "e45_b041",
+            "e45_b042",
+            "e45_b043",
+            "e45_b044",
+            "e45_b045",
+            "e45_b046",
+            "e45_b047",
+            "e45_b048",
+            "e45_b049",
+            "e45_b050",
+            "e45_b051",
+            "e45_b052",
+            "e45_b053",
+            "e45_b054",
+            "e45_b055",
+            "e45_b056",
+            "e45_b057",
+            "e45_b058",
+            "e45_b059",
+            "e45_b060",
+            "e45_b061",
+            "e45_b062",
+            "e45_b063",
+            "e45_b064",
+            "e45_b065",
+            "e45_b066",
+            "e45_b067",
+            "e45_b068"
+          ]
+        }
+      ],
+      "duration": 54.8,
+      "preScore": 13.25,
+      "tag": "threat",
+      "scene": 2,
+      "hook_text": "Alexander (Furious, Cold): You poisoned my mother. You tortured my wife.",
+      "cliffhanger_text": "Before the Crown, you are not Duchess of Ashburton.",
+      "why": "The intense opening confrontation hooks the viewer immediately, though the clip is quite long for a social media format.",
+      "standalone": 6,
+      "hook_3s": 9,
+      "cliff": 6,
+      "emotion": 9,
+      "spoiler_risk": "high",
+      "title": "Alexander's Fury And Marriage Scandal",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "While long, it provides a comprehensive narrative arc that builds effectively to the final interruption."
+        }
+      }
+    },
+    {
+      "id": "s45_0524",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 45,
+          "start": 74.8,
+          "end": 101.1,
+          "beatIds": [
+            "e45_b053",
+            "e45_b054",
+            "e45_b055",
+            "e45_b056",
+            "e45_b057",
+            "e45_b058",
+            "e45_b059",
+            "e45_b060",
+            "e45_b061",
+            "e45_b062",
+            "e45_b063",
+            "e45_b064"
+          ]
+        }
+      ],
+      "duration": 26.3,
+      "preScore": 12.63,
+      "tag": "reveal",
+      "scene": 2,
+      "hook_text": "Alexander (Proclaiming, Powerful): Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!",
+      "cliffhanger_text": "This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.",
+      "why": "It sets up a clear 'high' followed by a 'low' that keeps the viewer interested in the outcome.",
+      "standalone": 7,
+      "hook_3s": 6,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "The Duchess Title Dispute",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The clip successfully establishes the high of the wedding before immediately undercutting it with the interruption."
+        }
+      }
+    }
+  ]
+}

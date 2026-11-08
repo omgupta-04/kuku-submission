@@ -1,0 +1,900 @@
+{
+  "ep": 39,
+  "file": "episode-039-Episode 1686799.txt",
+  "meta": {
+    "ep": 39,
+    "file": "episode-039-Episode 1686799.txt",
+    "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+    "continuity": "Picks up as the wedding bells toll for Rupert and Catherine's ceremony. While Juliana prepares for execution in the dungeon below, Alexander's coordinated strike to liberate the cathedral and reclaim his birthright begins.",
+    "duration": 98.41
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "EXT. COBBLESTONE STREET - DAY",
+      "start": 0,
+      "end": 13.8
+    },
+    {
+      "n": 2,
+      "heading": "EXT. CATHEDRAL ENTRANCE & ALLEY - CONTINUOUS",
+      "start": 13.8,
+      "end": 24.2
+    },
+    {
+      "n": 3,
+      "heading": "EXT. CATHEDRAL ENTRANCE - CONTINUOUS",
+      "start": 24.2,
+      "end": 50
+    },
+    {
+      "n": 4,
+      "heading": "INT. WOODEN CABIN - DAY",
+      "start": 50,
+      "end": 68.5
+    },
+    {
+      "n": 5,
+      "heading": "EXT. WOODEN OUTPOST / SNOWY PATH - DAY",
+      "start": 68.5,
+      "end": 98.41
+    }
+  ],
+  "beats": [
+    {
+      "id": "e39_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 4.6
+    },
+    {
+      "id": "e39_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 4.6
+    },
+    {
+      "id": "e39_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.6,
+      "end": 7.1
+    },
+    {
+      "id": "e39_b004",
+      "type": "action",
+      "scene": 1,
+      "start": 4.6,
+      "end": 7.1
+    },
+    {
+      "id": "e39_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 7.1,
+      "end": 9.6
+    },
+    {
+      "id": "e39_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.6,
+      "end": 13.8
+    },
+    {
+      "id": "e39_b007",
+      "type": "camera",
+      "scene": 2,
+      "start": 13.8,
+      "end": 15.8
+    },
+    {
+      "id": "e39_b008",
+      "type": "action",
+      "scene": 2,
+      "start": 13.8,
+      "end": 15.8
+    },
+    {
+      "id": "e39_b009",
+      "type": "camera",
+      "scene": 2,
+      "start": 15.8,
+      "end": 18
+    },
+    {
+      "id": "e39_b010",
+      "type": "camera",
+      "scene": 2,
+      "start": 18,
+      "end": 22.4
+    },
+    {
+      "id": "e39_b011",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 18.3,
+      "end": 19.9
+    },
+    {
+      "id": "e39_b012",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 20.2,
+      "end": 21.8
+    },
+    {
+      "id": "e39_b013",
+      "type": "camera",
+      "scene": 2,
+      "start": 22.4,
+      "end": 24.2
+    },
+    {
+      "id": "e39_b014",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 22.5,
+      "end": 23.2
+    },
+    {
+      "id": "e39_b015",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 23.3,
+      "end": 24.2
+    },
+    {
+      "id": "e39_b016",
+      "type": "camera",
+      "scene": 3,
+      "start": 24.2,
+      "end": 29.6
+    },
+    {
+      "id": "e39_b017",
+      "type": "action",
+      "scene": 3,
+      "start": 24.2,
+      "end": 29.6
+    },
+    {
+      "id": "e39_b018",
+      "type": "camera",
+      "scene": 3,
+      "start": 29.6,
+      "end": 32.4
+    },
+    {
+      "id": "e39_b019",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 29.8,
+      "end": 30.6
+    },
+    {
+      "id": "e39_b020",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 30.8,
+      "end": 32.4
+    },
+    {
+      "id": "e39_b021",
+      "type": "camera",
+      "scene": 3,
+      "start": 32.4,
+      "end": 36.5
+    },
+    {
+      "id": "e39_b022",
+      "type": "action",
+      "scene": 3,
+      "start": 32.8,
+      "end": 36.5
+    },
+    {
+      "id": "e39_b023",
+      "type": "sfx",
+      "scene": 3,
+      "start": 33.1,
+      "end": 36
+    },
+    {
+      "id": "e39_b024",
+      "type": "camera",
+      "scene": 3,
+      "start": 36.5,
+      "end": 42.8
+    },
+    {
+      "id": "e39_b025",
+      "type": "action",
+      "scene": 3,
+      "start": 37,
+      "end": 42.5
+    },
+    {
+      "id": "e39_b026",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 41,
+      "end": 42.2
+    },
+    {
+      "id": "e39_b027",
+      "type": "camera",
+      "scene": 3,
+      "start": 42.8,
+      "end": 46.8
+    },
+    {
+      "id": "e39_b028",
+      "type": "camera",
+      "scene": 3,
+      "start": 46.8,
+      "end": 50
+    },
+    {
+      "id": "e39_b029",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 47,
+      "end": 48.1
+    },
+    {
+      "id": "e39_b030",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 48.2,
+      "end": 49.2
+    },
+    {
+      "id": "e39_b031",
+      "type": "camera",
+      "scene": 4,
+      "start": 50,
+      "end": 52.8
+    },
+    {
+      "id": "e39_b032",
+      "type": "action",
+      "scene": 4,
+      "start": 50,
+      "end": 52.8
+    },
+    {
+      "id": "e39_b033",
+      "type": "camera",
+      "scene": 4,
+      "start": 52.8,
+      "end": 55.8
+    },
+    {
+      "id": "e39_b034",
+      "type": "camera",
+      "scene": 4,
+      "start": 55.8,
+      "end": 59.8
+    },
+    {
+      "id": "e39_b035",
+      "type": "action",
+      "scene": 4,
+      "start": 56.5,
+      "end": 59.8
+    },
+    {
+      "id": "e39_b036",
+      "type": "sfx",
+      "scene": 4,
+      "start": 57.2,
+      "end": 60.8
+    },
+    {
+      "id": "e39_b037",
+      "type": "camera",
+      "scene": 4,
+      "start": 59.8,
+      "end": 61.2
+    },
+    {
+      "id": "e39_b038",
+      "type": "camera",
+      "scene": 4,
+      "start": 61.2,
+      "end": 66.6
+    },
+    {
+      "id": "e39_b039",
+      "type": "action",
+      "scene": 4,
+      "start": 62,
+      "end": 66.6
+    },
+    {
+      "id": "e39_b040",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 62,
+      "end": 62.8
+    },
+    {
+      "id": "e39_b041",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 63,
+      "end": 65.5
+    },
+    {
+      "id": "e39_b042",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 65.6,
+      "end": 66.9
+    },
+    {
+      "id": "e39_b043",
+      "type": "camera",
+      "scene": 4,
+      "start": 66.6,
+      "end": 68.5
+    },
+    {
+      "id": "e39_b044",
+      "type": "camera",
+      "scene": 5,
+      "start": 68.5,
+      "end": 71.8
+    },
+    {
+      "id": "e39_b045",
+      "type": "action",
+      "scene": 5,
+      "start": 68.5,
+      "end": 71.8
+    },
+    {
+      "id": "e39_b046",
+      "type": "camera",
+      "scene": 5,
+      "start": 71.8,
+      "end": 74.8
+    },
+    {
+      "id": "e39_b047",
+      "type": "camera",
+      "scene": 5,
+      "start": 74.8,
+      "end": 77.8
+    },
+    {
+      "id": "e39_b048",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 75.8,
+      "end": 77.2
+    },
+    {
+      "id": "e39_b049",
+      "type": "camera",
+      "scene": 5,
+      "start": 77.8,
+      "end": 82.5
+    },
+    {
+      "id": "e39_b050",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 80.5,
+      "end": 82.2
+    },
+    {
+      "id": "e39_b051",
+      "type": "camera",
+      "scene": 5,
+      "start": 82.5,
+      "end": 85.2
+    },
+    {
+      "id": "e39_b052",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 83.8,
+      "end": 85.2
+    },
+    {
+      "id": "e39_b053",
+      "type": "camera",
+      "scene": 5,
+      "start": 85.2,
+      "end": 95
+    },
+    {
+      "id": "e39_b054",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 85.5,
+      "end": 87.2
+    },
+    {
+      "id": "e39_b055",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 87.5,
+      "end": 90.2
+    },
+    {
+      "id": "e39_b056",
+      "type": "action",
+      "scene": 5,
+      "start": 90.2,
+      "end": 95
+    },
+    {
+      "id": "e39_b057",
+      "type": "camera",
+      "scene": 5,
+      "start": 95,
+      "end": 98.41
+    },
+    {
+      "id": "e39_b058",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 95,
+      "end": 98
+    },
+    {
+      "id": "e39_b059",
+      "type": "action",
+      "scene": 5,
+      "start": 97.8,
+      "end": 98.41
+    }
+  ],
+  "scores": {
+    "e39_b002": {
+      "id": "e39_b002",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b004": {
+      "id": "e39_b004",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b005": {
+      "id": "e39_b005",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b006": {
+      "id": "e39_b006",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b008": {
+      "id": "e39_b008",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b009": {
+      "id": "e39_b009",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b011": {
+      "id": "e39_b011",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e39_b012": {
+      "id": "e39_b012",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e39_b014": {
+      "id": "e39_b014",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b015": {
+      "id": "e39_b015",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b017": {
+      "id": "e39_b017",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b019": {
+      "id": "e39_b019",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e39_b020": {
+      "id": "e39_b020",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e39_b022": {
+      "id": "e39_b022",
+      "hook": 8,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "slap"
+    },
+    "e39_b023": {
+      "id": "e39_b023",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e39_b025": {
+      "id": "e39_b025",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e39_b026": {
+      "id": "e39_b026",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e39_b027": {
+      "id": "e39_b027",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e39_b029": {
+      "id": "e39_b029",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e39_b030": {
+      "id": "e39_b030",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b032": {
+      "id": "e39_b032",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e39_b033": {
+      "id": "e39_b033",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e39_b035": {
+      "id": "e39_b035",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e39_b036": {
+      "id": "e39_b036",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e39_b039": {
+      "id": "e39_b039",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e39_b040": {
+      "id": "e39_b040",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e39_b041": {
+      "id": "e39_b041",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 4,
+      "tag": "identity"
+    },
+    "e39_b042": {
+      "id": "e39_b042",
+      "hook": 8,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e39_b045": {
+      "id": "e39_b045",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b046": {
+      "id": "e39_b046",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b048": {
+      "id": "e39_b048",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e39_b050": {
+      "id": "e39_b050",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e39_b052": {
+      "id": "e39_b052",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b054": {
+      "id": "e39_b054",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b055": {
+      "id": "e39_b055",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e39_b056": {
+      "id": "e39_b056",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e39_b058": {
+      "id": "e39_b058",
+      "hook": 8,
+      "cliff": 9,
+      "context_need": 3,
+      "tag": "rescue"
+    },
+    "e39_b059": {
+      "id": "e39_b059",
+      "hook": 7,
+      "cliff": 10,
+      "context_need": 3,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "m39_0458",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 39,
+          "start": 32.8,
+          "end": 46.8,
+          "beatIds": [
+            "e39_b022",
+            "e39_b023",
+            "e39_b024",
+            "e39_b025",
+            "e39_b026",
+            "e39_b027"
+          ]
+        },
+        {
+          "ep": 39,
+          "start": 85.5,
+          "end": 98.41,
+          "beatIds": [
+            "e39_b054",
+            "e39_b055",
+            "e39_b056",
+            "e39_b057",
+            "e39_b058",
+            "e39_b059"
+          ]
+        }
+      ],
+      "duration": 26.91,
+      "preScore": 17.15,
+      "tag": "slap",
+      "scene": 3,
+      "hook_text": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.",
+      "cliffhanger_text": "Alexander's eyes burn with furious determination as the screen cuts sharply to black; it is unclear if he will succeed in his mission.",
+      "why": "The clip effectively balances high-octane action with a clear, character-driven motivation that establishes the stakes immediately.",
+      "standalone": 8,
+      "hook_3s": 9,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "The Duke Takes Back Home",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden jump between a stealth mission and a monologue without context makes the narrative flow disjointed."
+        }
+      }
+    },
+    {
+      "id": "s39_0452",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 39,
+          "start": 65.6,
+          "end": 98.41,
+          "beatIds": [
+            "e39_b042",
+            "e39_b043",
+            "e39_b044",
+            "e39_b045",
+            "e39_b046",
+            "e39_b047",
+            "e39_b048",
+            "e39_b049",
+            "e39_b050",
+            "e39_b051",
+            "e39_b052",
+            "e39_b053",
+            "e39_b054",
+            "e39_b055",
+            "e39_b056",
+            "e39_b057",
+            "e39_b058",
+            "e39_b059"
+          ]
+        }
+      ],
+      "duration": 32.81,
+      "preScore": 16.86,
+      "tag": "identity",
+      "scene": 4,
+      "hook_text": "Today, he comes home.",
+      "cliffhanger_text": "Alexander's eyes burn with furious determination as the screen cuts sharply to black; the outcome of his march remains unknown.",
+      "why": "While visually striking, the pacing is slower than the action-heavy alternative, making it feel more like a character study than a high-stakes hook.",
+      "standalone": 7,
+      "hook_3s": 6,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Duke Returns In Splendor",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The clip maintains a consistent tone, but the ending lacks a specific hook to drive further engagement."
+        }
+      }
+    },
+    {
+      "id": "s39_0450",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 39,
+          "start": 32.8,
+          "end": 66.9,
+          "beatIds": [
+            "e39_b022",
+            "e39_b023",
+            "e39_b024",
+            "e39_b025",
+            "e39_b026",
+            "e39_b027",
+            "e39_b028",
+            "e39_b029",
+            "e39_b030",
+            "e39_b031",
+            "e39_b032",
+            "e39_b033",
+            "e39_b034",
+            "e39_b035",
+            "e39_b036",
+            "e39_b037",
+            "e39_b038",
+            "e39_b039",
+            "e39_b040",
+            "e39_b041",
+            "e39_b042",
+            "e39_b043"
+          ]
+        }
+      ],
+      "duration": 34.1,
+      "preScore": 12.9,
+      "tag": "slap",
+      "scene": 3,
+      "hook_text": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.",
+      "cliffhanger_text": "Today, he comes home; the clip ends on a declarative statement rather than a lingering question.",
+      "why": "This clip provides the best narrative context by showing the transformation from exile to warrior, though the ending feels more like a conclusion than a cliffhanger.",
+      "standalone": 9,
+      "hook_3s": 9,
+      "cliff": 4,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "The Transformation Of Alexander Ashwin",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The transition from a violent ambush to a grooming montage is jarring and the ending feels like a completed character arc."
+        }
+      }
+    }
+  ]
+}

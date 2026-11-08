@@ -1,0 +1,1513 @@
+{
+  "ep": 18,
+  "file": "episode-018-Episode 1671720.txt",
+  "meta": {
+    "ep": 18,
+    "file": "episode-018-Episode 1671720.txt",
+    "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+    "continuity": "Picks up directly from Episode 17's intimate hearthside moment; their peaceful sanctuary is shattered when arsonists trap Juliana and Alexander inside their burning home.",
+    "duration": 192
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. COTTAGE - BEDROOM - NIGHT",
+      "start": 0,
+      "end": 28.9
+    },
+    {
+      "n": 2,
+      "heading": "INT. COTTAGE - HALLWAY - CONTINUOUS",
+      "start": 28.9,
+      "end": 52.5
+    },
+    {
+      "n": 3,
+      "heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS",
+      "start": 52.5,
+      "end": 98.5
+    },
+    {
+      "n": 4,
+      "heading": "INT. COTTAGE - PARLOR / EXT. COTTAGE - CONTINUOUS",
+      "start": 98.5,
+      "end": 124
+    },
+    {
+      "n": 5,
+      "heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS",
+      "start": 124,
+      "end": 192
+    }
+  ],
+  "beats": [
+    {
+      "id": "e18_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 2.1
+    },
+    {
+      "id": "e18_b002",
+      "type": "sfx",
+      "scene": 1,
+      "start": 0,
+      "end": 2.1
+    },
+    {
+      "id": "e18_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 2.1,
+      "end": 5.8
+    },
+    {
+      "id": "e18_b004",
+      "type": "action",
+      "scene": 1,
+      "start": 3.5,
+      "end": 6
+    },
+    {
+      "id": "e18_b005",
+      "type": "action",
+      "scene": 1,
+      "start": 6,
+      "end": 9.5
+    },
+    {
+      "id": "e18_b006",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 6.5,
+      "end": 8.5
+    },
+    {
+      "id": "e18_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.5,
+      "end": 12.8
+    },
+    {
+      "id": "e18_b008",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 10.5,
+      "end": 12.3
+    },
+    {
+      "id": "e18_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 12.8,
+      "end": 16.2
+    },
+    {
+      "id": "e18_b010",
+      "type": "action",
+      "scene": 1,
+      "start": 16.2,
+      "end": 20.1
+    },
+    {
+      "id": "e18_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 17.8,
+      "end": 19.8
+    },
+    {
+      "id": "e18_b012",
+      "type": "sfx",
+      "scene": 1,
+      "start": 19.5,
+      "end": 21
+    },
+    {
+      "id": "e18_b013",
+      "type": "camera",
+      "scene": 1,
+      "start": 20.1,
+      "end": 22.8
+    },
+    {
+      "id": "e18_b014",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20.8,
+      "end": 22.5
+    },
+    {
+      "id": "e18_b015",
+      "type": "camera",
+      "scene": 1,
+      "start": 22.8,
+      "end": 26
+    },
+    {
+      "id": "e18_b016",
+      "type": "action",
+      "scene": 1,
+      "start": 24.5,
+      "end": 28.9
+    },
+    {
+      "id": "e18_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 26.5,
+      "end": 28
+    },
+    {
+      "id": "e18_b018",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 28.1,
+      "end": 28.9
+    },
+    {
+      "id": "e18_b019",
+      "type": "camera",
+      "scene": 2,
+      "start": 28.9,
+      "end": 30.8
+    },
+    {
+      "id": "e18_b020",
+      "type": "camera",
+      "scene": 2,
+      "start": 30.8,
+      "end": 33
+    },
+    {
+      "id": "e18_b021",
+      "type": "action",
+      "scene": 2,
+      "start": 32.5,
+      "end": 36.5
+    },
+    {
+      "id": "e18_b022",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 33.2,
+      "end": 35.2
+    },
+    {
+      "id": "e18_b023",
+      "type": "camera",
+      "scene": 2,
+      "start": 36.5,
+      "end": 39
+    },
+    {
+      "id": "e18_b024",
+      "type": "action",
+      "scene": 2,
+      "start": 38,
+      "end": 41.5
+    },
+    {
+      "id": "e18_b025",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 39.5,
+      "end": 41.8
+    },
+    {
+      "id": "e18_b026",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 42,
+      "end": 43.5
+    },
+    {
+      "id": "e18_b027",
+      "type": "camera",
+      "scene": 2,
+      "start": 43.5,
+      "end": 48.8
+    },
+    {
+      "id": "e18_b028",
+      "type": "sfx",
+      "scene": 2,
+      "start": 45,
+      "end": 48.5
+    },
+    {
+      "id": "e18_b029",
+      "type": "camera",
+      "scene": 2,
+      "start": 48.8,
+      "end": 52.5
+    },
+    {
+      "id": "e18_b030",
+      "type": "camera",
+      "scene": 3,
+      "start": 52.5,
+      "end": 56.2
+    },
+    {
+      "id": "e18_b031",
+      "type": "action",
+      "scene": 3,
+      "start": 56.2,
+      "end": 58.5
+    },
+    {
+      "id": "e18_b032",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 56.5,
+      "end": 57.8
+    },
+    {
+      "id": "e18_b033",
+      "type": "action",
+      "scene": 3,
+      "start": 57.8,
+      "end": 60
+    },
+    {
+      "id": "e18_b034",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 58,
+      "end": 59.2
+    },
+    {
+      "id": "e18_b035",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 59.3,
+      "end": 62.5
+    },
+    {
+      "id": "e18_b036",
+      "type": "camera",
+      "scene": 3,
+      "start": 63,
+      "end": 65.5
+    },
+    {
+      "id": "e18_b037",
+      "type": "action",
+      "scene": 3,
+      "start": 65.5,
+      "end": 68
+    },
+    {
+      "id": "e18_b038",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 65.8,
+      "end": 68
+    },
+    {
+      "id": "e18_b039",
+      "type": "action",
+      "scene": 3,
+      "start": 68,
+      "end": 70.5
+    },
+    {
+      "id": "e18_b040",
+      "type": "camera",
+      "scene": 3,
+      "start": 70.5,
+      "end": 73.5
+    },
+    {
+      "id": "e18_b041",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 73.5,
+      "end": 75.5
+    },
+    {
+      "id": "e18_b042",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 75,
+      "end": 76.8
+    },
+    {
+      "id": "e18_b043",
+      "type": "action",
+      "scene": 3,
+      "start": 76.8,
+      "end": 81.5
+    },
+    {
+      "id": "e18_b044",
+      "type": "camera",
+      "scene": 3,
+      "start": 81.5,
+      "end": 83.5
+    },
+    {
+      "id": "e18_b045",
+      "type": "camera",
+      "scene": 3,
+      "start": 83.5,
+      "end": 86.5
+    },
+    {
+      "id": "e18_b046",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 84,
+      "end": 86.2
+    },
+    {
+      "id": "e18_b047",
+      "type": "action",
+      "scene": 3,
+      "start": 86.5,
+      "end": 89.5
+    },
+    {
+      "id": "e18_b048",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 86.5,
+      "end": 87.5
+    },
+    {
+      "id": "e18_b049",
+      "type": "sfx",
+      "scene": 3,
+      "start": 87.8,
+      "end": 90
+    },
+    {
+      "id": "e18_b050",
+      "type": "camera",
+      "scene": 3,
+      "start": 89.5,
+      "end": 94
+    },
+    {
+      "id": "e18_b051",
+      "type": "action",
+      "scene": 3,
+      "start": 91.5,
+      "end": 98
+    },
+    {
+      "id": "e18_b052",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 96.5,
+      "end": 98.2
+    },
+    {
+      "id": "e18_b053",
+      "type": "camera",
+      "scene": 4,
+      "start": 98.5,
+      "end": 101.5
+    },
+    {
+      "id": "e18_b054",
+      "type": "action",
+      "scene": 4,
+      "start": 101.5,
+      "end": 104.5
+    },
+    {
+      "id": "e18_b055",
+      "type": "action",
+      "scene": 4,
+      "start": 103.5,
+      "end": 105.5
+    },
+    {
+      "id": "e18_b056",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 103.8,
+      "end": 105
+    },
+    {
+      "id": "e18_b057",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 105.2,
+      "end": 106.8
+    },
+    {
+      "id": "e18_b058",
+      "type": "camera",
+      "scene": 4,
+      "start": 106.8,
+      "end": 109.5
+    },
+    {
+      "id": "e18_b059",
+      "type": "camera",
+      "scene": 4,
+      "start": 109.5,
+      "end": 114
+    },
+    {
+      "id": "e18_b060",
+      "type": "action",
+      "scene": 4,
+      "start": 111.5,
+      "end": 115.5
+    },
+    {
+      "id": "e18_b061",
+      "type": "sfx",
+      "scene": 4,
+      "start": 112,
+      "end": 115.5
+    },
+    {
+      "id": "e18_b062",
+      "type": "camera",
+      "scene": 4,
+      "start": 115.5,
+      "end": 119.8
+    },
+    {
+      "id": "e18_b063",
+      "type": "camera",
+      "scene": 4,
+      "start": 119.8,
+      "end": 124
+    },
+    {
+      "id": "e18_b064",
+      "type": "camera",
+      "scene": 5,
+      "start": 124,
+      "end": 128.5
+    },
+    {
+      "id": "e18_b065",
+      "type": "camera",
+      "scene": 5,
+      "start": 128.5,
+      "end": 134.5
+    },
+    {
+      "id": "e18_b066",
+      "type": "camera",
+      "scene": 5,
+      "start": 134.5,
+      "end": 140
+    },
+    {
+      "id": "e18_b067",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 136.2,
+      "end": 138
+    },
+    {
+      "id": "e18_b068",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 139.8,
+      "end": 142.5
+    },
+    {
+      "id": "e18_b069",
+      "type": "action",
+      "scene": 5,
+      "start": 140.5,
+      "end": 144
+    },
+    {
+      "id": "e18_b070",
+      "type": "action",
+      "scene": 5,
+      "start": 144,
+      "end": 155
+    },
+    {
+      "id": "e18_b071",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 145.8,
+      "end": 148.5
+    },
+    {
+      "id": "e18_b072",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 153.2,
+      "end": 154.8
+    },
+    {
+      "id": "e18_b073",
+      "type": "action",
+      "scene": 5,
+      "start": 155,
+      "end": 161
+    },
+    {
+      "id": "e18_b074",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 158,
+      "end": 160.8
+    },
+    {
+      "id": "e18_b075",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 163,
+      "end": 165.5
+    },
+    {
+      "id": "e18_b076",
+      "type": "camera",
+      "scene": 5,
+      "start": 165.5,
+      "end": 171
+    },
+    {
+      "id": "e18_b077",
+      "type": "camera",
+      "scene": 5,
+      "start": 171,
+      "end": 179.5
+    },
+    {
+      "id": "e18_b078",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 171.8,
+      "end": 177.2
+    },
+    {
+      "id": "e18_b079",
+      "type": "action",
+      "scene": 5,
+      "start": 179.5,
+      "end": 184
+    },
+    {
+      "id": "e18_b080",
+      "type": "dialogue",
+      "scene": 5,
+      "start": 184.2,
+      "end": 186.5
+    },
+    {
+      "id": "e18_b081",
+      "type": "camera",
+      "scene": 5,
+      "start": 186.5,
+      "end": 192
+    }
+  ],
+  "scores": {
+    "e18_b002": {
+      "id": "e18_b002",
+      "hook": 9,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b004": {
+      "id": "e18_b004",
+      "hook": 8,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b005": {
+      "id": "e18_b005",
+      "hook": 7,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b006": {
+      "id": "e18_b006",
+      "hook": 8,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b008": {
+      "id": "e18_b008",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b009": {
+      "id": "e18_b009",
+      "hook": 7,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b010": {
+      "id": "e18_b010",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b011": {
+      "id": "e18_b011",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b012": {
+      "id": "e18_b012",
+      "hook": 8,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e18_b014": {
+      "id": "e18_b014",
+      "hook": 9,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e18_b016": {
+      "id": "e18_b016",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e18_b017": {
+      "id": "e18_b017",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b018": {
+      "id": "e18_b018",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b019": {
+      "id": "e18_b019",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b021": {
+      "id": "e18_b021",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e18_b022": {
+      "id": "e18_b022",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b024": {
+      "id": "e18_b024",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b025": {
+      "id": "e18_b025",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b026": {
+      "id": "e18_b026",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b028": {
+      "id": "e18_b028",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b029": {
+      "id": "e18_b029",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b030": {
+      "id": "e18_b030",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b031": {
+      "id": "e18_b031",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b032": {
+      "id": "e18_b032",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b033": {
+      "id": "e18_b033",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b034": {
+      "id": "e18_b034",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b035": {
+      "id": "e18_b035",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b036": {
+      "id": "e18_b036",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b037": {
+      "id": "e18_b037",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b038": {
+      "id": "e18_b038",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 0,
+      "tag": "threat"
+    },
+    "e18_b039": {
+      "id": "e18_b039",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b040": {
+      "id": "e18_b040",
+      "hook": 9,
+      "cliff": 8,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b041": {
+      "id": "e18_b041",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b042": {
+      "id": "e18_b042",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b043": {
+      "id": "e18_b043",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b044": {
+      "id": "e18_b044",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b046": {
+      "id": "e18_b046",
+      "hook": 9,
+      "cliff": 9,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b047": {
+      "id": "e18_b047",
+      "hook": 9,
+      "cliff": 8,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e18_b048": {
+      "id": "e18_b048",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b049": {
+      "id": "e18_b049",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b051": {
+      "id": "e18_b051",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e18_b052": {
+      "id": "e18_b052",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b053": {
+      "id": "e18_b053",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b054": {
+      "id": "e18_b054",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e18_b055": {
+      "id": "e18_b055",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b056": {
+      "id": "e18_b056",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b057": {
+      "id": "e18_b057",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b058": {
+      "id": "e18_b058",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b060": {
+      "id": "e18_b060",
+      "hook": 9,
+      "cliff": 8,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e18_b061": {
+      "id": "e18_b061",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b062": {
+      "id": "e18_b062",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b063": {
+      "id": "e18_b063",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b064": {
+      "id": "e18_b064",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b065": {
+      "id": "e18_b065",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b067": {
+      "id": "e18_b067",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b068": {
+      "id": "e18_b068",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b069": {
+      "id": "e18_b069",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b070": {
+      "id": "e18_b070",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b071": {
+      "id": "e18_b071",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b072": {
+      "id": "e18_b072",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b073": {
+      "id": "e18_b073",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b074": {
+      "id": "e18_b074",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 0,
+      "tag": "threat"
+    },
+    "e18_b075": {
+      "id": "e18_b075",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b076": {
+      "id": "e18_b076",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b078": {
+      "id": "e18_b078",
+      "hook": 9,
+      "cliff": 9,
+      "context_need": 0,
+      "tag": "threat"
+    },
+    "e18_b079": {
+      "id": "e18_b079",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b080": {
+      "id": "e18_b080",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e18_b081": {
+      "id": "e18_b081",
+      "hook": 8,
+      "cliff": 10,
+      "context_need": 0,
+      "tag": "threat"
+    }
+  },
+  "promos": [
+    {
+      "id": "s18_0164",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 18,
+          "start": 171.8,
+          "end": 192,
+          "beatIds": [
+            "e18_b078",
+            "e18_b079",
+            "e18_b080",
+            "e18_b081"
+          ]
+        }
+      ],
+      "duration": 20.2,
+      "preScore": 19,
+      "tag": "threat",
+      "scene": 5,
+      "hook_text": "They took our home. I will not let them take anything else now.",
+      "cliffhanger_text": "What are you going to do? (Alexander's silent, grim stare leaves his plan of vengeance unresolved.)",
+      "why": "It establishes high stakes and a clear character motivation immediately, though it lacks context for the conflict.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 6,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Alexander's Vow of Vengeance",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip drops the viewer into a conversation without context for who these characters are or why their home was taken."
+        }
+      }
+    },
+    {
+      "id": "m18_0243",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 18,
+          "start": 0,
+          "end": 12.3,
+          "beatIds": [
+            "e18_b001",
+            "e18_b002",
+            "e18_b003",
+            "e18_b004",
+            "e18_b005",
+            "e18_b006",
+            "e18_b007",
+            "e18_b008"
+          ]
+        },
+        {
+          "ep": 18,
+          "start": 179.5,
+          "end": 192,
+          "beatIds": [
+            "e18_b079",
+            "e18_b080",
+            "e18_b081"
+          ]
+        }
+      ],
+      "duration": 24.8,
+      "preScore": 19,
+      "tag": "other",
+      "scene": 1,
+      "hook_text": "Muffled crackle and roar of an encroaching blaze.",
+      "cliffhanger_text": "What are you going to do? (The transition from immediate survival to a vague promise of revenge feels disjointed.)",
+      "why": "The transition between the fire emergency and the romantic/vengeance scene is too abrupt and lacks narrative flow.",
+      "standalone": 5,
+      "hook_3s": 8,
+      "cliff": 5,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "Fire Escape to Vengeance",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The jarring jump between a house fire and a vague revenge vow makes the narrative progression impossible to follow."
+        }
+      }
+    },
+    {
+      "id": "m18_0246",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 18,
+          "start": 20.8,
+          "end": 30.8,
+          "beatIds": [
+            "e18_b014",
+            "e18_b015",
+            "e18_b016",
+            "e18_b017",
+            "e18_b018",
+            "e18_b019"
+          ]
+        },
+        {
+          "ep": 18,
+          "start": 179.5,
+          "end": 192,
+          "beatIds": [
+            "e18_b079",
+            "e18_b080",
+            "e18_b081"
+          ]
+        }
+      ],
+      "duration": 22.5,
+      "preScore": 19,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "Juliana! Get up!",
+      "cliffhanger_text": "What are you going to do? (The shift from a rescue mission to a dramatic vow of vengeance is jarring.)",
+      "why": "The high-intensity rescue hook is effective, but the second half feels like a different scene entirely, weakening the impact.",
+      "standalone": 6,
+      "hook_3s": 8,
+      "cliff": 5,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Rescue and Vengeful Resolve",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden transition from an urgent rescue to a static, dramatic monologue feels disconnected and lacks necessary setup."
+        }
+      }
+    },
+    {
+      "id": "m18_0249",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 18,
+          "start": 70.5,
+          "end": 81.5,
+          "beatIds": [
+            "e18_b040",
+            "e18_b041",
+            "e18_b042",
+            "e18_b043"
+          ]
+        },
+        {
+          "ep": 18,
+          "start": 179.5,
+          "end": 192,
+          "beatIds": [
+            "e18_b079",
+            "e18_b080",
+            "e18_b081"
+          ]
+        }
+      ],
+      "duration": 23.5,
+      "preScore": 19,
+      "tag": "other",
+      "scene": 3,
+      "hook_text": "Wide shot of the room as a massive burning crossbeam collapses.",
+      "cliffhanger_text": "What are you going to do? (The shift from a specific object-retrieval scene to a generic vow of vengeance is confusing.)",
+      "why": "The visual spectacle of the collapsing beam is strong, but the narrative connection to the final scene is weak.",
+      "standalone": 5,
+      "hook_3s": 8,
+      "cliff": 5,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Ledger and Vengeance",
+      "score": 0,
+      "qc": {
+        "pass": false,
+        "flags": [
+          "no_content_in_first_3s",
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The shift from a specific object-retrieval scene to a generic vow of vengeance is disorienting for a new viewer."
+        }
+      }
+    },
+    {
+      "id": "s18_0187",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 18,
+          "start": 158,
+          "end": 192,
+          "beatIds": [
+            "e18_b074",
+            "e18_b075",
+            "e18_b076",
+            "e18_b077",
+            "e18_b078",
+            "e18_b079",
+            "e18_b080",
+            "e18_b081"
+          ]
+        }
+      ],
+      "duration": 34,
+      "preScore": 18,
+      "tag": "threat",
+      "scene": 5,
+      "hook_text": "Someone wanted us out.",
+      "cliffhanger_text": "What are you going to do? (The final shot of Alexander's face leaves his next move entirely unknown.)",
+      "why": "This clip provides the best narrative context, explaining the 'why' behind the fire before showing the emotional fallout.",
+      "standalone": 9,
+      "hook_3s": 6,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Reason for the Fire",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "Starting with an unexplained reference to someone wanting them out leaves the audience without a clear premise."
+        }
+      }
+    },
+    {
+      "id": "m18_0244",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 18,
+          "start": 0,
+          "end": 12.3,
+          "beatIds": [
+            "e18_b001",
+            "e18_b002",
+            "e18_b003",
+            "e18_b004",
+            "e18_b005",
+            "e18_b006",
+            "e18_b007",
+            "e18_b008"
+          ]
+        },
+        {
+          "ep": 18,
+          "start": 73.5,
+          "end": 86.2,
+          "beatIds": [
+            "e18_b041",
+            "e18_b042",
+            "e18_b043",
+            "e18_b044",
+            "e18_b045",
+            "e18_b046"
+          ]
+        }
+      ],
+      "duration": 25,
+      "preScore": 18,
+      "tag": "other",
+      "scene": 1,
+      "hook_text": "Muffled crackle and roar of an encroaching blaze.",
+      "cliffhanger_text": "Alexander! (Juliana screams as a rafter splits, leaving her fate in the fire uncertain.)",
+      "why": "This is a high-tension, cohesive sequence that maintains a single, urgent narrative thread from start to finish.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 9,
+      "spoiler_risk": "med",
+      "title": "Trapped in the Burning Room",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The high-stakes danger of the fire and the immediate threat of the collapsing rafter provide a clear, unresolved cliffhanger."
+        }
+      }
+    },
+    {
+      "id": "m18_0245",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 18,
+          "start": 0,
+          "end": 12.3,
+          "beatIds": [
+            "e18_b001",
+            "e18_b002",
+            "e18_b003",
+            "e18_b004",
+            "e18_b005",
+            "e18_b006",
+            "e18_b007",
+            "e18_b008"
+          ]
+        },
+        {
+          "ep": 18,
+          "start": 163,
+          "end": 177.2,
+          "beatIds": [
+            "e18_b075",
+            "e18_b076",
+            "e18_b077",
+            "e18_b078"
+          ]
+        }
+      ],
+      "duration": 26.5,
+      "preScore": 18,
+      "tag": "other",
+      "scene": 1,
+      "hook_text": "Muffled crackle and roar of an encroaching blaze.",
+      "cliffhanger_text": "They took our home. I will not let them take anything else now. (The clip ends on a definitive statement rather than a question.)",
+      "why": "It effectively balances the immediate danger of the fire with the emotional weight of the characters' loss.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 4,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "Survival and Lost Home",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The clip ends on a definitive, resolved statement that kills the suspense rather than building it."
+        }
+      }
+    },
+    {
+      "id": "m18_0247",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 18,
+          "start": 20.8,
+          "end": 30.8,
+          "beatIds": [
+            "e18_b014",
+            "e18_b015",
+            "e18_b016",
+            "e18_b017",
+            "e18_b018",
+            "e18_b019"
+          ]
+        },
+        {
+          "ep": 18,
+          "start": 73.5,
+          "end": 86.2,
+          "beatIds": [
+            "e18_b041",
+            "e18_b042",
+            "e18_b043",
+            "e18_b044",
+            "e18_b045",
+            "e18_b046"
+          ]
+        }
+      ],
+      "duration": 22.7,
+      "preScore": 18,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "Juliana! Get up!",
+      "cliffhanger_text": "Alexander! (The clip ends on a high-stakes scream of terror, creating a perfect cliffhanger.)",
+      "why": "The pacing is excellent, moving from a rescue to a desperate struggle for survival, keeping the viewer engaged throughout.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 9,
+      "spoiler_risk": "med",
+      "title": "The Desperate Fire Escape",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The sequence maintains consistent stakes and ends on a high-tension moment that effectively hooks the viewer."
+        }
+      }
+    }
+  ]
+}

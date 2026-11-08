@@ -1,0 +1,74 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Mara signs, and the groom is not who he claims.
+CONTINUITY NOTES: Invented sample episode for smoke tests only.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MANOR – NIGHT
+Scene start: 00:00.00
+Scene end: 00:45.00
+
+Actions and dialogue:
+
+**DUKE (Tense):**
+Start: (00:00.00) | End: (00:02.50)
+"The ink is still wet."
+
+**MARA (Tense):**
+Start: (00:03.00) | End: (00:05.50)
+"You signed. Good."
+
+**DUKE (Tense):**
+Start: (00:06.00) | End: (00:08.50)
+"Now remove the veil."
+
+**MARA (Tense):**
+Start: (00:09.00) | End: (00:11.50)
+"Why do you hide your face?"
+
+**DUKE (Tense):**
+Start: (00:12.00) | End: (00:14.50)
+"Because I am the man you were told was dead."
+
+**MARA (Tense):**
+Start: (00:15.00) | End: (00:17.50)
+"You are the Duke?"
+
+**DUKE (Tense):**
+Start: (00:18.00) | End: (00:20.50)
+"Surprised?"
+
+**MARA (Tense):**
+Start: (00:21.00) | End: (00:23.50)
+"You lied to everyone."
+
+**DUKE (Tense):**
+Start: (00:24.00) | End: (00:26.50)
+"I saved you."
+
+**MARA (Tense):**
+Start: (00:27.00) | End: (00:29.50)
+"From what?"
+
+**DUKE (Tense):**
+Start: (00:30.00) | End: (00:32.50)
+"From the one who wants you dead."
+
+**MARA (Tense):**
+Start: (00:33.00) | End: (00:35.50)
+"Who wants me dead?"
+
+**DUKE (Tense):**
+Start: (00:36.00) | End: (00:38.50)
+"Look behind you."
+
+**MARA (Tense):**
+Start: (00:39.00) | End: (00:41.50)
+"No..."
+
+**DUKE (Tense):**
+Start: (00:42.00) | End: (00:44.50)
+"Hello, sister."
+
+--- SCRIPT END ---

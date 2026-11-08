@@ -1,0 +1,1082 @@
+{
+  "ep": 20,
+  "file": "episode-020-Episode 1671722.txt",
+  "meta": {
+    "ep": 20,
+    "file": "episode-020-Episode 1671722.txt",
+    "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+    "continuity": "Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne.",
+    "duration": 114.75
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "EXT. ASHBURY MANOR – DAY",
+      "start": 0,
+      "end": 2.8
+    },
+    {
+      "n": 2,
+      "heading": "INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS",
+      "start": 2.8,
+      "end": 56.5
+    },
+    {
+      "n": 3,
+      "heading": "INT. ABANDONED BARN – DAY",
+      "start": 56.5,
+      "end": 88.2
+    },
+    {
+      "n": 4,
+      "heading": "INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS",
+      "start": 88.2,
+      "end": 114.75
+    }
+  ],
+  "beats": [
+    {
+      "id": "e20_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 2.8
+    },
+    {
+      "id": "e20_b002",
+      "type": "camera",
+      "scene": 2,
+      "start": 2.8,
+      "end": 6.8
+    },
+    {
+      "id": "e20_b003",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 2.9,
+      "end": 4.4
+    },
+    {
+      "id": "e20_b004",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 4.6,
+      "end": 7.8
+    },
+    {
+      "id": "e20_b005",
+      "type": "camera",
+      "scene": 2,
+      "start": 6.9,
+      "end": 9.5
+    },
+    {
+      "id": "e20_b006",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 8.2,
+      "end": 10.8
+    },
+    {
+      "id": "e20_b007",
+      "type": "camera",
+      "scene": 2,
+      "start": 9.6,
+      "end": 15.2
+    },
+    {
+      "id": "e20_b008",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 10.9,
+      "end": 12.7
+    },
+    {
+      "id": "e20_b009",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 12.8,
+      "end": 15.1
+    },
+    {
+      "id": "e20_b010",
+      "type": "camera",
+      "scene": 2,
+      "start": 15.2,
+      "end": 20
+    },
+    {
+      "id": "e20_b011",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 15.4,
+      "end": 18.7
+    },
+    {
+      "id": "e20_b012",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 18.8,
+      "end": 20.1
+    },
+    {
+      "id": "e20_b013",
+      "type": "camera",
+      "scene": 2,
+      "start": 20,
+      "end": 25.5
+    },
+    {
+      "id": "e20_b014",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 20.1,
+      "end": 21.2
+    },
+    {
+      "id": "e20_b015",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 21.3,
+      "end": 24.2
+    },
+    {
+      "id": "e20_b016",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 24.3,
+      "end": 25.4
+    },
+    {
+      "id": "e20_b017",
+      "type": "camera",
+      "scene": 2,
+      "start": 25.5,
+      "end": 30.2
+    },
+    {
+      "id": "e20_b018",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 25.5,
+      "end": 28.2
+    },
+    {
+      "id": "e20_b019",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 28.3,
+      "end": 30.2
+    },
+    {
+      "id": "e20_b020",
+      "type": "camera",
+      "scene": 2,
+      "start": 30.2,
+      "end": 34
+    },
+    {
+      "id": "e20_b021",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 30.2,
+      "end": 32.8
+    },
+    {
+      "id": "e20_b022",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 32.9,
+      "end": 34.4
+    },
+    {
+      "id": "e20_b023",
+      "type": "camera",
+      "scene": 2,
+      "start": 34.1,
+      "end": 39.2
+    },
+    {
+      "id": "e20_b024",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 34.2,
+      "end": 36.8
+    },
+    {
+      "id": "e20_b025",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 36.9,
+      "end": 39.1
+    },
+    {
+      "id": "e20_b026",
+      "type": "camera",
+      "scene": 2,
+      "start": 39.3,
+      "end": 42.5
+    },
+    {
+      "id": "e20_b027",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 39.4,
+      "end": 42.4
+    },
+    {
+      "id": "e20_b028",
+      "type": "camera",
+      "scene": 2,
+      "start": 42.5,
+      "end": 50
+    },
+    {
+      "id": "e20_b029",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 42.6,
+      "end": 44.9
+    },
+    {
+      "id": "e20_b030",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 45,
+      "end": 48.4
+    },
+    {
+      "id": "e20_b031",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 48.5,
+      "end": 49.8
+    },
+    {
+      "id": "e20_b032",
+      "type": "camera",
+      "scene": 2,
+      "start": 50,
+      "end": 56.5
+    },
+    {
+      "id": "e20_b033",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 50.2,
+      "end": 52.5
+    },
+    {
+      "id": "e20_b034",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 52.8,
+      "end": 56
+    },
+    {
+      "id": "e20_b035",
+      "type": "camera",
+      "scene": 3,
+      "start": 56.5,
+      "end": 60.3
+    },
+    {
+      "id": "e20_b036",
+      "type": "action",
+      "scene": 3,
+      "start": 60,
+      "end": 64.5
+    },
+    {
+      "id": "e20_b037",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 60.5,
+      "end": 62.5
+    },
+    {
+      "id": "e20_b038",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 62.6,
+      "end": 66.6
+    },
+    {
+      "id": "e20_b039",
+      "type": "action",
+      "scene": 3,
+      "start": 64.8,
+      "end": 66.8
+    },
+    {
+      "id": "e20_b040",
+      "type": "camera",
+      "scene": 3,
+      "start": 66.8,
+      "end": 70.5
+    },
+    {
+      "id": "e20_b041",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 66.7,
+      "end": 69.1
+    },
+    {
+      "id": "e20_b042",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 69.2,
+      "end": 70.5
+    },
+    {
+      "id": "e20_b043",
+      "type": "camera",
+      "scene": 3,
+      "start": 70.5,
+      "end": 76.2
+    },
+    {
+      "id": "e20_b044",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 70.6,
+      "end": 72.3
+    },
+    {
+      "id": "e20_b045",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 72.4,
+      "end": 74.2
+    },
+    {
+      "id": "e20_b046",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 74.3,
+      "end": 76.2
+    },
+    {
+      "id": "e20_b047",
+      "type": "camera",
+      "scene": 3,
+      "start": 76.2,
+      "end": 81
+    },
+    {
+      "id": "e20_b048",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 76.3,
+      "end": 79.8
+    },
+    {
+      "id": "e20_b049",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 79.9,
+      "end": 81
+    },
+    {
+      "id": "e20_b050",
+      "type": "camera",
+      "scene": 3,
+      "start": 81,
+      "end": 88.2
+    },
+    {
+      "id": "e20_b051",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 82,
+      "end": 84.4
+    },
+    {
+      "id": "e20_b052",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 84.8,
+      "end": 86.5
+    },
+    {
+      "id": "e20_b053",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 86.6,
+      "end": 88
+    },
+    {
+      "id": "e20_b054",
+      "type": "action",
+      "scene": 4,
+      "start": 88.2,
+      "end": 90
+    },
+    {
+      "id": "e20_b055",
+      "type": "sfx",
+      "scene": 4,
+      "start": 88.4,
+      "end": 89.4
+    },
+    {
+      "id": "e20_b056",
+      "type": "camera",
+      "scene": 4,
+      "start": 89.8,
+      "end": 94.8
+    },
+    {
+      "id": "e20_b057",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 89.9,
+      "end": 92.4
+    },
+    {
+      "id": "e20_b058",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 92.6,
+      "end": 94.5
+    },
+    {
+      "id": "e20_b059",
+      "type": "camera",
+      "scene": 4,
+      "start": 94.8,
+      "end": 99.2
+    },
+    {
+      "id": "e20_b060",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 94.9,
+      "end": 97.3
+    },
+    {
+      "id": "e20_b061",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 97.4,
+      "end": 99.1
+    },
+    {
+      "id": "e20_b062",
+      "type": "camera",
+      "scene": 4,
+      "start": 99.2,
+      "end": 103.8
+    },
+    {
+      "id": "e20_b063",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 99.3,
+      "end": 101.4
+    },
+    {
+      "id": "e20_b064",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 101.5,
+      "end": 103.7
+    },
+    {
+      "id": "e20_b065",
+      "type": "action",
+      "scene": 4,
+      "start": 103.8,
+      "end": 109
+    },
+    {
+      "id": "e20_b066",
+      "type": "camera",
+      "scene": 4,
+      "start": 104,
+      "end": 109.5
+    },
+    {
+      "id": "e20_b067",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 106.8,
+      "end": 109.2
+    },
+    {
+      "id": "e20_b068",
+      "type": "camera",
+      "scene": 4,
+      "start": 109.5,
+      "end": 114.75
+    }
+  ],
+  "scores": {
+    "e20_b001": {
+      "id": "e20_b001",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b003": {
+      "id": "e20_b003",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b004": {
+      "id": "e20_b004",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b006": {
+      "id": "e20_b006",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b008": {
+      "id": "e20_b008",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b009": {
+      "id": "e20_b009",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "reveal"
+    },
+    "e20_b011": {
+      "id": "e20_b011",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e20_b012": {
+      "id": "e20_b012",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b014": {
+      "id": "e20_b014",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b015": {
+      "id": "e20_b015",
+      "hook": 7,
+      "cliff": 0,
+      "context_need": 4,
+      "tag": "threat"
+    },
+    "e20_b016": {
+      "id": "e20_b016",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 4,
+      "tag": "threat"
+    },
+    "e20_b018": {
+      "id": "e20_b018",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b019": {
+      "id": "e20_b019",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b021": {
+      "id": "e20_b021",
+      "hook": 7,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e20_b022": {
+      "id": "e20_b022",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e20_b024": {
+      "id": "e20_b024",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b025": {
+      "id": "e20_b025",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b027": {
+      "id": "e20_b027",
+      "hook": 8,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e20_b029": {
+      "id": "e20_b029",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b030": {
+      "id": "e20_b030",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e20_b031": {
+      "id": "e20_b031",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b033": {
+      "id": "e20_b033",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e20_b034": {
+      "id": "e20_b034",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e20_b036": {
+      "id": "e20_b036",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b037": {
+      "id": "e20_b037",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b038": {
+      "id": "e20_b038",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b039": {
+      "id": "e20_b039",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b041": {
+      "id": "e20_b041",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e20_b042": {
+      "id": "e20_b042",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b044": {
+      "id": "e20_b044",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e20_b045": {
+      "id": "e20_b045",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b046": {
+      "id": "e20_b046",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b048": {
+      "id": "e20_b048",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b049": {
+      "id": "e20_b049",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b051": {
+      "id": "e20_b051",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e20_b052": {
+      "id": "e20_b052",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b053": {
+      "id": "e20_b053",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b054": {
+      "id": "e20_b054",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b055": {
+      "id": "e20_b055",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b057": {
+      "id": "e20_b057",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e20_b058": {
+      "id": "e20_b058",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b060": {
+      "id": "e20_b060",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b061": {
+      "id": "e20_b061",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b063": {
+      "id": "e20_b063",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e20_b064": {
+      "id": "e20_b064",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e20_b065": {
+      "id": "e20_b065",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e20_b067": {
+      "id": "e20_b067",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e20_b068": {
+      "id": "e20_b068",
+      "hook": 5,
+      "cliff": 8,
+      "context_need": 3,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "m20_0256",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 20,
+          "start": 39.4,
+          "end": 49.8,
+          "beatIds": [
+            "e20_b027",
+            "e20_b028",
+            "e20_b029",
+            "e20_b030",
+            "e20_b031"
+          ]
+        },
+        {
+          "ep": 20,
+          "start": 101.5,
+          "end": 114.75,
+          "beatIds": [
+            "e20_b064",
+            "e20_b065",
+            "e20_b066",
+            "e20_b067",
+            "e20_b068"
+          ]
+        }
+      ],
+      "duration": 23.65,
+      "preScore": 14.75,
+      "tag": "threat",
+      "scene": 2,
+      "hook_text": "Not through the winter. I've ensured her quiet comfort.",
+      "cliffhanger_text": "This house will only bow to me.",
+      "why": "The dialogue establishes a clear villainous dynamic, but it lacks the necessary context to explain who is being targeted or why.",
+      "standalone": 4,
+      "hook_3s": 6,
+      "cliff": 5,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Villains of Ashbury Estate",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip drops the viewer into a conversation about an unnamed 'her' without any context."
+        }
+      }
+    },
+    {
+      "id": "m20_0260",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 20,
+          "start": 30.2,
+          "end": 42.4,
+          "beatIds": [
+            "e20_b020",
+            "e20_b021",
+            "e20_b022",
+            "e20_b023",
+            "e20_b024",
+            "e20_b025",
+            "e20_b026",
+            "e20_b027"
+          ]
+        },
+        {
+          "ep": 20,
+          "start": 101.5,
+          "end": 114.75,
+          "beatIds": [
+            "e20_b064",
+            "e20_b065",
+            "e20_b066",
+            "e20_b067",
+            "e20_b068"
+          ]
+        }
+      ],
+      "duration": 25.45,
+      "preScore": 13.56,
+      "tag": "threat",
+      "scene": 2,
+      "hook_text": "Her health fails more each day. The physicians are baffled.",
+      "cliffhanger_text": "This house will only bow to me.",
+      "why": "The medical mystery hook is more engaging than the previous clip, effectively establishing the conspiratorial tone of the characters.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 5,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "The Plot Against The Patient",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The progression from medical mystery to villainous ambition creates a clear, effective narrative arc."
+        }
+      }
+    },
+    {
+      "id": "m20_0258",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 20,
+          "start": 21.3,
+          "end": 32.8,
+          "beatIds": [
+            "e20_b015",
+            "e20_b016",
+            "e20_b017",
+            "e20_b018",
+            "e20_b019",
+            "e20_b020",
+            "e20_b021"
+          ]
+        },
+        {
+          "ep": 20,
+          "start": 101.5,
+          "end": 114.75,
+          "beatIds": [
+            "e20_b064",
+            "e20_b065",
+            "e20_b066",
+            "e20_b067",
+            "e20_b068"
+          ]
+        }
+      ],
+      "duration": 24.75,
+      "preScore": 13.44,
+      "tag": "threat",
+      "scene": 2,
+      "hook_text": "Once my cousin Alexander's death is formally sealed by the Crown...",
+      "cliffhanger_text": "This house will only bow to me.",
+      "why": "This clip provides the most narrative context by mentioning a specific death and a title, making the stakes feel immediate and high.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 5,
+      "emotion": 7,
+      "spoiler_risk": "high",
+      "title": "The Scheme For The Title",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "Mentioning a cousin's death and the Crown immediately creates confusion regarding the stakes and relationships."
+        }
+      }
+    },
+    {
+      "id": "m20_0257",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 20,
+          "start": 39.4,
+          "end": 49.8,
+          "beatIds": [
+            "e20_b027",
+            "e20_b028",
+            "e20_b029",
+            "e20_b030",
+            "e20_b031"
+          ]
+        },
+        {
+          "ep": 20,
+          "start": 94.9,
+          "end": 109.2,
+          "beatIds": [
+            "e20_b060",
+            "e20_b061",
+            "e20_b062",
+            "e20_b063",
+            "e20_b064",
+            "e20_b065",
+            "e20_b066",
+            "e20_b067"
+          ]
+        }
+      ],
+      "duration": 24.7,
+      "preScore": 11.7,
+      "tag": "threat",
+      "scene": 2,
+      "hook_text": "Not through the winter. I've ensured her quiet comfort.",
+      "cliffhanger_text": "This house will only bow to me.",
+      "why": "The inclusion of the seduction/reassurance segment adds a layer of intimacy to the villainy, making the characters feel more complex.",
+      "standalone": 5,
+      "hook_3s": 6,
+      "cliff": 5,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "The Ruthless Ambition Of Catherine",
+      "score": 0,
+      "qc": {
+        "pass": false,
+        "flags": [
+          "weak_cliffhanger",
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The dialogue about the village peasants feels disconnected from the primary plot regarding the Duchess."
+        }
+      }
+    }
+  ]
+}

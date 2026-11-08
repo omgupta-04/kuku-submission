@@ -1,0 +1,787 @@
+{
+  "ep": 41,
+  "file": "episode-041-Episode 1686801.txt",
+  "meta": {
+    "ep": 41,
+    "file": "episode-041-Episode 1686801.txt",
+    "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+    "continuity": "Follows Episode 40 where Rupert and Catherine met at the altar; Catherine halts the vows to stage a public humiliation of Juliana, unaware that Alexander's forces are already detonating the cathedral gates.",
+    "duration": 96.09
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. CATHEDRAL – CONTINUOUS",
+      "start": 0,
+      "end": 96.09
+    }
+  ],
+  "beats": [
+    {
+      "id": "e41_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 1.8
+    },
+    {
+      "id": "e41_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 1.8,
+      "end": 4.5
+    },
+    {
+      "id": "e41_b003",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 1.8,
+      "end": 2.8
+    },
+    {
+      "id": "e41_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.5,
+      "end": 8.5
+    },
+    {
+      "id": "e41_b005",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 4.9,
+      "end": 8.2
+    },
+    {
+      "id": "e41_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 8.5,
+      "end": 13
+    },
+    {
+      "id": "e41_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 8.5,
+      "end": 12.7
+    },
+    {
+      "id": "e41_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 13,
+      "end": 15.5
+    },
+    {
+      "id": "e41_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 13.2,
+      "end": 14
+    },
+    {
+      "id": "e41_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 14,
+      "end": 15.3
+    },
+    {
+      "id": "e41_b011",
+      "type": "sfx",
+      "scene": 1,
+      "start": 15.5,
+      "end": 17.5
+    },
+    {
+      "id": "e41_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 15.5,
+      "end": 20
+    },
+    {
+      "id": "e41_b013",
+      "type": "action",
+      "scene": 1,
+      "start": 17.5,
+      "end": 20
+    },
+    {
+      "id": "e41_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 20,
+      "end": 22.8
+    },
+    {
+      "id": "e41_b015",
+      "type": "camera",
+      "scene": 1,
+      "start": 22.8,
+      "end": 26
+    },
+    {
+      "id": "e41_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 26,
+      "end": 28.8
+    },
+    {
+      "id": "e41_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 26.8,
+      "end": 28.4
+    },
+    {
+      "id": "e41_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 28.8,
+      "end": 30
+    },
+    {
+      "id": "e41_b019",
+      "type": "camera",
+      "scene": 1,
+      "start": 30,
+      "end": 34
+    },
+    {
+      "id": "e41_b020",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 30.5,
+      "end": 31.6
+    },
+    {
+      "id": "e41_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 31.7,
+      "end": 33.8
+    },
+    {
+      "id": "e41_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 34,
+      "end": 36.8
+    },
+    {
+      "id": "e41_b023",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 34.8,
+      "end": 36.8
+    },
+    {
+      "id": "e41_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 36.8,
+      "end": 39.8
+    },
+    {
+      "id": "e41_b025",
+      "type": "camera",
+      "scene": 1,
+      "start": 39.8,
+      "end": 43.8
+    },
+    {
+      "id": "e41_b026",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 41,
+      "end": 44.2
+    },
+    {
+      "id": "e41_b027",
+      "type": "camera",
+      "scene": 1,
+      "start": 43.8,
+      "end": 48.5
+    },
+    {
+      "id": "e41_b028",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 45,
+      "end": 48
+    },
+    {
+      "id": "e41_b029",
+      "type": "camera",
+      "scene": 1,
+      "start": 48.5,
+      "end": 52.8
+    },
+    {
+      "id": "e41_b030",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 48.6,
+      "end": 52.4
+    },
+    {
+      "id": "e41_b031",
+      "type": "camera",
+      "scene": 1,
+      "start": 52.8,
+      "end": 57.8
+    },
+    {
+      "id": "e41_b032",
+      "type": "action",
+      "scene": 1,
+      "start": 54.8,
+      "end": 57.5
+    },
+    {
+      "id": "e41_b033",
+      "type": "camera",
+      "scene": 1,
+      "start": 57.8,
+      "end": 60.8
+    },
+    {
+      "id": "e41_b034",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 58,
+      "end": 60.5
+    },
+    {
+      "id": "e41_b035",
+      "type": "camera",
+      "scene": 1,
+      "start": 60.8,
+      "end": 64
+    },
+    {
+      "id": "e41_b036",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 61,
+      "end": 63.5
+    },
+    {
+      "id": "e41_b037",
+      "type": "camera",
+      "scene": 1,
+      "start": 64,
+      "end": 68.5
+    },
+    {
+      "id": "e41_b038",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 64.5,
+      "end": 65.4
+    },
+    {
+      "id": "e41_b039",
+      "type": "camera",
+      "scene": 1,
+      "start": 68.5,
+      "end": 70.5
+    },
+    {
+      "id": "e41_b040",
+      "type": "camera",
+      "scene": 1,
+      "start": 70.5,
+      "end": 75
+    },
+    {
+      "id": "e41_b041",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 70.5,
+      "end": 74.8
+    },
+    {
+      "id": "e41_b042",
+      "type": "camera",
+      "scene": 1,
+      "start": 75,
+      "end": 77.5
+    },
+    {
+      "id": "e41_b043",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 75.8,
+      "end": 77
+    },
+    {
+      "id": "e41_b044",
+      "type": "camera",
+      "scene": 1,
+      "start": 77.5,
+      "end": 80.5
+    },
+    {
+      "id": "e41_b045",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 78,
+      "end": 79.3
+    },
+    {
+      "id": "e41_b046",
+      "type": "camera",
+      "scene": 1,
+      "start": 80.5,
+      "end": 81.8
+    },
+    {
+      "id": "e41_b047",
+      "type": "sfx",
+      "scene": 1,
+      "start": 81,
+      "end": 85.5
+    },
+    {
+      "id": "e41_b048",
+      "type": "action",
+      "scene": 1,
+      "start": 81.8,
+      "end": 84
+    },
+    {
+      "id": "e41_b049",
+      "type": "camera",
+      "scene": 1,
+      "start": 81.8,
+      "end": 84.5
+    },
+    {
+      "id": "e41_b050",
+      "type": "camera",
+      "scene": 1,
+      "start": 84.5,
+      "end": 88.5
+    },
+    {
+      "id": "e41_b051",
+      "type": "camera",
+      "scene": 1,
+      "start": 88.5,
+      "end": 92
+    },
+    {
+      "id": "e41_b052",
+      "type": "action",
+      "scene": 1,
+      "start": 89,
+      "end": 93.5
+    },
+    {
+      "id": "e41_b053",
+      "type": "camera",
+      "scene": 1,
+      "start": 92,
+      "end": 96.09
+    }
+  ],
+  "scores": {
+    "e41_b001": {
+      "id": "e41_b001",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e41_b002": {
+      "id": "e41_b002",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b003": {
+      "id": "e41_b003",
+      "hook": 5,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b005": {
+      "id": "e41_b005",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b007": {
+      "id": "e41_b007",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "humiliation"
+    },
+    "e41_b009": {
+      "id": "e41_b009",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e41_b010": {
+      "id": "e41_b010",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "humiliation"
+    },
+    "e41_b011": {
+      "id": "e41_b011",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e41_b013": {
+      "id": "e41_b013",
+      "hook": 8,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b014": {
+      "id": "e41_b014",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e41_b015": {
+      "id": "e41_b015",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e41_b017": {
+      "id": "e41_b017",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b018": {
+      "id": "e41_b018",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e41_b020": {
+      "id": "e41_b020",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b021": {
+      "id": "e41_b021",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b023": {
+      "id": "e41_b023",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b024": {
+      "id": "e41_b024",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b026": {
+      "id": "e41_b026",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b028": {
+      "id": "e41_b028",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b030": {
+      "id": "e41_b030",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b032": {
+      "id": "e41_b032",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b034": {
+      "id": "e41_b034",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b036": {
+      "id": "e41_b036",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b038": {
+      "id": "e41_b038",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e41_b039": {
+      "id": "e41_b039",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e41_b041": {
+      "id": "e41_b041",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e41_b043": {
+      "id": "e41_b043",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e41_b045": {
+      "id": "e41_b045",
+      "hook": 3,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e41_b047": {
+      "id": "e41_b047",
+      "hook": 10,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e41_b048": {
+      "id": "e41_b048",
+      "hook": 9,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e41_b052": {
+      "id": "e41_b052",
+      "hook": 8,
+      "cliff": 10,
+      "context_need": 2,
+      "tag": "rescue"
+    }
+  },
+  "promos": [
+    {
+      "id": "m41_0478",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 41,
+          "start": 17.5,
+          "end": 28.4,
+          "beatIds": [
+            "e41_b013",
+            "e41_b014",
+            "e41_b015",
+            "e41_b016",
+            "e41_b017"
+          ]
+        },
+        {
+          "ep": 41,
+          "start": 81,
+          "end": 93.5,
+          "beatIds": [
+            "e41_b047",
+            "e41_b048",
+            "e41_b049",
+            "e41_b050",
+            "e41_b051",
+            "e41_b052",
+            "e41_b053"
+          ]
+        }
+      ],
+      "duration": 23.4,
+      "preScore": 17,
+      "tag": "humiliation",
+      "scene": 1,
+      "hook_text": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables",
+      "cliffhanger_text": "Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.",
+      "why": "The transition from a prisoner's march to a massive explosion creates immediate, high-stakes visual intrigue.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Prisoner March and Cathedral Explosion",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden transition from a prison march to a massive explosion lacks sufficient context for a new viewer."
+        }
+      }
+    },
+    {
+      "id": "m41_0479",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 41,
+          "start": 17.5,
+          "end": 28.4,
+          "beatIds": [
+            "e41_b013",
+            "e41_b014",
+            "e41_b015",
+            "e41_b016",
+            "e41_b017"
+          ]
+        },
+        {
+          "ep": 41,
+          "start": 70.5,
+          "end": 85.5,
+          "beatIds": [
+            "e41_b040",
+            "e41_b041",
+            "e41_b042",
+            "e41_b043",
+            "e41_b044",
+            "e41_b045",
+            "e41_b046",
+            "e41_b047",
+            "e41_b048",
+            "e41_b049",
+            "e41_b050"
+          ]
+        }
+      ],
+      "duration": 25.9,
+      "preScore": 15.89,
+      "tag": "humiliation",
+      "scene": 1,
+      "hook_text": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables",
+      "cliffhanger_text": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.",
+      "why": "The clip effectively contrasts the prisoner's misery with the villains' ambition before cutting to a chaotic climax.",
+      "standalone": 7,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "Villainous Ambition and Cathedral Blast",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The shift between the prisoner's arrival and the unrelated wedding dialogue creates a jarring, disjointed narrative."
+        }
+      }
+    },
+    {
+      "id": "s41_0477",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 41,
+          "start": 58,
+          "end": 93.5,
+          "beatIds": [
+            "e41_b034",
+            "e41_b035",
+            "e41_b036",
+            "e41_b037",
+            "e41_b038",
+            "e41_b039",
+            "e41_b040",
+            "e41_b041",
+            "e41_b042",
+            "e41_b043",
+            "e41_b044",
+            "e41_b045",
+            "e41_b046",
+            "e41_b047",
+            "e41_b048",
+            "e41_b049",
+            "e41_b050",
+            "e41_b051",
+            "e41_b052",
+            "e41_b053"
+          ]
+        }
+      ],
+      "duration": 35.5,
+      "preScore": 15.8,
+      "tag": "humiliation",
+      "scene": 1,
+      "hook_text": "You needed an entire chapel to feel powerful over one chained woman?",
+      "cliffhanger_text": "Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.",
+      "why": "The dialogue-heavy opening establishes the power dynamic clearly before escalating into a high-octane action sequence.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "Defiant Prisoner and Cathedral Siege",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "This clip provides the necessary character dynamics and stakes to make the explosion feel like a coherent, high-tension cliffhanger."
+        }
+      }
+    }
+  ]
+}

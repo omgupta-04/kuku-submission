@@ -1,0 +1,517 @@
+{
+  "ep": 50,
+  "file": "episode-050-Episode 1697563.txt",
+  "meta": {
+    "ep": 50,
+    "file": "episode-050-Episode 1697563.txt",
+    "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+    "continuity": "Directly follows Episode 49, where Father Thomas and Catherine sealed their covert alliance in the secluded wing; now, their secret affair deepens into political extortion before being shattered by an unexpected witness.",
+    "duration": 80
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN",
+      "start": 0,
+      "end": 70.5
+    },
+    {
+      "n": 2,
+      "heading": "INT. MANOR CORRIDOR – CONTINUOUS",
+      "start": 70.5,
+      "end": 80
+    }
+  ],
+  "beats": [
+    {
+      "id": "e50_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 1.8
+    },
+    {
+      "id": "e50_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": "e50_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 1.8,
+      "end": 7
+    },
+    {
+      "id": "e50_b004",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 1.8,
+      "end": 5.8
+    },
+    {
+      "id": "e50_b005",
+      "type": "action",
+      "scene": 1,
+      "start": 5.8,
+      "end": 7.2
+    },
+    {
+      "id": "e50_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 7,
+      "end": 11.8
+    },
+    {
+      "id": "e50_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 7.2,
+      "end": 11.2
+    },
+    {
+      "id": "e50_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.8,
+      "end": 15.8
+    },
+    {
+      "id": "e50_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 12,
+      "end": 15.5
+    },
+    {
+      "id": "e50_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 15.8,
+      "end": 18.8
+    },
+    {
+      "id": "e50_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 16.8,
+      "end": 18.5
+    },
+    {
+      "id": "e50_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 18.8,
+      "end": 26.5
+    },
+    {
+      "id": "e50_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 19.4,
+      "end": 25
+    },
+    {
+      "id": "e50_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 26.5,
+      "end": 30.5
+    },
+    {
+      "id": "e50_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 27.2,
+      "end": 30.2
+    },
+    {
+      "id": "e50_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 30.5,
+      "end": 35.8
+    },
+    {
+      "id": "e50_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 31,
+      "end": 35
+    },
+    {
+      "id": "e50_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 35.8,
+      "end": 39.8
+    },
+    {
+      "id": "e50_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 36.5,
+      "end": 39.4
+    },
+    {
+      "id": "e50_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 39.8,
+      "end": 43
+    },
+    {
+      "id": "e50_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 40.4,
+      "end": 42.5
+    },
+    {
+      "id": "e50_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 43,
+      "end": 48.5
+    },
+    {
+      "id": "e50_b023",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 43.2,
+      "end": 48
+    },
+    {
+      "id": "e50_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 48.5,
+      "end": 54.5
+    },
+    {
+      "id": "e50_b025",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 49.8,
+      "end": 54
+    },
+    {
+      "id": "e50_b026",
+      "type": "camera",
+      "scene": 1,
+      "start": 54.5,
+      "end": 59.8
+    },
+    {
+      "id": "e50_b027",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 54.8,
+      "end": 56.5
+    },
+    {
+      "id": "e50_b028",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 56.8,
+      "end": 59.2
+    },
+    {
+      "id": "e50_b029",
+      "type": "camera",
+      "scene": 1,
+      "start": 59.8,
+      "end": 65.5
+    },
+    {
+      "id": "e50_b030",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 60.3,
+      "end": 64.8
+    },
+    {
+      "id": "e50_b031",
+      "type": "camera",
+      "scene": 1,
+      "start": 65.5,
+      "end": 70.5
+    },
+    {
+      "id": "e50_b032",
+      "type": "action",
+      "scene": 1,
+      "start": 65.8,
+      "end": 70.5
+    },
+    {
+      "id": "e50_b033",
+      "type": "camera",
+      "scene": 2,
+      "start": 70.5,
+      "end": 73.5
+    },
+    {
+      "id": "e50_b034",
+      "type": "action",
+      "scene": 2,
+      "start": 70.8,
+      "end": 73.5
+    },
+    {
+      "id": "e50_b035",
+      "type": "camera",
+      "scene": 2,
+      "start": 73.5,
+      "end": 76.5
+    },
+    {
+      "id": "e50_b036",
+      "type": "action",
+      "scene": 2,
+      "start": 74,
+      "end": 76.5
+    },
+    {
+      "id": "e50_b037",
+      "type": "camera",
+      "scene": 2,
+      "start": 76.5,
+      "end": 78.5
+    },
+    {
+      "id": "e50_b038",
+      "type": "action",
+      "scene": 2,
+      "start": 76.8,
+      "end": 78.5
+    },
+    {
+      "id": "e50_b039",
+      "type": "sfx",
+      "scene": 2,
+      "start": 77.2,
+      "end": 78.6
+    },
+    {
+      "id": "e50_b040",
+      "type": "camera",
+      "scene": 2,
+      "start": 78.5,
+      "end": 80
+    }
+  ],
+  "scores": {
+    "e50_b002": {
+      "id": "e50_b002",
+      "hook": 7,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b004": {
+      "id": "e50_b004",
+      "hook": 6,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b005": {
+      "id": "e50_b005",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b007": {
+      "id": "e50_b007",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b009": {
+      "id": "e50_b009",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b011": {
+      "id": "e50_b011",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e50_b013": {
+      "id": "e50_b013",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e50_b015": {
+      "id": "e50_b015",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b017": {
+      "id": "e50_b017",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e50_b019": {
+      "id": "e50_b019",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b021": {
+      "id": "e50_b021",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b023": {
+      "id": "e50_b023",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b025": {
+      "id": "e50_b025",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b027": {
+      "id": "e50_b027",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b028": {
+      "id": "e50_b028",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "kiss"
+    },
+    "e50_b030": {
+      "id": "e50_b030",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b032": {
+      "id": "e50_b032",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e50_b034": {
+      "id": "e50_b034",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e50_b036": {
+      "id": "e50_b036",
+      "hook": 8,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e50_b038": {
+      "id": "e50_b038",
+      "hook": 7,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e50_b039": {
+      "id": "e50_b039",
+      "hook": 6,
+      "cliff": 10,
+      "context_need": 2,
+      "tag": "reveal"
+    }
+  },
+  "promos": [
+    {
+      "id": "m50_0577",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 50,
+          "start": 0,
+          "end": 11.2,
+          "beatIds": [
+            "e50_b001",
+            "e50_b002",
+            "e50_b003",
+            "e50_b004",
+            "e50_b005",
+            "e50_b006",
+            "e50_b007"
+          ]
+        },
+        {
+          "ep": 50,
+          "start": 65.8,
+          "end": 78.6,
+          "beatIds": [
+            "e50_b032",
+            "e50_b033",
+            "e50_b034",
+            "e50_b035",
+            "e50_b036",
+            "e50_b037",
+            "e50_b038",
+            "e50_b039",
+            "e50_b040"
+          ]
+        }
+      ],
+      "duration": 24,
+      "preScore": 15.72,
+      "tag": "other",
+      "scene": 1,
+      "hook_text": "Father Thomas lies flat on his back, breathless, while Catherine rests beside him, her fingers tracing across his bare skin.",
+      "cliffhanger_text": "Agnes's jaw drops open in shock as she stifles a cry... horrified by the lethal secret she has uncovered.",
+      "why": "The clip effectively uses the juxtaposition of a religious figure in a compromising position to create immediate, high-stakes narrative tension.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "The Priest's Forbidden Secret Affair",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The clip establishes the stakes clearly and leaves the viewer hanging on the immediate consequence of the discovery."
+        }
+      }
+    }
+  ]
+}

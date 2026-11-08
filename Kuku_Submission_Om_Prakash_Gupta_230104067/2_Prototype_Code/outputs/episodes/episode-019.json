@@ -1,0 +1,956 @@
+{
+  "ep": 19,
+  "file": "episode-019-Episode 1671721.txt",
+  "meta": {
+    "ep": 19,
+    "file": "episode-019-Episode 1671721.txt",
+    "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+    "continuity": "Picks up directly from Episode 18's devastating fire; Juliana and Alexander stand amidst the morning ruins of Blackwood cottage with her mother's surviving herbal book before retreating to an abandoned barn.",
+    "duration": 119.63
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY",
+      "start": 0,
+      "end": 41.5
+    },
+    {
+      "n": 2,
+      "heading": "EXT. MISTY DEEP WOODS – DAY",
+      "start": 41.5,
+      "end": 89.5
+    },
+    {
+      "n": 3,
+      "heading": "INT. ABANDONED BARN – NIGHT",
+      "start": 89.5,
+      "end": 119.63
+    }
+  ],
+  "beats": [
+    {
+      "id": "e19_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 4.5
+    },
+    {
+      "id": "e19_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 4.5
+    },
+    {
+      "id": "e19_b003",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 1.8,
+      "end": 3.5
+    },
+    {
+      "id": "e19_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.5,
+      "end": 9.5
+    },
+    {
+      "id": "e19_b005",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 5.1,
+      "end": 8.2
+    },
+    {
+      "id": "e19_b006",
+      "type": "action",
+      "scene": 1,
+      "start": 6.5,
+      "end": 9.2
+    },
+    {
+      "id": "e19_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.5,
+      "end": 11.8
+    },
+    {
+      "id": "e19_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.8,
+      "end": 15.5
+    },
+    {
+      "id": "e19_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 12.1,
+      "end": 15.2
+    },
+    {
+      "id": "e19_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 15.5,
+      "end": 18.5
+    },
+    {
+      "id": "e19_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 16.1,
+      "end": 19
+    },
+    {
+      "id": "e19_b012",
+      "type": "action",
+      "scene": 1,
+      "start": 18.5,
+      "end": 20.5
+    },
+    {
+      "id": "e19_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 19.4,
+      "end": 20.4
+    },
+    {
+      "id": "e19_b014",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20.6,
+      "end": 22.6
+    },
+    {
+      "id": "e19_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.2,
+      "end": 25.2
+    },
+    {
+      "id": "e19_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 25.8,
+      "end": 28.2
+    },
+    {
+      "id": "e19_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 26.4,
+      "end": 27.8
+    },
+    {
+      "id": "e19_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 28.2,
+      "end": 30.8
+    },
+    {
+      "id": "e19_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 28.5,
+      "end": 29.8
+    },
+    {
+      "id": "e19_b020",
+      "type": "action",
+      "scene": 1,
+      "start": 30.8,
+      "end": 34.5
+    },
+    {
+      "id": "e19_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 31.2,
+      "end": 33.2
+    },
+    {
+      "id": "e19_b022",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 33.3,
+      "end": 34.8
+    },
+    {
+      "id": "e19_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 34.8,
+      "end": 38.2
+    },
+    {
+      "id": "e19_b024",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 35.5,
+      "end": 37.4
+    },
+    {
+      "id": "e19_b025",
+      "type": "action",
+      "scene": 1,
+      "start": 38,
+      "end": 41.5
+    },
+    {
+      "id": "e19_b026",
+      "type": "camera",
+      "scene": 2,
+      "start": 41.5,
+      "end": 44.2
+    },
+    {
+      "id": "e19_b027",
+      "type": "action",
+      "scene": 2,
+      "start": 43,
+      "end": 46
+    },
+    {
+      "id": "e19_b028",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 44.3,
+      "end": 45.8
+    },
+    {
+      "id": "e19_b029",
+      "type": "camera",
+      "scene": 2,
+      "start": 46,
+      "end": 49.2
+    },
+    {
+      "id": "e19_b030",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 47.1,
+      "end": 49.2
+    },
+    {
+      "id": "e19_b031",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 49.5,
+      "end": 54.8
+    },
+    {
+      "id": "e19_b032",
+      "type": "camera",
+      "scene": 2,
+      "start": 55.3,
+      "end": 61.4
+    },
+    {
+      "id": "e19_b033",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 55.3,
+      "end": 61.3
+    },
+    {
+      "id": "e19_b034",
+      "type": "camera",
+      "scene": 2,
+      "start": 61.4,
+      "end": 64.8
+    },
+    {
+      "id": "e19_b035",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 61.6,
+      "end": 64.8
+    },
+    {
+      "id": "e19_b036",
+      "type": "camera",
+      "scene": 2,
+      "start": 64.8,
+      "end": 70.6
+    },
+    {
+      "id": "e19_b037",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 65.1,
+      "end": 70.5
+    },
+    {
+      "id": "e19_b038",
+      "type": "camera",
+      "scene": 2,
+      "start": 70.6,
+      "end": 73.3
+    },
+    {
+      "id": "e19_b039",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 70.9,
+      "end": 73.2
+    },
+    {
+      "id": "e19_b040",
+      "type": "camera",
+      "scene": 2,
+      "start": 73.3,
+      "end": 76.2
+    },
+    {
+      "id": "e19_b041",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 73.5,
+      "end": 76.4
+    },
+    {
+      "id": "e19_b042",
+      "type": "action",
+      "scene": 2,
+      "start": 76.2,
+      "end": 78.8
+    },
+    {
+      "id": "e19_b043",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 76.5,
+      "end": 78.8
+    },
+    {
+      "id": "e19_b044",
+      "type": "camera",
+      "scene": 2,
+      "start": 78.8,
+      "end": 81.2
+    },
+    {
+      "id": "e19_b045",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 79,
+      "end": 81
+    },
+    {
+      "id": "e19_b046",
+      "type": "camera",
+      "scene": 2,
+      "start": 81.2,
+      "end": 83.8
+    },
+    {
+      "id": "e19_b047",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 81.5,
+      "end": 83.7
+    },
+    {
+      "id": "e19_b048",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 84,
+      "end": 85.5
+    },
+    {
+      "id": "e19_b049",
+      "type": "camera",
+      "scene": 2,
+      "start": 85.5,
+      "end": 89.5
+    },
+    {
+      "id": "e19_b050",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 85.9,
+      "end": 88.9
+    },
+    {
+      "id": "e19_b051",
+      "type": "camera",
+      "scene": 3,
+      "start": 89.5,
+      "end": 94
+    },
+    {
+      "id": "e19_b052",
+      "type": "camera",
+      "scene": 3,
+      "start": 94,
+      "end": 96.8
+    },
+    {
+      "id": "e19_b053",
+      "type": "camera",
+      "scene": 3,
+      "start": 96.8,
+      "end": 97.8
+    },
+    {
+      "id": "e19_b054",
+      "type": "action",
+      "scene": 3,
+      "start": 97.2,
+      "end": 100
+    },
+    {
+      "id": "e19_b055",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 97.4,
+      "end": 99.4
+    },
+    {
+      "id": "e19_b056",
+      "type": "camera",
+      "scene": 3,
+      "start": 99.9,
+      "end": 103
+    },
+    {
+      "id": "e19_b057",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 100.4,
+      "end": 102.6
+    },
+    {
+      "id": "e19_b058",
+      "type": "action",
+      "scene": 3,
+      "start": 103,
+      "end": 106
+    },
+    {
+      "id": "e19_b059",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 104.2,
+      "end": 106.2
+    },
+    {
+      "id": "e19_b060",
+      "type": "camera",
+      "scene": 3,
+      "start": 106,
+      "end": 109.8
+    },
+    {
+      "id": "e19_b061",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 107.3,
+      "end": 109.2
+    },
+    {
+      "id": "e19_b062",
+      "type": "action",
+      "scene": 3,
+      "start": 109.8,
+      "end": 112.5
+    },
+    {
+      "id": "e19_b063",
+      "type": "camera",
+      "scene": 3,
+      "start": 112.5,
+      "end": 119.63
+    }
+  ],
+  "scores": {
+    "e19_b002": {
+      "id": "e19_b002",
+      "hook": 7,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e19_b003": {
+      "id": "e19_b003",
+      "hook": 3,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b005": {
+      "id": "e19_b005",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b006": {
+      "id": "e19_b006",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b007": {
+      "id": "e19_b007",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b009": {
+      "id": "e19_b009",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e19_b011": {
+      "id": "e19_b011",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e19_b012": {
+      "id": "e19_b012",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e19_b013": {
+      "id": "e19_b013",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e19_b014": {
+      "id": "e19_b014",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e19_b015": {
+      "id": "e19_b015",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b017": {
+      "id": "e19_b017",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e19_b019": {
+      "id": "e19_b019",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e19_b020": {
+      "id": "e19_b020",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e19_b021": {
+      "id": "e19_b021",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e19_b022": {
+      "id": "e19_b022",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e19_b024": {
+      "id": "e19_b024",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e19_b025": {
+      "id": "e19_b025",
+      "hook": 1,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e19_b027": {
+      "id": "e19_b027",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e19_b028": {
+      "id": "e19_b028",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e19_b030": {
+      "id": "e19_b030",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b031": {
+      "id": "e19_b031",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e19_b033": {
+      "id": "e19_b033",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e19_b035": {
+      "id": "e19_b035",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e19_b037": {
+      "id": "e19_b037",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e19_b039": {
+      "id": "e19_b039",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e19_b041": {
+      "id": "e19_b041",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e19_b042": {
+      "id": "e19_b042",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b043": {
+      "id": "e19_b043",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "reveal"
+    },
+    "e19_b045": {
+      "id": "e19_b045",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e19_b047": {
+      "id": "e19_b047",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e19_b048": {
+      "id": "e19_b048",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e19_b050": {
+      "id": "e19_b050",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e19_b051": {
+      "id": "e19_b051",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b052": {
+      "id": "e19_b052",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b054": {
+      "id": "e19_b054",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b055": {
+      "id": "e19_b055",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b057": {
+      "id": "e19_b057",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b058": {
+      "id": "e19_b058",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b059": {
+      "id": "e19_b059",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b061": {
+      "id": "e19_b061",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b062": {
+      "id": "e19_b062",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e19_b063": {
+      "id": "e19_b063",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "m19_0251",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 19,
+          "start": 0,
+          "end": 11.8,
+          "beatIds": [
+            "e19_b001",
+            "e19_b002",
+            "e19_b003",
+            "e19_b004",
+            "e19_b005",
+            "e19_b006",
+            "e19_b007"
+          ]
+        },
+        {
+          "ep": 19,
+          "start": 76.5,
+          "end": 88.9,
+          "beatIds": [
+            "e19_b043",
+            "e19_b044",
+            "e19_b045",
+            "e19_b046",
+            "e19_b047",
+            "e19_b048",
+            "e19_b049",
+            "e19_b050"
+          ]
+        }
+      ],
+      "duration": 24.2,
+      "preScore": 12.7,
+      "tag": "other",
+      "scene": 1,
+      "hook_text": "Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.",
+      "cliffhanger_text": "Then Ashburg will remember who it belongs to. The viewer is left wondering how Alexander plans to reclaim his home and title.",
+      "why": "The transition from a personal tragedy to a high-stakes political revenge plot creates a compelling narrative arc.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Reclaiming The Stolen Ashburg Estate",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden shift from a cottage fire to a political conspiracy involving Ashburg and an unnamed mother is jarring and lacks context."
+        }
+      }
+    },
+    {
+      "id": "m19_0252",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 19,
+          "start": 0,
+          "end": 11.8,
+          "beatIds": [
+            "e19_b001",
+            "e19_b002",
+            "e19_b003",
+            "e19_b004",
+            "e19_b005",
+            "e19_b006",
+            "e19_b007"
+          ]
+        },
+        {
+          "ep": 19,
+          "start": 55.3,
+          "end": 70.5,
+          "beatIds": [
+            "e19_b032",
+            "e19_b033",
+            "e19_b034",
+            "e19_b035",
+            "e19_b036",
+            "e19_b037"
+          ]
+        }
+      ],
+      "duration": 27,
+      "preScore": 11.75,
+      "tag": "other",
+      "scene": 1,
+      "hook_text": "Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.",
+      "cliffhanger_text": "Every visitor is questioned. The clip ends on the oppressive nature of the surveillance surrounding the mother.",
+      "why": "It effectively establishes the antagonist's power and the stakes for the protagonist's mother, though it lacks a strong active resolution.",
+      "standalone": 7,
+      "hook_3s": 7,
+      "cliff": 6,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Siege Of The Household",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The introduction of Rupert and Lady Catherine without any prior setup makes the plot feel disjointed and difficult to follow."
+        }
+      }
+    },
+    {
+      "id": "m19_0253",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 19,
+          "start": 0,
+          "end": 11.8,
+          "beatIds": [
+            "e19_b001",
+            "e19_b002",
+            "e19_b003",
+            "e19_b004",
+            "e19_b005",
+            "e19_b006",
+            "e19_b007"
+          ]
+        },
+        {
+          "ep": 19,
+          "start": 65.1,
+          "end": 78.8,
+          "beatIds": [
+            "e19_b037",
+            "e19_b038",
+            "e19_b039",
+            "e19_b040",
+            "e19_b041",
+            "e19_b042",
+            "e19_b043"
+          ]
+        }
+      ],
+      "duration": 25.5,
+      "preScore": 11.75,
+      "tag": "other",
+      "scene": 1,
+      "hook_text": "Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.",
+      "cliffhanger_text": "My mother is a prisoner in her own house. The clip ends on the realization of his mother's dire situation.",
+      "why": "The emotional weight of the destroyed home paired with the revelation of the mother's imprisonment creates a strong sense of urgency.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "Rescuing The Imprisoned Mother",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The transition between the cottage scene and the informant's exposition is abrupt and leaves the viewer confused about the relationship between the characters."
+        }
+      }
+    }
+  ]
+}

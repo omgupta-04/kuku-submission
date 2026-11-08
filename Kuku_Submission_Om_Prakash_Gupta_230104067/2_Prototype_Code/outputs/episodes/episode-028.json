@@ -1,0 +1,1548 @@
+{
+  "ep": 28,
+  "file": "episode-028-Episode 1678581.txt",
+  "meta": {
+    "ep": 28,
+    "file": "episode-028-Episode 1678581.txt",
+    "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+    "continuity": "Picks up directly from Episode 27 as Rupert orders the guard to seize Juliana, ignoring the waking Duchess.",
+    "duration": 138.5
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. DUCHESS'S BEDCHAMBER – DAY",
+      "start": 0,
+      "end": 138.5
+    }
+  ],
+  "beats": [
+    {
+      "id": "e28_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 2.3
+    },
+    {
+      "id": "e28_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 2.1
+    },
+    {
+      "id": "e28_b003",
+      "type": "sfx",
+      "scene": 1,
+      "start": 1.8,
+      "end": 3.2
+    },
+    {
+      "id": "e28_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 2.3,
+      "end": 4.7
+    },
+    {
+      "id": "e28_b005",
+      "type": "action",
+      "scene": 1,
+      "start": 3.2,
+      "end": 4.6
+    },
+    {
+      "id": "e28_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.7,
+      "end": 10
+    },
+    {
+      "id": "e28_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 4.9,
+      "end": 6.3
+    },
+    {
+      "id": "e28_b008",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 6.6,
+      "end": 8.1
+    },
+    {
+      "id": "e28_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 8.2,
+      "end": 12.6
+    },
+    {
+      "id": "e28_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 8.4,
+      "end": 10
+    },
+    {
+      "id": "e28_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 10.2,
+      "end": 12.3
+    },
+    {
+      "id": "e28_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 12.6,
+      "end": 15.2
+    },
+    {
+      "id": "e28_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 12.7,
+      "end": 15
+    },
+    {
+      "id": "e28_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 15.2,
+      "end": 18.5
+    },
+    {
+      "id": "e28_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 15.3,
+      "end": 18.4
+    },
+    {
+      "id": "e28_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 18.5,
+      "end": 22.8
+    },
+    {
+      "id": "e28_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 18.9,
+      "end": 20.3
+    },
+    {
+      "id": "e28_b018",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20.4,
+      "end": 22.7
+    },
+    {
+      "id": "e28_b019",
+      "type": "camera",
+      "scene": 1,
+      "start": 22.8,
+      "end": 26.7
+    },
+    {
+      "id": "e28_b020",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 24.8,
+      "end": 26.5
+    },
+    {
+      "id": "e28_b021",
+      "type": "camera",
+      "scene": 1,
+      "start": 26.7,
+      "end": 28.4
+    },
+    {
+      "id": "e28_b022",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 26.7,
+      "end": 28.2
+    },
+    {
+      "id": "e28_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 28.4,
+      "end": 32.8
+    },
+    {
+      "id": "e28_b024",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 28.8,
+      "end": 30.3
+    },
+    {
+      "id": "e28_b025",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 30.8,
+      "end": 32.4
+    },
+    {
+      "id": "e28_b026",
+      "type": "camera",
+      "scene": 1,
+      "start": 32.8,
+      "end": 34.9
+    },
+    {
+      "id": "e28_b027",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 33.2,
+      "end": 34.6
+    },
+    {
+      "id": "e28_b028",
+      "type": "camera",
+      "scene": 1,
+      "start": 34.9,
+      "end": 37.7
+    },
+    {
+      "id": "e28_b029",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 35,
+      "end": 37.4
+    },
+    {
+      "id": "e28_b030",
+      "type": "camera",
+      "scene": 1,
+      "start": 37.7,
+      "end": 43
+    },
+    {
+      "id": "e28_b031",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 38.2,
+      "end": 40
+    },
+    {
+      "id": "e28_b032",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 40.3,
+      "end": 42.2
+    },
+    {
+      "id": "e28_b033",
+      "type": "camera",
+      "scene": 1,
+      "start": 43,
+      "end": 47.4
+    },
+    {
+      "id": "e28_b034",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 43.6,
+      "end": 45.3
+    },
+    {
+      "id": "e28_b035",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 45.6,
+      "end": 47
+    },
+    {
+      "id": "e28_b036",
+      "type": "action",
+      "scene": 1,
+      "start": 46.8,
+      "end": 48
+    },
+    {
+      "id": "e28_b037",
+      "type": "camera",
+      "scene": 1,
+      "start": 47.4,
+      "end": 52.2
+    },
+    {
+      "id": "e28_b038",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 48.2,
+      "end": 49.7
+    },
+    {
+      "id": "e28_b039",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 49.5,
+      "end": 52.1
+    },
+    {
+      "id": "e28_b040",
+      "type": "camera",
+      "scene": 1,
+      "start": 52.2,
+      "end": 56.8
+    },
+    {
+      "id": "e28_b041",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 52.8,
+      "end": 53.6
+    },
+    {
+      "id": "e28_b042",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 54,
+      "end": 56.6
+    },
+    {
+      "id": "e28_b043",
+      "type": "camera",
+      "scene": 1,
+      "start": 56.8,
+      "end": 61.3
+    },
+    {
+      "id": "e28_b044",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 57,
+      "end": 58.7
+    },
+    {
+      "id": "e28_b045",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 58.6,
+      "end": 60
+    },
+    {
+      "id": "e28_b046",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 60.1,
+      "end": 61.2
+    },
+    {
+      "id": "e28_b047",
+      "type": "camera",
+      "scene": 1,
+      "start": 61.3,
+      "end": 66.8
+    },
+    {
+      "id": "e28_b048",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 61.6,
+      "end": 64.8
+    },
+    {
+      "id": "e28_b049",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 64.9,
+      "end": 66.8
+    },
+    {
+      "id": "e28_b050",
+      "type": "camera",
+      "scene": 1,
+      "start": 66.8,
+      "end": 70.5
+    },
+    {
+      "id": "e28_b051",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 67.2,
+      "end": 70.2
+    },
+    {
+      "id": "e28_b052",
+      "type": "camera",
+      "scene": 1,
+      "start": 70.5,
+      "end": 72
+    },
+    {
+      "id": "e28_b053",
+      "type": "action",
+      "scene": 1,
+      "start": 70.8,
+      "end": 72
+    },
+    {
+      "id": "e28_b054",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 71.2,
+      "end": 72
+    },
+    {
+      "id": "e28_b055",
+      "type": "camera",
+      "scene": 1,
+      "start": 72,
+      "end": 75.3
+    },
+    {
+      "id": "e28_b056",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 72.2,
+      "end": 75.1
+    },
+    {
+      "id": "e28_b057",
+      "type": "camera",
+      "scene": 1,
+      "start": 75.3,
+      "end": 78.9
+    },
+    {
+      "id": "e28_b058",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 75.4,
+      "end": 76.4
+    },
+    {
+      "id": "e28_b059",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 76.8,
+      "end": 78.6
+    },
+    {
+      "id": "e28_b060",
+      "type": "camera",
+      "scene": 1,
+      "start": 78.9,
+      "end": 82.3
+    },
+    {
+      "id": "e28_b061",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 79,
+      "end": 81.9
+    },
+    {
+      "id": "e28_b062",
+      "type": "sfx",
+      "scene": 1,
+      "start": 81,
+      "end": 82.4
+    },
+    {
+      "id": "e28_b063",
+      "type": "camera",
+      "scene": 1,
+      "start": 82.3,
+      "end": 86.5
+    },
+    {
+      "id": "e28_b064",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 82.5,
+      "end": 84.4
+    },
+    {
+      "id": "e28_b065",
+      "type": "camera",
+      "scene": 1,
+      "start": 86.5,
+      "end": 91
+    },
+    {
+      "id": "e28_b066",
+      "type": "action",
+      "scene": 1,
+      "start": 88,
+      "end": 91
+    },
+    {
+      "id": "e28_b067",
+      "type": "camera",
+      "scene": 1,
+      "start": 91,
+      "end": 93.8
+    },
+    {
+      "id": "e28_b068",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 91.2,
+      "end": 92.8
+    },
+    {
+      "id": "e28_b069",
+      "type": "camera",
+      "scene": 1,
+      "start": 93.8,
+      "end": 95
+    },
+    {
+      "id": "e28_b070",
+      "type": "camera",
+      "scene": 1,
+      "start": 95,
+      "end": 97.4
+    },
+    {
+      "id": "e28_b071",
+      "type": "action",
+      "scene": 1,
+      "start": 95.2,
+      "end": 97
+    },
+    {
+      "id": "e28_b072",
+      "type": "camera",
+      "scene": 1,
+      "start": 97.4,
+      "end": 101.2
+    },
+    {
+      "id": "e28_b073",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 98.2,
+      "end": 100.8
+    },
+    {
+      "id": "e28_b074",
+      "type": "camera",
+      "scene": 1,
+      "start": 101.2,
+      "end": 107.8
+    },
+    {
+      "id": "e28_b075",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 101.5,
+      "end": 103.7
+    },
+    {
+      "id": "e28_b076",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 104.2,
+      "end": 105.6
+    },
+    {
+      "id": "e28_b077",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 105.6,
+      "end": 107.8
+    },
+    {
+      "id": "e28_b078",
+      "type": "camera",
+      "scene": 1,
+      "start": 107.8,
+      "end": 113
+    },
+    {
+      "id": "e28_b079",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 108.1,
+      "end": 111
+    },
+    {
+      "id": "e28_b080",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 111.1,
+      "end": 113
+    },
+    {
+      "id": "e28_b081",
+      "type": "camera",
+      "scene": 1,
+      "start": 113,
+      "end": 116.4
+    },
+    {
+      "id": "e28_b082",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 113.3,
+      "end": 115.8
+    },
+    {
+      "id": "e28_b083",
+      "type": "camera",
+      "scene": 1,
+      "start": 116.4,
+      "end": 122
+    },
+    {
+      "id": "e28_b084",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 116.4,
+      "end": 119.1
+    },
+    {
+      "id": "e28_b085",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 119.2,
+      "end": 121.8
+    },
+    {
+      "id": "e28_b086",
+      "type": "camera",
+      "scene": 1,
+      "start": 122,
+      "end": 124.9
+    },
+    {
+      "id": "e28_b087",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 122,
+      "end": 124.7
+    },
+    {
+      "id": "e28_b088",
+      "type": "camera",
+      "scene": 1,
+      "start": 124.9,
+      "end": 128.8
+    },
+    {
+      "id": "e28_b089",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 125,
+      "end": 125.7
+    },
+    {
+      "id": "e28_b090",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 125.9,
+      "end": 128.7
+    },
+    {
+      "id": "e28_b091",
+      "type": "camera",
+      "scene": 1,
+      "start": 128.8,
+      "end": 131.2
+    },
+    {
+      "id": "e28_b092",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 129.1,
+      "end": 131
+    },
+    {
+      "id": "e28_b093",
+      "type": "camera",
+      "scene": 1,
+      "start": 131.2,
+      "end": 136.8
+    },
+    {
+      "id": "e28_b094",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 131.4,
+      "end": 134.2
+    },
+    {
+      "id": "e28_b095",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 134.6,
+      "end": 136.7
+    },
+    {
+      "id": "e28_b096",
+      "type": "camera",
+      "scene": 1,
+      "start": 136.8,
+      "end": 138.5
+    }
+  ],
+  "scores": {
+    "e28_b002": {
+      "id": "e28_b002",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b003": {
+      "id": "e28_b003",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b005": {
+      "id": "e28_b005",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b007": {
+      "id": "e28_b007",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b008": {
+      "id": "e28_b008",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b010": {
+      "id": "e28_b010",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b011": {
+      "id": "e28_b011",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b013": {
+      "id": "e28_b013",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e28_b015": {
+      "id": "e28_b015",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b017": {
+      "id": "e28_b017",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e28_b018": {
+      "id": "e28_b018",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e28_b020": {
+      "id": "e28_b020",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b022": {
+      "id": "e28_b022",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 6,
+      "tag": "rescue"
+    },
+    "e28_b024": {
+      "id": "e28_b024",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b025": {
+      "id": "e28_b025",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b027": {
+      "id": "e28_b027",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b029": {
+      "id": "e28_b029",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b031": {
+      "id": "e28_b031",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 6,
+      "tag": "confession"
+    },
+    "e28_b032": {
+      "id": "e28_b032",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 6,
+      "tag": "betrayal"
+    },
+    "e28_b034": {
+      "id": "e28_b034",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 6,
+      "tag": "betrayal"
+    },
+    "e28_b035": {
+      "id": "e28_b035",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b036": {
+      "id": "e28_b036",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b038": {
+      "id": "e28_b038",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b039": {
+      "id": "e28_b039",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b041": {
+      "id": "e28_b041",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b042": {
+      "id": "e28_b042",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 6,
+      "tag": "threat"
+    },
+    "e28_b044": {
+      "id": "e28_b044",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b045": {
+      "id": "e28_b045",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b046": {
+      "id": "e28_b046",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b048": {
+      "id": "e28_b048",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b049": {
+      "id": "e28_b049",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e28_b051": {
+      "id": "e28_b051",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 6,
+      "tag": "threat"
+    },
+    "e28_b053": {
+      "id": "e28_b053",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b054": {
+      "id": "e28_b054",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b056": {
+      "id": "e28_b056",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b058": {
+      "id": "e28_b058",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b059": {
+      "id": "e28_b059",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b061": {
+      "id": "e28_b061",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b062": {
+      "id": "e28_b062",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b064": {
+      "id": "e28_b064",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b066": {
+      "id": "e28_b066",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b068": {
+      "id": "e28_b068",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b069": {
+      "id": "e28_b069",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 5,
+      "tag": "identity"
+    },
+    "e28_b071": {
+      "id": "e28_b071",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b073": {
+      "id": "e28_b073",
+      "hook": 9,
+      "cliff": 8,
+      "context_need": 5,
+      "tag": "identity"
+    },
+    "e28_b075": {
+      "id": "e28_b075",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b076": {
+      "id": "e28_b076",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b077": {
+      "id": "e28_b077",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b079": {
+      "id": "e28_b079",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b080": {
+      "id": "e28_b080",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b082": {
+      "id": "e28_b082",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b084": {
+      "id": "e28_b084",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b085": {
+      "id": "e28_b085",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e28_b087": {
+      "id": "e28_b087",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e28_b089": {
+      "id": "e28_b089",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b090": {
+      "id": "e28_b090",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e28_b092": {
+      "id": "e28_b092",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e28_b094": {
+      "id": "e28_b094",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e28_b095": {
+      "id": "e28_b095",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e28_b096": {
+      "id": "e28_b096",
+      "hook": 6,
+      "cliff": 9,
+      "context_need": 5,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "s28_0312",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 28,
+          "start": 98.2,
+          "end": 138.5,
+          "beatIds": [
+            "e28_b073",
+            "e28_b074",
+            "e28_b075",
+            "e28_b076",
+            "e28_b077",
+            "e28_b078",
+            "e28_b079",
+            "e28_b080",
+            "e28_b081",
+            "e28_b082",
+            "e28_b083",
+            "e28_b084",
+            "e28_b085",
+            "e28_b086",
+            "e28_b087",
+            "e28_b088",
+            "e28_b089",
+            "e28_b090",
+            "e28_b091",
+            "e28_b092",
+            "e28_b093",
+            "e28_b094",
+            "e28_b095",
+            "e28_b096"
+          ]
+        }
+      ],
+      "duration": 40.3,
+      "preScore": 15.5,
+      "tag": "identity",
+      "scene": 1,
+      "hook_text": "Lady Juliana Ashcroft.",
+      "cliffhanger_text": "The guard wrenches her backward into the dark hallway, cutting to black; her fate remains uncertain.",
+      "why": "The clip establishes a clear power dynamic and immediate stakes, though it lacks context for the characters' relationships.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "The Maid's Secret Identity Revealed",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip drops the viewer into the middle of a confrontation without establishing who the characters are or why the book matters."
+        }
+      }
+    },
+    {
+      "id": "m28_0327",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 28,
+          "start": 93.8,
+          "end": 105.6,
+          "beatIds": [
+            "e28_b069",
+            "e28_b070",
+            "e28_b071",
+            "e28_b072",
+            "e28_b073",
+            "e28_b074",
+            "e28_b075",
+            "e28_b076"
+          ]
+        },
+        {
+          "ep": 28,
+          "start": 125.9,
+          "end": 138.5,
+          "beatIds": [
+            "e28_b090",
+            "e28_b091",
+            "e28_b092",
+            "e28_b093",
+            "e28_b094",
+            "e28_b095",
+            "e28_b096"
+          ]
+        }
+      ],
+      "duration": 24.4,
+      "preScore": 14.5,
+      "tag": "identity",
+      "scene": 1,
+      "hook_text": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'.",
+      "cliffhanger_text": "The guard wrenches her backward into the dark hallway, cutting to black; her fate remains uncertain.",
+      "why": "Starting with the reveal of the name creates immediate intrigue, but the transition between segments feels slightly disjointed.",
+      "standalone": 5,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "high",
+      "title": "Identity Exposed Before The Magistrate",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden jump between two unrelated segments creates a jarring narrative gap that confuses the timeline."
+        }
+      }
+    },
+    {
+      "id": "m28_0324",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 28,
+          "start": 43.6,
+          "end": 53.6,
+          "beatIds": [
+            "e28_b034",
+            "e28_b035",
+            "e28_b036",
+            "e28_b037",
+            "e28_b038",
+            "e28_b039",
+            "e28_b040",
+            "e28_b041"
+          ]
+        },
+        {
+          "ep": 28,
+          "start": 125.9,
+          "end": 138.5,
+          "beatIds": [
+            "e28_b090",
+            "e28_b091",
+            "e28_b092",
+            "e28_b093",
+            "e28_b094",
+            "e28_b095",
+            "e28_b096"
+          ]
+        }
+      ],
+      "duration": 22.6,
+      "preScore": 14.23,
+      "tag": "betrayal",
+      "scene": 1,
+      "hook_text": "Catherine knew!",
+      "cliffhanger_text": "The guard wrenches her backward into the dark hallway, cutting to black; her fate remains uncertain.",
+      "why": "The opening provides high-stakes drama, but the jump between the Duchess's collapse and the book reveal is jarring.",
+      "standalone": 4,
+      "hook_3s": 7,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "high",
+      "title": "Duchess Betrayed And Maid Captured",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The transition between the Duchess's collapse and the herbarium scene is abrupt and lacks necessary context."
+        }
+      }
+    },
+    {
+      "id": "s28_0314",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 28,
+          "start": 43.6,
+          "end": 100.8,
+          "beatIds": [
+            "e28_b034",
+            "e28_b035",
+            "e28_b036",
+            "e28_b037",
+            "e28_b038",
+            "e28_b039",
+            "e28_b040",
+            "e28_b041",
+            "e28_b042",
+            "e28_b043",
+            "e28_b044",
+            "e28_b045",
+            "e28_b046",
+            "e28_b047",
+            "e28_b048",
+            "e28_b049",
+            "e28_b050",
+            "e28_b051",
+            "e28_b052",
+            "e28_b053",
+            "e28_b054",
+            "e28_b055",
+            "e28_b056",
+            "e28_b057",
+            "e28_b058",
+            "e28_b059",
+            "e28_b060",
+            "e28_b061",
+            "e28_b062",
+            "e28_b063",
+            "e28_b064",
+            "e28_b065",
+            "e28_b066",
+            "e28_b067",
+            "e28_b068",
+            "e28_b069",
+            "e28_b070",
+            "e28_b071",
+            "e28_b072",
+            "e28_b073"
+          ]
+        }
+      ],
+      "duration": 57.2,
+      "preScore": 13.25,
+      "tag": "betrayal",
+      "scene": 1,
+      "hook_text": "Catherine knew!",
+      "cliffhanger_text": "Catherine grins triumphantly after revealing the maid's true identity; the consequences are imminent.",
+      "why": "This clip provides the most comprehensive narrative arc, effectively building tension from the poisoning accusation to the identity reveal.",
+      "standalone": 7,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 9,
+      "spoiler_risk": "high",
+      "title": "The Duchess's Accusation And Exposure",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "This clip provides enough context to follow the escalating conflict, though the stakes remain high."
+        }
+      }
+    },
+    {
+      "id": "m28_0325",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 28,
+          "start": 43.6,
+          "end": 53.6,
+          "beatIds": [
+            "e28_b034",
+            "e28_b035",
+            "e28_b036",
+            "e28_b037",
+            "e28_b038",
+            "e28_b039",
+            "e28_b040",
+            "e28_b041"
+          ]
+        },
+        {
+          "ep": 28,
+          "start": 88,
+          "end": 100.8,
+          "beatIds": [
+            "e28_b066",
+            "e28_b067",
+            "e28_b068",
+            "e28_b069",
+            "e28_b070",
+            "e28_b071",
+            "e28_b072",
+            "e28_b073"
+          ]
+        }
+      ],
+      "duration": 22.8,
+      "preScore": 13.23,
+      "tag": "betrayal",
+      "scene": 1,
+      "hook_text": "Catherine knew!",
+      "cliffhanger_text": "Catherine grins triumphantly after revealing the maid's true identity; the consequences are imminent.",
+      "why": "It effectively bridges the Duchess's accusation with the maid's downfall, though it feels like a condensed version of a larger scene.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "high",
+      "title": "Betrayal Leads To Identity Reveal",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The disjointed segments make it difficult to understand the relationship between the Duchess's illness and the discovery of the book."
+        }
+      }
+    },
+    {
+      "id": "s28_0321",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 28,
+          "start": 70.8,
+          "end": 100.8,
+          "beatIds": [
+            "e28_b053",
+            "e28_b054",
+            "e28_b055",
+            "e28_b056",
+            "e28_b057",
+            "e28_b058",
+            "e28_b059",
+            "e28_b060",
+            "e28_b061",
+            "e28_b062",
+            "e28_b063",
+            "e28_b064",
+            "e28_b065",
+            "e28_b066",
+            "e28_b067",
+            "e28_b068",
+            "e28_b069",
+            "e28_b070",
+            "e28_b071",
+            "e28_b072",
+            "e28_b073"
+          ]
+        }
+      ],
+      "duration": 30,
+      "preScore": 12.5,
+      "tag": "humiliation",
+      "scene": 1,
+      "hook_text": "Catherine ruthlessly yanks the silver locket off Juliana's neck.",
+      "cliffhanger_text": "Catherine grins triumphantly after revealing the maid's true identity; the consequences are imminent.",
+      "why": "The physical action at the start is visceral and grabs attention, though the lack of context makes the stakes feel slightly isolated.",
+      "standalone": 5,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "high",
+      "title": "Locket Stolen And Identity Exposed",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The sequence of events is logical and builds tension effectively without requiring prior knowledge."
+        }
+      }
+    },
+    {
+      "id": "s28_0317",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 28,
+          "start": 20.4,
+          "end": 45.3,
+          "beatIds": [
+            "e28_b018",
+            "e28_b019",
+            "e28_b020",
+            "e28_b021",
+            "e28_b022",
+            "e28_b023",
+            "e28_b024",
+            "e28_b025",
+            "e28_b026",
+            "e28_b027",
+            "e28_b028",
+            "e28_b029",
+            "e28_b030",
+            "e28_b031",
+            "e28_b032",
+            "e28_b033",
+            "e28_b034"
+          ]
+        }
+      ],
+      "duration": 24.9,
+      "preScore": 11.05,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "But the guards know how to extract the truth.",
+      "cliffhanger_text": "The Duchess gasps 'Catherine knew!' while pointing an accusing finger; the conspiracy is laid bare.",
+      "why": "The dialogue-heavy opening is compelling, but it lacks the visual punch of the other clips that feature the book reveal.",
+      "standalone": 6,
+      "hook_3s": 6,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "The Duchess Exposes The Poisoner",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden shift to the Duchess's accusation lacks the necessary setup to make the emotional stakes clear to a new viewer."
+        }
+      }
+    }
+  ]
+}

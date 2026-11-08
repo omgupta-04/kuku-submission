@@ -1,0 +1,1023 @@
+{
+  "ep": 31,
+  "file": "episode-031-Episode 1681364.txt",
+  "meta": {
+    "ep": 31,
+    "file": "episode-031-Episode 1681364.txt",
+    "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+    "continuity": "Follows directly from Episode 30 where Rupert and Catherine plotted to frame Juliana as a witch while Juliana huddled chained in the subterranean dungeon.",
+    "duration": 160
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT",
+      "start": 0,
+      "end": 160
+    }
+  ],
+  "beats": [
+    {
+      "id": "e31_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 2.8
+    },
+    {
+      "id": "e31_b002",
+      "type": "sfx",
+      "scene": 1,
+      "start": 0,
+      "end": 2.8
+    },
+    {
+      "id": "e31_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 2.8,
+      "end": 4.2
+    },
+    {
+      "id": "e31_b004",
+      "type": "action",
+      "scene": 1,
+      "start": 2.8,
+      "end": 4.2
+    },
+    {
+      "id": "e31_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.2,
+      "end": 9.5
+    },
+    {
+      "id": "e31_b006",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 6.9,
+      "end": 8.8
+    },
+    {
+      "id": "e31_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.5,
+      "end": 10.5
+    },
+    {
+      "id": "e31_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 10.5,
+      "end": 13.8
+    },
+    {
+      "id": "e31_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 10.5,
+      "end": 13.8
+    },
+    {
+      "id": "e31_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 13.8,
+      "end": 17.6
+    },
+    {
+      "id": "e31_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 14,
+      "end": 17.6
+    },
+    {
+      "id": "e31_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 17.6,
+      "end": 20.8
+    },
+    {
+      "id": "e31_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 17.8,
+      "end": 20.5
+    },
+    {
+      "id": "e31_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 20.8,
+      "end": 24.5
+    },
+    {
+      "id": "e31_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 21,
+      "end": 23.5
+    },
+    {
+      "id": "e31_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 24.5,
+      "end": 29
+    },
+    {
+      "id": "e31_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 25,
+      "end": 28.9
+    },
+    {
+      "id": "e31_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 29,
+      "end": 34.8
+    },
+    {
+      "id": "e31_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 29.3,
+      "end": 34.8
+    },
+    {
+      "id": "e31_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 34.8,
+      "end": 39
+    },
+    {
+      "id": "e31_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 35,
+      "end": 38.9
+    },
+    {
+      "id": "e31_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 39,
+      "end": 43
+    },
+    {
+      "id": "e31_b023",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 39.2,
+      "end": 43
+    },
+    {
+      "id": "e31_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 43,
+      "end": 48.5
+    },
+    {
+      "id": "e31_b025",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 43.2,
+      "end": 48.5
+    },
+    {
+      "id": "e31_b026",
+      "type": "camera",
+      "scene": 1,
+      "start": 48.5,
+      "end": 54.8
+    },
+    {
+      "id": "e31_b027",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 48.9,
+      "end": 50.8
+    },
+    {
+      "id": "e31_b028",
+      "type": "action",
+      "scene": 1,
+      "start": 49,
+      "end": 52
+    },
+    {
+      "id": "e31_b029",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 51,
+      "end": 54.8
+    },
+    {
+      "id": "e31_b030",
+      "type": "camera",
+      "scene": 1,
+      "start": 54.8,
+      "end": 59
+    },
+    {
+      "id": "e31_b031",
+      "type": "sfx",
+      "scene": 1,
+      "start": 55.2,
+      "end": 57.5
+    },
+    {
+      "id": "e31_b032",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 55.5,
+      "end": 58.8
+    },
+    {
+      "id": "e31_b033",
+      "type": "camera",
+      "scene": 1,
+      "start": 59,
+      "end": 65.5
+    },
+    {
+      "id": "e31_b034",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 59.2,
+      "end": 61.3
+    },
+    {
+      "id": "e31_b035",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 61.5,
+      "end": 63.5
+    },
+    {
+      "id": "e31_b036",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 63.8,
+      "end": 65.3
+    },
+    {
+      "id": "e31_b037",
+      "type": "camera",
+      "scene": 1,
+      "start": 65.5,
+      "end": 67.5
+    },
+    {
+      "id": "e31_b038",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 65.6,
+      "end": 67.4
+    },
+    {
+      "id": "e31_b039",
+      "type": "camera",
+      "scene": 1,
+      "start": 67.5,
+      "end": 70.5
+    },
+    {
+      "id": "e31_b040",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 67.6,
+      "end": 69.8
+    },
+    {
+      "id": "e31_b041",
+      "type": "camera",
+      "scene": 1,
+      "start": 70.5,
+      "end": 73.3
+    },
+    {
+      "id": "e31_b042",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 70.8,
+      "end": 73.2
+    },
+    {
+      "id": "e31_b043",
+      "type": "camera",
+      "scene": 1,
+      "start": 73.3,
+      "end": 77.6
+    },
+    {
+      "id": "e31_b044",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 73.5,
+      "end": 77.6
+    },
+    {
+      "id": "e31_b045",
+      "type": "camera",
+      "scene": 1,
+      "start": 77.6,
+      "end": 80.5
+    },
+    {
+      "id": "e31_b046",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 77.8,
+      "end": 80.2
+    },
+    {
+      "id": "e31_b047",
+      "type": "camera",
+      "scene": 1,
+      "start": 80.5,
+      "end": 83.2
+    },
+    {
+      "id": "e31_b048",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 80.8,
+      "end": 83.2
+    },
+    {
+      "id": "e31_b049",
+      "type": "camera",
+      "scene": 1,
+      "start": 83.2,
+      "end": 88
+    },
+    {
+      "id": "e31_b050",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 83.5,
+      "end": 87.4
+    },
+    {
+      "id": "e31_b051",
+      "type": "camera",
+      "scene": 1,
+      "start": 87.5,
+      "end": 91.2
+    },
+    {
+      "id": "e31_b052",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 87.8,
+      "end": 91.2
+    },
+    {
+      "id": "e31_b053",
+      "type": "camera",
+      "scene": 1,
+      "start": 91.2,
+      "end": 94.2
+    },
+    {
+      "id": "e31_b054",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 91.4,
+      "end": 94.2
+    },
+    {
+      "id": "e31_b055",
+      "type": "camera",
+      "scene": 1,
+      "start": 94.2,
+      "end": 98.2
+    },
+    {
+      "id": "e31_b056",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 94.5,
+      "end": 98.2
+    },
+    {
+      "id": "e31_b057",
+      "type": "camera",
+      "scene": 1,
+      "start": 98.2,
+      "end": 103.5
+    },
+    {
+      "id": "e31_b058",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 98.5,
+      "end": 103.3
+    },
+    {
+      "id": "e31_b059",
+      "type": "camera",
+      "scene": 1,
+      "start": 103.5,
+      "end": 108.8
+    },
+    {
+      "id": "e31_b060",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 103.7,
+      "end": 108.5
+    },
+    {
+      "id": "e31_b061",
+      "type": "camera",
+      "scene": 1,
+      "start": 108.8,
+      "end": 110.5
+    },
+    {
+      "id": "e31_b062",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 110.2,
+      "end": 111.4
+    },
+    {
+      "id": "e31_b063",
+      "type": "camera",
+      "scene": 1,
+      "start": 111.5,
+      "end": 118.2
+    },
+    {
+      "id": "e31_b064",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 111.6,
+      "end": 118.2
+    },
+    {
+      "id": "e31_b065",
+      "type": "camera",
+      "scene": 1,
+      "start": 118.2,
+      "end": 122.5
+    },
+    {
+      "id": "e31_b066",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 118.4,
+      "end": 122
+    },
+    {
+      "id": "e31_b067",
+      "type": "action",
+      "scene": 1,
+      "start": 122,
+      "end": 124
+    },
+    {
+      "id": "e31_b068",
+      "type": "camera",
+      "scene": 1,
+      "start": 124,
+      "end": 130.8
+    },
+    {
+      "id": "e31_b069",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 124.2,
+      "end": 130.5
+    },
+    {
+      "id": "e31_b070",
+      "type": "camera",
+      "scene": 1,
+      "start": 130.8,
+      "end": 133
+    },
+    {
+      "id": "e31_b071",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 131,
+      "end": 132.8
+    },
+    {
+      "id": "e31_b072",
+      "type": "camera",
+      "scene": 1,
+      "start": 133,
+      "end": 134.5
+    },
+    {
+      "id": "e31_b073",
+      "type": "sfx",
+      "scene": 1,
+      "start": 133.2,
+      "end": 134.5
+    },
+    {
+      "id": "e31_b074",
+      "type": "camera",
+      "scene": 1,
+      "start": 134.5,
+      "end": 138
+    },
+    {
+      "id": "e31_b075",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 134.5,
+      "end": 138
+    },
+    {
+      "id": "e31_b076",
+      "type": "camera",
+      "scene": 1,
+      "start": 138,
+      "end": 140.5
+    },
+    {
+      "id": "e31_b077",
+      "type": "action",
+      "scene": 1,
+      "start": 138,
+      "end": 140.5
+    },
+    {
+      "id": "e31_b078",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 138.4,
+      "end": 140.4
+    },
+    {
+      "id": "e31_b079",
+      "type": "camera",
+      "scene": 1,
+      "start": 140.5,
+      "end": 143.8
+    },
+    {
+      "id": "e31_b080",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 140.7,
+      "end": 143.8
+    },
+    {
+      "id": "e31_b081",
+      "type": "camera",
+      "scene": 1,
+      "start": 143.8,
+      "end": 145.5
+    },
+    {
+      "id": "e31_b082",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 144,
+      "end": 145.5
+    },
+    {
+      "id": "e31_b083",
+      "type": "camera",
+      "scene": 1,
+      "start": 145.5,
+      "end": 151.2
+    },
+    {
+      "id": "e31_b084",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 145.6,
+      "end": 151.2
+    },
+    {
+      "id": "e31_b085",
+      "type": "camera",
+      "scene": 1,
+      "start": 151.2,
+      "end": 155.2
+    },
+    {
+      "id": "e31_b086",
+      "type": "action",
+      "scene": 1,
+      "start": 151.5,
+      "end": 155.2
+    },
+    {
+      "id": "e31_b087",
+      "type": "camera",
+      "scene": 1,
+      "start": 155.2,
+      "end": 160
+    }
+  ],
+  "scores": {
+    "e31_b002": {
+      "id": "e31_b002",
+      "hook": 7,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b004": {
+      "id": "e31_b004",
+      "hook": 6,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e31_b006": {
+      "id": "e31_b006",
+      "hook": 5,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e31_b007": {
+      "id": "e31_b007",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b009": {
+      "id": "e31_b009",
+      "hook": 6,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e31_b011": {
+      "id": "e31_b011",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e31_b013": {
+      "id": "e31_b013",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b015": {
+      "id": "e31_b015",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b017": {
+      "id": "e31_b017",
+      "hook": 7,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e31_b019": {
+      "id": "e31_b019",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e31_b021": {
+      "id": "e31_b021",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e31_b023": {
+      "id": "e31_b023",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b025": {
+      "id": "e31_b025",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e31_b027": {
+      "id": "e31_b027",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b028": {
+      "id": "e31_b028",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b029": {
+      "id": "e31_b029",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e31_b031": {
+      "id": "e31_b031",
+      "hook": 5,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e31_b032": {
+      "id": "e31_b032",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e31_b034": {
+      "id": "e31_b034",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b035": {
+      "id": "e31_b035",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b036": {
+      "id": "e31_b036",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b038": {
+      "id": "e31_b038",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b040": {
+      "id": "e31_b040",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b042": {
+      "id": "e31_b042",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b044": {
+      "id": "e31_b044",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b046": {
+      "id": "e31_b046",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b048": {
+      "id": "e31_b048",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b050": {
+      "id": "e31_b050",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e31_b052": {
+      "id": "e31_b052",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b054": {
+      "id": "e31_b054",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b056": {
+      "id": "e31_b056",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b058": {
+      "id": "e31_b058",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b060": {
+      "id": "e31_b060",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b062": {
+      "id": "e31_b062",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b064": {
+      "id": "e31_b064",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b066": {
+      "id": "e31_b066",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e31_b067": {
+      "id": "e31_b067",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b069": {
+      "id": "e31_b069",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b071": {
+      "id": "e31_b071",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b073": {
+      "id": "e31_b073",
+      "hook": 8,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e31_b075": {
+      "id": "e31_b075",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e31_b077": {
+      "id": "e31_b077",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b078": {
+      "id": "e31_b078",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b080": {
+      "id": "e31_b080",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e31_b082": {
+      "id": "e31_b082",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e31_b084": {
+      "id": "e31_b084",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e31_b086": {
+      "id": "e31_b086",
+      "hook": 9,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e31_b087": {
+      "id": "e31_b087",
+      "hook": 10,
+      "cliff": 10,
+      "context_need": 2,
+      "tag": "threat"
+    }
+  },
+  "promos": [
+    {
+      "id": "s31_0347",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 31,
+          "start": 133.2,
+          "end": 160,
+          "beatIds": [
+            "e31_b073",
+            "e31_b074",
+            "e31_b075",
+            "e31_b076",
+            "e31_b077",
+            "e31_b078",
+            "e31_b079",
+            "e31_b080",
+            "e31_b081",
+            "e31_b082",
+            "e31_b083",
+            "e31_b084",
+            "e31_b085",
+            "e31_b086",
+            "e31_b087"
+          ]
+        }
+      ],
+      "duration": 26.8,
+      "preScore": 17,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Hiss of scorched parchment and curling white smoke rising as paper blackens under extreme heat.",
+      "cliffhanger_text": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil.",
+      "why": "The immediate visual of destruction combined with the high-stakes power dynamic creates instant, visceral tension that hooks the viewer without needing context.",
+      "standalone": 9,
+      "hook_3s": 9,
+      "cliff": 9,
+      "emotion": 9,
+      "spoiler_risk": "low",
+      "title": "The Burning Book Dungeon Confrontation",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip lacks context regarding the relationship between the characters and the significance of the book, making the stakes feel unearned for a new viewer."
+        }
+      }
+    }
+  ]
+}

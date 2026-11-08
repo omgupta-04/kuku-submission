@@ -1,0 +1,1002 @@
+{
+  "ep": 21,
+  "file": "episode-021-Episode 1678574.txt",
+  "meta": {
+    "ep": 21,
+    "file": "episode-021-Episode 1678574.txt",
+    "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+    "continuity": "Directly follows Episode 20's cliffhanger where Catherine and Rupert plotted to seize Ashbury upon the Dowager Duchess's demise; in the village, Juliana puts aside her grief over her burned cottage to save young Toby, stumbling upon critical intelligence regarding the manor.",
+    "duration": 114
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. BARN – DAY",
+      "start": 0,
+      "end": 40.5
+    },
+    {
+      "n": 2,
+      "heading": "EXT. VILLAGE LANE – CONTINUOUS",
+      "start": 40.5,
+      "end": 42.8
+    },
+    {
+      "n": 3,
+      "heading": "INT. PRUDENCE'S COTTAGE – CONTINUOUS",
+      "start": 42.8,
+      "end": 114
+    }
+  ],
+  "beats": [
+    {
+      "id": "e21_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 3.5
+    },
+    {
+      "id": "e21_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 3.5
+    },
+    {
+      "id": "e21_b003",
+      "type": "sfx",
+      "scene": 1,
+      "start": 3.5,
+      "end": 4.8
+    },
+    {
+      "id": "e21_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 3.6,
+      "end": 8.5
+    },
+    {
+      "id": "e21_b005",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 4.2,
+      "end": 8
+    },
+    {
+      "id": "e21_b006",
+      "type": "action",
+      "scene": 1,
+      "start": 8.2,
+      "end": 10.5
+    },
+    {
+      "id": "e21_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 8.5,
+      "end": 11.2
+    },
+    {
+      "id": "e21_b008",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 8.5,
+      "end": 11
+    },
+    {
+      "id": "e21_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.2,
+      "end": 15.1
+    },
+    {
+      "id": "e21_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 11.2,
+      "end": 15
+    },
+    {
+      "id": "e21_b011",
+      "type": "camera",
+      "scene": 1,
+      "start": 15.1,
+      "end": 18.2
+    },
+    {
+      "id": "e21_b012",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 15,
+      "end": 18.2
+    },
+    {
+      "id": "e21_b013",
+      "type": "camera",
+      "scene": 1,
+      "start": 18.2,
+      "end": 21.8
+    },
+    {
+      "id": "e21_b014",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 18.2,
+      "end": 21.7
+    },
+    {
+      "id": "e21_b015",
+      "type": "camera",
+      "scene": 1,
+      "start": 21.8,
+      "end": 25
+    },
+    {
+      "id": "e21_b016",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 21.8,
+      "end": 25.3
+    },
+    {
+      "id": "e21_b017",
+      "type": "camera",
+      "scene": 1,
+      "start": 25,
+      "end": 30.9
+    },
+    {
+      "id": "e21_b018",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 25.1,
+      "end": 27.4
+    },
+    {
+      "id": "e21_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 27.5,
+      "end": 30.8
+    },
+    {
+      "id": "e21_b020",
+      "type": "action",
+      "scene": 1,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": "e21_b021",
+      "type": "camera",
+      "scene": 1,
+      "start": 31.1,
+      "end": 35.8
+    },
+    {
+      "id": "e21_b022",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 31,
+      "end": 35.8
+    },
+    {
+      "id": "e21_b023",
+      "type": "action",
+      "scene": 1,
+      "start": 35.8,
+      "end": 39.5
+    },
+    {
+      "id": "e21_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 35.9,
+      "end": 40.5
+    },
+    {
+      "id": "e21_b025",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 35.9,
+      "end": 40.4
+    },
+    {
+      "id": "e21_b026",
+      "type": "camera",
+      "scene": 2,
+      "start": 40.5,
+      "end": 42.8
+    },
+    {
+      "id": "e21_b027",
+      "type": "action",
+      "scene": 2,
+      "start": 40.5,
+      "end": 42.8
+    },
+    {
+      "id": "e21_b028",
+      "type": "camera",
+      "scene": 3,
+      "start": 42.8,
+      "end": 45.5
+    },
+    {
+      "id": "e21_b029",
+      "type": "sfx",
+      "scene": 3,
+      "start": 42.8,
+      "end": 45.5
+    },
+    {
+      "id": "e21_b030",
+      "type": "action",
+      "scene": 3,
+      "start": 45.5,
+      "end": 48
+    },
+    {
+      "id": "e21_b031",
+      "type": "camera",
+      "scene": 3,
+      "start": 45.5,
+      "end": 48.5
+    },
+    {
+      "id": "e21_b032",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 47.3,
+      "end": 48.8
+    },
+    {
+      "id": "e21_b033",
+      "type": "action",
+      "scene": 3,
+      "start": 48.8,
+      "end": 50.5
+    },
+    {
+      "id": "e21_b034",
+      "type": "camera",
+      "scene": 3,
+      "start": 48.8,
+      "end": 51.2
+    },
+    {
+      "id": "e21_b035",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 48.9,
+      "end": 50.8
+    },
+    {
+      "id": "e21_b036",
+      "type": "camera",
+      "scene": 3,
+      "start": 51.2,
+      "end": 54
+    },
+    {
+      "id": "e21_b037",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 51.2,
+      "end": 53
+    },
+    {
+      "id": "e21_b038",
+      "type": "action",
+      "scene": 3,
+      "start": 53,
+      "end": 55
+    },
+    {
+      "id": "e21_b039",
+      "type": "camera",
+      "scene": 3,
+      "start": 54,
+      "end": 56.2
+    },
+    {
+      "id": "e21_b040",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 54.1,
+      "end": 58.2
+    },
+    {
+      "id": "e21_b041",
+      "type": "action",
+      "scene": 3,
+      "start": 58.2,
+      "end": 60.5
+    },
+    {
+      "id": "e21_b042",
+      "type": "camera",
+      "scene": 3,
+      "start": 58.5,
+      "end": 60.8
+    },
+    {
+      "id": "e21_b043",
+      "type": "action",
+      "scene": 3,
+      "start": 60.8,
+      "end": 64
+    },
+    {
+      "id": "e21_b044",
+      "type": "camera",
+      "scene": 3,
+      "start": 60.8,
+      "end": 64.5
+    },
+    {
+      "id": "e21_b045",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 61,
+      "end": 64
+    },
+    {
+      "id": "e21_b046",
+      "type": "camera",
+      "scene": 3,
+      "start": 64.5,
+      "end": 66.8
+    },
+    {
+      "id": "e21_b047",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 64.5,
+      "end": 66.6
+    },
+    {
+      "id": "e21_b048",
+      "type": "camera",
+      "scene": 3,
+      "start": 66.8,
+      "end": 70.5
+    },
+    {
+      "id": "e21_b049",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 66.8,
+      "end": 70.4
+    },
+    {
+      "id": "e21_b050",
+      "type": "action",
+      "scene": 3,
+      "start": 70.5,
+      "end": 73.5
+    },
+    {
+      "id": "e21_b051",
+      "type": "camera",
+      "scene": 3,
+      "start": 70.5,
+      "end": 72
+    },
+    {
+      "id": "e21_b052",
+      "type": "camera",
+      "scene": 3,
+      "start": 72,
+      "end": 76
+    },
+    {
+      "id": "e21_b053",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 72,
+      "end": 75.5
+    },
+    {
+      "id": "e21_b054",
+      "type": "action",
+      "scene": 3,
+      "start": 75.5,
+      "end": 79.5
+    },
+    {
+      "id": "e21_b055",
+      "type": "camera",
+      "scene": 3,
+      "start": 76,
+      "end": 79.8
+    },
+    {
+      "id": "e21_b056",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 76,
+      "end": 79.6
+    },
+    {
+      "id": "e21_b057",
+      "type": "camera",
+      "scene": 3,
+      "start": 79.8,
+      "end": 87.5
+    },
+    {
+      "id": "e21_b058",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 79.8,
+      "end": 83
+    },
+    {
+      "id": "e21_b059",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 83,
+      "end": 87.5
+    },
+    {
+      "id": "e21_b060",
+      "type": "action",
+      "scene": 3,
+      "start": 87.5,
+      "end": 90.8
+    },
+    {
+      "id": "e21_b061",
+      "type": "camera",
+      "scene": 3,
+      "start": 87.5,
+      "end": 91
+    },
+    {
+      "id": "e21_b062",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 87.7,
+      "end": 90.5
+    },
+    {
+      "id": "e21_b063",
+      "type": "camera",
+      "scene": 3,
+      "start": 91,
+      "end": 96.5
+    },
+    {
+      "id": "e21_b064",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 91,
+      "end": 94.5
+    },
+    {
+      "id": "e21_b065",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 94.6,
+      "end": 96.4
+    },
+    {
+      "id": "e21_b066",
+      "type": "action",
+      "scene": 3,
+      "start": 96.5,
+      "end": 98.2
+    },
+    {
+      "id": "e21_b067",
+      "type": "camera",
+      "scene": 3,
+      "start": 96.5,
+      "end": 99.2
+    },
+    {
+      "id": "e21_b068",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 96.5,
+      "end": 99.2
+    },
+    {
+      "id": "e21_b069",
+      "type": "camera",
+      "scene": 3,
+      "start": 99.2,
+      "end": 101.2
+    },
+    {
+      "id": "e21_b070",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 99.2,
+      "end": 101.2
+    },
+    {
+      "id": "e21_b071",
+      "type": "camera",
+      "scene": 3,
+      "start": 101.2,
+      "end": 106.8
+    },
+    {
+      "id": "e21_b072",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 101.2,
+      "end": 103.4
+    },
+    {
+      "id": "e21_b073",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 103.5,
+      "end": 108.4
+    },
+    {
+      "id": "e21_b074",
+      "type": "camera",
+      "scene": 3,
+      "start": 106.8,
+      "end": 108.5
+    },
+    {
+      "id": "e21_b075",
+      "type": "action",
+      "scene": 3,
+      "start": 108.5,
+      "end": 114
+    },
+    {
+      "id": "e21_b076",
+      "type": "camera",
+      "scene": 3,
+      "start": 108.5,
+      "end": 114
+    }
+  ],
+  "scores": {
+    "e21_b002": {
+      "id": "e21_b002",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e21_b003": {
+      "id": "e21_b003",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b005": {
+      "id": "e21_b005",
+      "hook": 7,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e21_b006": {
+      "id": "e21_b006",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b008": {
+      "id": "e21_b008",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b010": {
+      "id": "e21_b010",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b012": {
+      "id": "e21_b012",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b014": {
+      "id": "e21_b014",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "humiliation"
+    },
+    "e21_b016": {
+      "id": "e21_b016",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e21_b018": {
+      "id": "e21_b018",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e21_b019": {
+      "id": "e21_b019",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e21_b020": {
+      "id": "e21_b020",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b022": {
+      "id": "e21_b022",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e21_b023": {
+      "id": "e21_b023",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b025": {
+      "id": "e21_b025",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e21_b027": {
+      "id": "e21_b027",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b029": {
+      "id": "e21_b029",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b030": {
+      "id": "e21_b030",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b032": {
+      "id": "e21_b032",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b033": {
+      "id": "e21_b033",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b035": {
+      "id": "e21_b035",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b037": {
+      "id": "e21_b037",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b038": {
+      "id": "e21_b038",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b040": {
+      "id": "e21_b040",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e21_b041": {
+      "id": "e21_b041",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b043": {
+      "id": "e21_b043",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b045": {
+      "id": "e21_b045",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b047": {
+      "id": "e21_b047",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b049": {
+      "id": "e21_b049",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b050": {
+      "id": "e21_b050",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "rescue"
+    },
+    "e21_b053": {
+      "id": "e21_b053",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b054": {
+      "id": "e21_b054",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b056": {
+      "id": "e21_b056",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b058": {
+      "id": "e21_b058",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e21_b059": {
+      "id": "e21_b059",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e21_b060": {
+      "id": "e21_b060",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b062": {
+      "id": "e21_b062",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b064": {
+      "id": "e21_b064",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e21_b065": {
+      "id": "e21_b065",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e21_b066": {
+      "id": "e21_b066",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e21_b068": {
+      "id": "e21_b068",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e21_b070": {
+      "id": "e21_b070",
+      "hook": 7,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e21_b072": {
+      "id": "e21_b072",
+      "hook": 7,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e21_b073": {
+      "id": "e21_b073",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e21_b075": {
+      "id": "e21_b075",
+      "hook": 4,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "reveal"
+    }
+  },
+  "promos": [
+    {
+      "id": "m21_0254",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 21,
+          "start": 4.2,
+          "end": 15,
+          "beatIds": [
+            "e21_b005",
+            "e21_b006",
+            "e21_b007",
+            "e21_b008",
+            "e21_b009",
+            "e21_b010"
+          ]
+        },
+        {
+          "ep": 21,
+          "start": 101.2,
+          "end": 114,
+          "beatIds": [
+            "e21_b071",
+            "e21_b072",
+            "e21_b073",
+            "e21_b074",
+            "e21_b075",
+            "e21_b076"
+          ]
+        }
+      ],
+      "duration": 23.6,
+      "preScore": 15.5,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "Lady Juliana! Please! You have to help me, Toby is dying!",
+      "cliffhanger_text": "Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.",
+      "why": "The clip establishes a high-stakes medical emergency immediately, though the transition to a different patient feels slightly disjointed.",
+      "standalone": 7,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "The Village Girl's Urgent Plea",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden shift from the brother's illness to a mysterious woman's illness creates a jarring narrative disconnect."
+        }
+      }
+    },
+    {
+      "id": "m21_0255",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 21,
+          "start": 4.2,
+          "end": 15,
+          "beatIds": [
+            "e21_b005",
+            "e21_b006",
+            "e21_b007",
+            "e21_b008",
+            "e21_b009",
+            "e21_b010"
+          ]
+        },
+        {
+          "ep": 21,
+          "start": 94.6,
+          "end": 108.4,
+          "beatIds": [
+            "e21_b065",
+            "e21_b066",
+            "e21_b067",
+            "e21_b068",
+            "e21_b069",
+            "e21_b070",
+            "e21_b071",
+            "e21_b072",
+            "e21_b073",
+            "e21_b074"
+          ]
+        }
+      ],
+      "duration": 24.6,
+      "preScore": 14.5,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "Lady Juliana! Please! You have to help me, Toby is dying!",
+      "cliffhanger_text": "Inside that massive house with all their wealth, she is fading to nothing, and no one can stop it.",
+      "why": "This version provides better narrative flow by connecting the initial plea to the broader mystery of the Duchess's illness.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "Mystery of the Dying Duchess",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The dialogue jumps between two different patients without clear context, leaving the audience confused about the actual stakes."
+        }
+      }
+    }
+  ]
+}

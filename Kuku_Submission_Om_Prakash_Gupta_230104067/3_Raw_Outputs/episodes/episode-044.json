@@ -1,0 +1,668 @@
+{
+  "ep": 44,
+  "file": "episode-044-Episode 1686804.txt",
+  "meta": {
+    "ep": 44,
+    "file": "episode-044-Episode 1686804.txt",
+    "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+    "continuity": "Picks up immediately from Episode 43's cliffhanger at the church side exit; Lord Sterling's escape is blocked by the Police Constable, leading into the downfall of the conspirators.",
+    "duration": 70.5
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. RUINED CATHEDRAL - SIDE ENTRANCE – DAY",
+      "start": 0,
+      "end": 13.8
+    },
+    {
+      "n": 2,
+      "heading": "INT. RUINED CATHEDRAL - ALTAR & NAVE – CONTINUOUS",
+      "start": 13.8,
+      "end": 70.5
+    }
+  ],
+  "beats": [
+    {
+      "id": "e44_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 3.2
+    },
+    {
+      "id": "e44_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 3.2
+    },
+    {
+      "id": "e44_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 3.2,
+      "end": 8.6
+    },
+    {
+      "id": "e44_b004",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 3.3,
+      "end": 8.2
+    },
+    {
+      "id": "e44_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 8.6,
+      "end": 11.4
+    },
+    {
+      "id": "e44_b006",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 9.1,
+      "end": 11.2
+    },
+    {
+      "id": "e44_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.4,
+      "end": 13.8
+    },
+    {
+      "id": "e44_b008",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 11.4,
+      "end": 13.2
+    },
+    {
+      "id": "e44_b009",
+      "type": "camera",
+      "scene": 2,
+      "start": 13.8,
+      "end": 16.4
+    },
+    {
+      "id": "e44_b010",
+      "type": "action",
+      "scene": 2,
+      "start": 14,
+      "end": 16.4
+    },
+    {
+      "id": "e44_b011",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 14,
+      "end": 16.8
+    },
+    {
+      "id": "e44_b012",
+      "type": "camera",
+      "scene": 2,
+      "start": 16.4,
+      "end": 19.4
+    },
+    {
+      "id": "e44_b013",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 17.4,
+      "end": 19.3
+    },
+    {
+      "id": "e44_b014",
+      "type": "camera",
+      "scene": 2,
+      "start": 19.4,
+      "end": 22
+    },
+    {
+      "id": "e44_b015",
+      "type": "action",
+      "scene": 2,
+      "start": 21.8,
+      "end": 24.4
+    },
+    {
+      "id": "e44_b016",
+      "type": "camera",
+      "scene": 2,
+      "start": 22,
+      "end": 24.4
+    },
+    {
+      "id": "e44_b017",
+      "type": "camera",
+      "scene": 2,
+      "start": 24.4,
+      "end": 27.8
+    },
+    {
+      "id": "e44_b018",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 25.2,
+      "end": 28
+    },
+    {
+      "id": "e44_b019",
+      "type": "camera",
+      "scene": 2,
+      "start": 27.8,
+      "end": 31.2
+    },
+    {
+      "id": "e44_b020",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 28.4,
+      "end": 31
+    },
+    {
+      "id": "e44_b021",
+      "type": "camera",
+      "scene": 2,
+      "start": 31.2,
+      "end": 32.4
+    },
+    {
+      "id": "e44_b022",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 31.2,
+      "end": 32.4
+    },
+    {
+      "id": "e44_b023",
+      "type": "camera",
+      "scene": 2,
+      "start": 32.4,
+      "end": 34
+    },
+    {
+      "id": "e44_b024",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 32.4,
+      "end": 34
+    },
+    {
+      "id": "e44_b025",
+      "type": "camera",
+      "scene": 2,
+      "start": 34,
+      "end": 35.8
+    },
+    {
+      "id": "e44_b026",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 34.2,
+      "end": 38.8
+    },
+    {
+      "id": "e44_b027",
+      "type": "camera",
+      "scene": 2,
+      "start": 35.8,
+      "end": 38.8
+    },
+    {
+      "id": "e44_b028",
+      "type": "camera",
+      "scene": 2,
+      "start": 38.8,
+      "end": 41.2
+    },
+    {
+      "id": "e44_b029",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 38.9,
+      "end": 41.2
+    },
+    {
+      "id": "e44_b030",
+      "type": "action",
+      "scene": 2,
+      "start": 41.2,
+      "end": 42.8
+    },
+    {
+      "id": "e44_b031",
+      "type": "camera",
+      "scene": 2,
+      "start": 41.2,
+      "end": 42.8
+    },
+    {
+      "id": "e44_b032",
+      "type": "camera",
+      "scene": 2,
+      "start": 42.8,
+      "end": 46.4
+    },
+    {
+      "id": "e44_b033",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 44.2,
+      "end": 46.4
+    },
+    {
+      "id": "e44_b034",
+      "type": "camera",
+      "scene": 2,
+      "start": 46.4,
+      "end": 49
+    },
+    {
+      "id": "e44_b035",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 46.6,
+      "end": 48.8
+    },
+    {
+      "id": "e44_b036",
+      "type": "camera",
+      "scene": 2,
+      "start": 49,
+      "end": 51
+    },
+    {
+      "id": "e44_b037",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 49.2,
+      "end": 51
+    },
+    {
+      "id": "e44_b038",
+      "type": "camera",
+      "scene": 2,
+      "start": 51,
+      "end": 53
+    },
+    {
+      "id": "e44_b039",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 51.1,
+      "end": 52.8
+    },
+    {
+      "id": "e44_b040",
+      "type": "camera",
+      "scene": 2,
+      "start": 53,
+      "end": 55.6
+    },
+    {
+      "id": "e44_b041",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 53,
+      "end": 55.5
+    },
+    {
+      "id": "e44_b042",
+      "type": "camera",
+      "scene": 2,
+      "start": 55.6,
+      "end": 59
+    },
+    {
+      "id": "e44_b043",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 56.2,
+      "end": 58.2
+    },
+    {
+      "id": "e44_b044",
+      "type": "camera",
+      "scene": 2,
+      "start": 59,
+      "end": 62.4
+    },
+    {
+      "id": "e44_b045",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 59.8,
+      "end": 62.4
+    },
+    {
+      "id": "e44_b046",
+      "type": "camera",
+      "scene": 2,
+      "start": 62.4,
+      "end": 63.8
+    },
+    {
+      "id": "e44_b047",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 62.5,
+      "end": 63.4
+    },
+    {
+      "id": "e44_b048",
+      "type": "camera",
+      "scene": 2,
+      "start": 63.8,
+      "end": 65
+    },
+    {
+      "id": "e44_b049",
+      "type": "camera",
+      "scene": 2,
+      "start": 65,
+      "end": 67.8
+    },
+    {
+      "id": "e44_b050",
+      "type": "camera",
+      "scene": 2,
+      "start": 67.8,
+      "end": 69.6
+    },
+    {
+      "id": "e44_b051",
+      "type": "action",
+      "scene": 2,
+      "start": 68,
+      "end": 69.6
+    },
+    {
+      "id": "e44_b052",
+      "type": "camera",
+      "scene": 2,
+      "start": 69.6,
+      "end": 70.1
+    },
+    {
+      "id": "e44_b053",
+      "type": "camera",
+      "scene": 2,
+      "start": 70.1,
+      "end": 70.5
+    },
+    {
+      "id": "e44_b054",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 70.1,
+      "end": 70.4
+    }
+  ],
+  "scores": {
+    "e44_b002": {
+      "id": "e44_b002",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "threat"
+    },
+    "e44_b004": {
+      "id": "e44_b004",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "threat"
+    },
+    "e44_b006": {
+      "id": "e44_b006",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e44_b008": {
+      "id": "e44_b008",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "reveal"
+    },
+    "e44_b010": {
+      "id": "e44_b010",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "threat"
+    },
+    "e44_b011": {
+      "id": "e44_b011",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e44_b013": {
+      "id": "e44_b013",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "rescue"
+    },
+    "e44_b015": {
+      "id": "e44_b015",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e44_b018": {
+      "id": "e44_b018",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "confession"
+    },
+    "e44_b020": {
+      "id": "e44_b020",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e44_b022": {
+      "id": "e44_b022",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e44_b024": {
+      "id": "e44_b024",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e44_b026": {
+      "id": "e44_b026",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "confession"
+    },
+    "e44_b029": {
+      "id": "e44_b029",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "confession"
+    },
+    "e44_b030": {
+      "id": "e44_b030",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e44_b033": {
+      "id": "e44_b033",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e44_b035": {
+      "id": "e44_b035",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 6,
+      "tag": "identity"
+    },
+    "e44_b037": {
+      "id": "e44_b037",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "betrayal"
+    },
+    "e44_b039": {
+      "id": "e44_b039",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "confession"
+    },
+    "e44_b041": {
+      "id": "e44_b041",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e44_b043": {
+      "id": "e44_b043",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "other"
+    },
+    "e44_b045": {
+      "id": "e44_b045",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "confession"
+    },
+    "e44_b047": {
+      "id": "e44_b047",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e44_b048": {
+      "id": "e44_b048",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e44_b049": {
+      "id": "e44_b049",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 4,
+      "tag": "reveal"
+    },
+    "e44_b051": {
+      "id": "e44_b051",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 4,
+      "tag": "betrayal"
+    },
+    "e44_b052": {
+      "id": "e44_b052",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 4,
+      "tag": "identity"
+    },
+    "e44_b054": {
+      "id": "e44_b054",
+      "hook": 8,
+      "cliff": 9,
+      "context_need": 4,
+      "tag": "reveal"
+    }
+  },
+  "promos": [
+    {
+      "id": "s44_0498",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 44,
+          "start": 41.2,
+          "end": 70.4,
+          "beatIds": [
+            "e44_b030",
+            "e44_b031",
+            "e44_b032",
+            "e44_b033",
+            "e44_b034",
+            "e44_b035",
+            "e44_b036",
+            "e44_b037",
+            "e44_b038",
+            "e44_b039",
+            "e44_b040",
+            "e44_b041",
+            "e44_b042",
+            "e44_b043",
+            "e44_b044",
+            "e44_b045",
+            "e44_b046",
+            "e44_b047",
+            "e44_b048",
+            "e44_b049",
+            "e44_b050",
+            "e44_b051",
+            "e44_b052",
+            "e44_b053",
+            "e44_b054"
+          ]
+        }
+      ],
+      "duration": 29.2,
+      "preScore": 13.46,
+      "tag": "humiliation",
+      "scene": 2,
+      "hook_text": "Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air.",
+      "cliffhanger_text": "CATHERINE (Gasping, Incredulous): Her?!",
+      "why": "The clip effectively establishes a high-stakes romantic betrayal and a clear power dynamic shift that keeps the viewer wondering about the history between the three characters.",
+      "standalone": 7,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "The Duke's Cruel Romantic Rejection",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden introduction of Juliana and the complex history between the characters leaves a new viewer without necessary context."
+        }
+      }
+    }
+  ]
+}

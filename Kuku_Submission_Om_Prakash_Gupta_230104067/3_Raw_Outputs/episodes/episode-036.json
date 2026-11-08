@@ -1,0 +1,1800 @@
+{
+  "ep": 36,
+  "file": "episode-036-Episode 1681369.txt",
+  "meta": {
+    "ep": 36,
+    "file": "episode-036-Episode 1681369.txt",
+    "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+    "continuity": "Picking up immediately from the revelation in Episode 35 that the men ruling Ashwood orchestrated Alexander's ambush, Alexander learns of Juliana's imprisonment and looming execution.",
+    "duration": 200.75
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. SECLUDED CABIN – NIGHT",
+      "start": 0,
+      "end": 200.75
+    }
+  ],
+  "beats": [
+    {
+      "id": "e36_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 4.2
+    },
+    {
+      "id": "e36_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 3.8
+    },
+    {
+      "id": "e36_b003",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 0.8,
+      "end": 3.7
+    },
+    {
+      "id": "e36_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.2,
+      "end": 8.5
+    },
+    {
+      "id": "e36_b005",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 4.8,
+      "end": 8.2
+    },
+    {
+      "id": "e36_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 8.5,
+      "end": 12.8
+    },
+    {
+      "id": "e36_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 9.5,
+      "end": 11.2
+    },
+    {
+      "id": "e36_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 12.8,
+      "end": 17.5
+    },
+    {
+      "id": "e36_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 13.5,
+      "end": 17
+    },
+    {
+      "id": "e36_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 17.5,
+      "end": 20.8
+    },
+    {
+      "id": "e36_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 17.6,
+      "end": 19.8
+    },
+    {
+      "id": "e36_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 20.8,
+      "end": 23.6
+    },
+    {
+      "id": "e36_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 21,
+      "end": 23.5
+    },
+    {
+      "id": "e36_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 23.6,
+      "end": 29
+    },
+    {
+      "id": "e36_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.7,
+      "end": 28.8
+    },
+    {
+      "id": "e36_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 29,
+      "end": 31.9
+    },
+    {
+      "id": "e36_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 29.2,
+      "end": 31.7
+    },
+    {
+      "id": "e36_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 31.9,
+      "end": 35.8
+    },
+    {
+      "id": "e36_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 32,
+      "end": 34.5
+    },
+    {
+      "id": "e36_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 35.8,
+      "end": 38.9
+    },
+    {
+      "id": "e36_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 36.2,
+      "end": 38.7
+    },
+    {
+      "id": "e36_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 38.9,
+      "end": 41.5
+    },
+    {
+      "id": "e36_b023",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 39.1,
+      "end": 41.4
+    },
+    {
+      "id": "e36_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 41.5,
+      "end": 44.8
+    },
+    {
+      "id": "e36_b025",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 41.6,
+      "end": 43.7
+    },
+    {
+      "id": "e36_b026",
+      "type": "camera",
+      "scene": 1,
+      "start": 44.8,
+      "end": 48.8
+    },
+    {
+      "id": "e36_b027",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 45.3,
+      "end": 48.5
+    },
+    {
+      "id": "e36_b028",
+      "type": "action",
+      "scene": 1,
+      "start": 45.3,
+      "end": 48.8
+    },
+    {
+      "id": "e36_b029",
+      "type": "camera",
+      "scene": 1,
+      "start": 48.8,
+      "end": 52
+    },
+    {
+      "id": "e36_b030",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 49,
+      "end": 51.8
+    },
+    {
+      "id": "e36_b031",
+      "type": "camera",
+      "scene": 1,
+      "start": 52,
+      "end": 55.5
+    },
+    {
+      "id": "e36_b032",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 52.5,
+      "end": 55.3
+    },
+    {
+      "id": "e36_b033",
+      "type": "camera",
+      "scene": 1,
+      "start": 55.5,
+      "end": 58.8
+    },
+    {
+      "id": "e36_b034",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 56,
+      "end": 58.5
+    },
+    {
+      "id": "e36_b035",
+      "type": "camera",
+      "scene": 1,
+      "start": 58.8,
+      "end": 60.8
+    },
+    {
+      "id": "e36_b036",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 59.2,
+      "end": 60.4
+    },
+    {
+      "id": "e36_b037",
+      "type": "camera",
+      "scene": 1,
+      "start": 60.8,
+      "end": 64.2
+    },
+    {
+      "id": "e36_b038",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 60.9,
+      "end": 63.8
+    },
+    {
+      "id": "e36_b039",
+      "type": "camera",
+      "scene": 1,
+      "start": 64.2,
+      "end": 67.5
+    },
+    {
+      "id": "e36_b040",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 65.1,
+      "end": 67.3
+    },
+    {
+      "id": "e36_b041",
+      "type": "camera",
+      "scene": 1,
+      "start": 67.5,
+      "end": 71
+    },
+    {
+      "id": "e36_b042",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 67.8,
+      "end": 70.5
+    },
+    {
+      "id": "e36_b043",
+      "type": "camera",
+      "scene": 1,
+      "start": 71,
+      "end": 74.8
+    },
+    {
+      "id": "e36_b044",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 72.1,
+      "end": 74.7
+    },
+    {
+      "id": "e36_b045",
+      "type": "camera",
+      "scene": 1,
+      "start": 74.8,
+      "end": 78.2
+    },
+    {
+      "id": "e36_b046",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 74.9,
+      "end": 78.1
+    },
+    {
+      "id": "e36_b047",
+      "type": "camera",
+      "scene": 1,
+      "start": 78.2,
+      "end": 81.8
+    },
+    {
+      "id": "e36_b048",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 78.8,
+      "end": 81.7
+    },
+    {
+      "id": "e36_b049",
+      "type": "camera",
+      "scene": 1,
+      "start": 81.8,
+      "end": 84
+    },
+    {
+      "id": "e36_b050",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 82,
+      "end": 83.8
+    },
+    {
+      "id": "e36_b051",
+      "type": "camera",
+      "scene": 1,
+      "start": 84,
+      "end": 86.5
+    },
+    {
+      "id": "e36_b052",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 84.4,
+      "end": 85.5
+    },
+    {
+      "id": "e36_b053",
+      "type": "camera",
+      "scene": 1,
+      "start": 86.5,
+      "end": 90
+    },
+    {
+      "id": "e36_b054",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 87.2,
+      "end": 89.8
+    },
+    {
+      "id": "e36_b055",
+      "type": "camera",
+      "scene": 1,
+      "start": 90,
+      "end": 93.2
+    },
+    {
+      "id": "e36_b056",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 91,
+      "end": 93.1
+    },
+    {
+      "id": "e36_b057",
+      "type": "camera",
+      "scene": 1,
+      "start": 93.2,
+      "end": 96.5
+    },
+    {
+      "id": "e36_b058",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 93.5,
+      "end": 95.8
+    },
+    {
+      "id": "e36_b059",
+      "type": "camera",
+      "scene": 1,
+      "start": 96.5,
+      "end": 99
+    },
+    {
+      "id": "e36_b060",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 96.8,
+      "end": 98.5
+    },
+    {
+      "id": "e36_b061",
+      "type": "camera",
+      "scene": 1,
+      "start": 99,
+      "end": 103.5
+    },
+    {
+      "id": "e36_b062",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 99.5,
+      "end": 103.2
+    },
+    {
+      "id": "e36_b063",
+      "type": "camera",
+      "scene": 1,
+      "start": 103.5,
+      "end": 105.8
+    },
+    {
+      "id": "e36_b064",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 104,
+      "end": 105.5
+    },
+    {
+      "id": "e36_b065",
+      "type": "camera",
+      "scene": 1,
+      "start": 105.8,
+      "end": 110
+    },
+    {
+      "id": "e36_b066",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 105.9,
+      "end": 109.8
+    },
+    {
+      "id": "e36_b067",
+      "type": "camera",
+      "scene": 1,
+      "start": 110,
+      "end": 114
+    },
+    {
+      "id": "e36_b068",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 111.8,
+      "end": 113.8
+    },
+    {
+      "id": "e36_b069",
+      "type": "camera",
+      "scene": 1,
+      "start": 114,
+      "end": 117
+    },
+    {
+      "id": "e36_b070",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 114.2,
+      "end": 116.5
+    },
+    {
+      "id": "e36_b071",
+      "type": "camera",
+      "scene": 1,
+      "start": 117,
+      "end": 119.5
+    },
+    {
+      "id": "e36_b072",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 117.5,
+      "end": 119.3
+    },
+    {
+      "id": "e36_b073",
+      "type": "camera",
+      "scene": 1,
+      "start": 119.5,
+      "end": 123
+    },
+    {
+      "id": "e36_b074",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 119.8,
+      "end": 122.5
+    },
+    {
+      "id": "e36_b075",
+      "type": "camera",
+      "scene": 1,
+      "start": 123,
+      "end": 127.5
+    },
+    {
+      "id": "e36_b076",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 123.8,
+      "end": 126.8
+    },
+    {
+      "id": "e36_b077",
+      "type": "camera",
+      "scene": 1,
+      "start": 127.5,
+      "end": 130.8
+    },
+    {
+      "id": "e36_b078",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 127.8,
+      "end": 130.5
+    },
+    {
+      "id": "e36_b079",
+      "type": "camera",
+      "scene": 1,
+      "start": 130.8,
+      "end": 132
+    },
+    {
+      "id": "e36_b080",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 130.9,
+      "end": 131.8
+    },
+    {
+      "id": "e36_b081",
+      "type": "camera",
+      "scene": 1,
+      "start": 132,
+      "end": 135
+    },
+    {
+      "id": "e36_b082",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 132.2,
+      "end": 134.4
+    },
+    {
+      "id": "e36_b083",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 134.5,
+      "end": 135.2
+    },
+    {
+      "id": "e36_b084",
+      "type": "camera",
+      "scene": 1,
+      "start": 135,
+      "end": 139
+    },
+    {
+      "id": "e36_b085",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 136,
+      "end": 138.8
+    },
+    {
+      "id": "e36_b086",
+      "type": "camera",
+      "scene": 1,
+      "start": 139,
+      "end": 142
+    },
+    {
+      "id": "e36_b087",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 140.2,
+      "end": 141.5
+    },
+    {
+      "id": "e36_b088",
+      "type": "camera",
+      "scene": 1,
+      "start": 142,
+      "end": 145.8
+    },
+    {
+      "id": "e36_b089",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 143.2,
+      "end": 145.5
+    },
+    {
+      "id": "e36_b090",
+      "type": "camera",
+      "scene": 1,
+      "start": 145.8,
+      "end": 148.5
+    },
+    {
+      "id": "e36_b091",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 146.5,
+      "end": 148
+    },
+    {
+      "id": "e36_b092",
+      "type": "camera",
+      "scene": 1,
+      "start": 148.5,
+      "end": 152
+    },
+    {
+      "id": "e36_b093",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 148.8,
+      "end": 151.5
+    },
+    {
+      "id": "e36_b094",
+      "type": "sfx",
+      "scene": 1,
+      "start": 150.5,
+      "end": 153
+    },
+    {
+      "id": "e36_b095",
+      "type": "camera",
+      "scene": 1,
+      "start": 152,
+      "end": 156.5
+    },
+    {
+      "id": "e36_b096",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 153.5,
+      "end": 156
+    },
+    {
+      "id": "e36_b097",
+      "type": "camera",
+      "scene": 1,
+      "start": 156.5,
+      "end": 160
+    },
+    {
+      "id": "e36_b098",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 156.8,
+      "end": 159.8
+    },
+    {
+      "id": "e36_b099",
+      "type": "camera",
+      "scene": 1,
+      "start": 160,
+      "end": 163
+    },
+    {
+      "id": "e36_b100",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 160.5,
+      "end": 163
+    },
+    {
+      "id": "e36_b101",
+      "type": "camera",
+      "scene": 1,
+      "start": 163,
+      "end": 167
+    },
+    {
+      "id": "e36_b102",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 163.2,
+      "end": 166.8
+    },
+    {
+      "id": "e36_b103",
+      "type": "camera",
+      "scene": 1,
+      "start": 167,
+      "end": 171
+    },
+    {
+      "id": "e36_b104",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 168.5,
+      "end": 170.8
+    },
+    {
+      "id": "e36_b105",
+      "type": "camera",
+      "scene": 1,
+      "start": 171,
+      "end": 174
+    },
+    {
+      "id": "e36_b106",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 171.6,
+      "end": 173.6
+    },
+    {
+      "id": "e36_b107",
+      "type": "camera",
+      "scene": 1,
+      "start": 174,
+      "end": 177
+    },
+    {
+      "id": "e36_b108",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 174.2,
+      "end": 176.8
+    },
+    {
+      "id": "e36_b109",
+      "type": "action",
+      "scene": 1,
+      "start": 177,
+      "end": 179.5
+    },
+    {
+      "id": "e36_b110",
+      "type": "sfx",
+      "scene": 1,
+      "start": 177.5,
+      "end": 179.2
+    },
+    {
+      "id": "e36_b111",
+      "type": "camera",
+      "scene": 1,
+      "start": 179.5,
+      "end": 184
+    },
+    {
+      "id": "e36_b112",
+      "type": "action",
+      "scene": 1,
+      "start": 180,
+      "end": 184
+    },
+    {
+      "id": "e36_b113",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 182,
+      "end": 183.5
+    },
+    {
+      "id": "e36_b114",
+      "type": "camera",
+      "scene": 1,
+      "start": 184,
+      "end": 188
+    },
+    {
+      "id": "e36_b115",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 184.5,
+      "end": 187.8
+    },
+    {
+      "id": "e36_b116",
+      "type": "camera",
+      "scene": 1,
+      "start": 188,
+      "end": 192.5
+    },
+    {
+      "id": "e36_b117",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 189.5,
+      "end": 192.2
+    },
+    {
+      "id": "e36_b118",
+      "type": "camera",
+      "scene": 1,
+      "start": 192.5,
+      "end": 200.75
+    },
+    {
+      "id": "e36_b119",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 193,
+      "end": 196.8
+    },
+    {
+      "id": "e36_b120",
+      "type": "action",
+      "scene": 1,
+      "start": 197,
+      "end": 200.75
+    },
+    {
+      "id": "e36_b121",
+      "type": "sfx",
+      "scene": 1,
+      "start": 197,
+      "end": 200.75
+    }
+  ],
+  "scores": {
+    "e36_b002": {
+      "id": "e36_b002",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e36_b003": {
+      "id": "e36_b003",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e36_b005": {
+      "id": "e36_b005",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "identity"
+    },
+    "e36_b007": {
+      "id": "e36_b007",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e36_b009": {
+      "id": "e36_b009",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "reveal"
+    },
+    "e36_b011": {
+      "id": "e36_b011",
+      "hook": 5,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e36_b013": {
+      "id": "e36_b013",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "betrayal"
+    },
+    "e36_b015": {
+      "id": "e36_b015",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "betrayal"
+    },
+    "e36_b017": {
+      "id": "e36_b017",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e36_b019": {
+      "id": "e36_b019",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e36_b021": {
+      "id": "e36_b021",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e36_b023": {
+      "id": "e36_b023",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e36_b025": {
+      "id": "e36_b025",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "identity"
+    },
+    "e36_b027": {
+      "id": "e36_b027",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e36_b028": {
+      "id": "e36_b028",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b030": {
+      "id": "e36_b030",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e36_b032": {
+      "id": "e36_b032",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e36_b034": {
+      "id": "e36_b034",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e36_b036": {
+      "id": "e36_b036",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b038": {
+      "id": "e36_b038",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e36_b040": {
+      "id": "e36_b040",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b042": {
+      "id": "e36_b042",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e36_b044": {
+      "id": "e36_b044",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b046": {
+      "id": "e36_b046",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e36_b048": {
+      "id": "e36_b048",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b050": {
+      "id": "e36_b050",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b052": {
+      "id": "e36_b052",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b054": {
+      "id": "e36_b054",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e36_b056": {
+      "id": "e36_b056",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b058": {
+      "id": "e36_b058",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b060": {
+      "id": "e36_b060",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b062": {
+      "id": "e36_b062",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e36_b064": {
+      "id": "e36_b064",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b066": {
+      "id": "e36_b066",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e36_b068": {
+      "id": "e36_b068",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b070": {
+      "id": "e36_b070",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b072": {
+      "id": "e36_b072",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b074": {
+      "id": "e36_b074",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e36_b076": {
+      "id": "e36_b076",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b078": {
+      "id": "e36_b078",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b080": {
+      "id": "e36_b080",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b082": {
+      "id": "e36_b082",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e36_b083": {
+      "id": "e36_b083",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b085": {
+      "id": "e36_b085",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e36_b087": {
+      "id": "e36_b087",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b089": {
+      "id": "e36_b089",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e36_b091": {
+      "id": "e36_b091",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b093": {
+      "id": "e36_b093",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e36_b094": {
+      "id": "e36_b094",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e36_b096": {
+      "id": "e36_b096",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e36_b098": {
+      "id": "e36_b098",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e36_b100": {
+      "id": "e36_b100",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e36_b102": {
+      "id": "e36_b102",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e36_b104": {
+      "id": "e36_b104",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "identity"
+    },
+    "e36_b106": {
+      "id": "e36_b106",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e36_b108": {
+      "id": "e36_b108",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e36_b109": {
+      "id": "e36_b109",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e36_b110": {
+      "id": "e36_b110",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e36_b112": {
+      "id": "e36_b112",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e36_b113": {
+      "id": "e36_b113",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e36_b115": {
+      "id": "e36_b115",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e36_b117": {
+      "id": "e36_b117",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e36_b119": {
+      "id": "e36_b119",
+      "hook": 9,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "identity"
+    },
+    "e36_b120": {
+      "id": "e36_b120",
+      "hook": 7,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e36_b121": {
+      "id": "e36_b121",
+      "hook": 7,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "s36_0395",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 36,
+          "start": 174.2,
+          "end": 200.75,
+          "beatIds": [
+            "e36_b108",
+            "e36_b109",
+            "e36_b110",
+            "e36_b111",
+            "e36_b112",
+            "e36_b113",
+            "e36_b114",
+            "e36_b115",
+            "e36_b116",
+            "e36_b117",
+            "e36_b118",
+            "e36_b119",
+            "e36_b120",
+            "e36_b121"
+          ]
+        }
+      ],
+      "duration": 26.55,
+      "preScore": 16.45,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "And now they have taken Juliana!",
+      "cliffhanger_text": "their dead Duke is coming home. (Unresolved: Will he reach her in time?)",
+      "why": "The clip establishes a clear, high-stakes mission and a ticking clock immediately.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Dead Duke Returns Home",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip drops the viewer into the middle of a conversation without explaining who Juliana is or why she was taken."
+        }
+      }
+    },
+    {
+      "id": "m36_0447",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 36,
+          "start": 160.5,
+          "end": 170.8,
+          "beatIds": [
+            "e36_b100",
+            "e36_b101",
+            "e36_b102",
+            "e36_b103",
+            "e36_b104"
+          ]
+        },
+        {
+          "ep": 36,
+          "start": 184.5,
+          "end": 200.75,
+          "beatIds": [
+            "e36_b115",
+            "e36_b116",
+            "e36_b117",
+            "e36_b118",
+            "e36_b119",
+            "e36_b120",
+            "e36_b121"
+          ]
+        }
+      ],
+      "duration": 26.55,
+      "preScore": 16.44,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "...and killing my wife afterward.",
+      "cliffhanger_text": "their dead Duke is coming home. (Unresolved: The immediate threat to his wife.)",
+      "why": "It drops the viewer into the middle of a conversation, which is slightly confusing but maintains high tension.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "Vengeance For The Wife",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "Starting with a fragmented sentence about killing a wife is jarring and lacks necessary narrative context."
+        }
+      }
+    },
+    {
+      "id": "s36_0391",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 36,
+          "start": 160.5,
+          "end": 196.8,
+          "beatIds": [
+            "e36_b100",
+            "e36_b101",
+            "e36_b102",
+            "e36_b103",
+            "e36_b104",
+            "e36_b105",
+            "e36_b106",
+            "e36_b107",
+            "e36_b108",
+            "e36_b109",
+            "e36_b110",
+            "e36_b111",
+            "e36_b112",
+            "e36_b113",
+            "e36_b114",
+            "e36_b115",
+            "e36_b116",
+            "e36_b117",
+            "e36_b118",
+            "e36_b119"
+          ]
+        }
+      ],
+      "duration": 36.3,
+      "preScore": 16.38,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "...and killing my wife afterward.",
+      "cliffhanger_text": "...their dead Duke is coming home. (Unresolved: The confrontation.)",
+      "why": "It provides a good mix of backstory and immediate motivation, though the start is abrupt.",
+      "standalone": 7,
+      "hook_3s": 6,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "The Duke Seeks Vengeance",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The rapid-fire list of grievances without establishing the relationship between the characters makes the stakes feel unearned."
+        }
+      }
+    },
+    {
+      "id": "m36_0444",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 36,
+          "start": 136,
+          "end": 148,
+          "beatIds": [
+            "e36_b085",
+            "e36_b086",
+            "e36_b087",
+            "e36_b088",
+            "e36_b089",
+            "e36_b090",
+            "e36_b091"
+          ]
+        },
+        {
+          "ep": 36,
+          "start": 184.5,
+          "end": 200.75,
+          "beatIds": [
+            "e36_b115",
+            "e36_b116",
+            "e36_b117",
+            "e36_b118",
+            "e36_b119",
+            "e36_b120",
+            "e36_b121"
+          ]
+        }
+      ],
+      "duration": 28.25,
+      "preScore": 16.28,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "She is to be executed.",
+      "cliffhanger_text": "...their dead Duke is coming home. (Unresolved: The rescue mission.)",
+      "why": "Starting with the execution threat creates instant, visceral stakes for the audience.",
+      "standalone": 9,
+      "hook_3s": 9,
+      "cliff": 9,
+      "emotion": 9,
+      "spoiler_risk": "low",
+      "title": "Execution Deadline Two Days",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden mention of an execution without identifying the victim or the accusers creates immediate confusion."
+        }
+      }
+    },
+    {
+      "id": "s36_0387",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 36,
+          "start": 136,
+          "end": 192.2,
+          "beatIds": [
+            "e36_b085",
+            "e36_b086",
+            "e36_b087",
+            "e36_b088",
+            "e36_b089",
+            "e36_b090",
+            "e36_b091",
+            "e36_b092",
+            "e36_b093",
+            "e36_b094",
+            "e36_b095",
+            "e36_b096",
+            "e36_b097",
+            "e36_b098",
+            "e36_b099",
+            "e36_b100",
+            "e36_b101",
+            "e36_b102",
+            "e36_b103",
+            "e36_b104",
+            "e36_b105",
+            "e36_b106",
+            "e36_b107",
+            "e36_b108",
+            "e36_b109",
+            "e36_b110",
+            "e36_b111",
+            "e36_b112",
+            "e36_b113",
+            "e36_b114",
+            "e36_b115",
+            "e36_b116",
+            "e36_b117"
+          ]
+        }
+      ],
+      "duration": 56.2,
+      "preScore": 15.29,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "She is to be executed.",
+      "cliffhanger_text": "Because before that wedding begins... (Unresolved: What happens at the wedding?)",
+      "why": "This is a comprehensive narrative arc that explains the situation clearly while building to a climax.",
+      "standalone": 10,
+      "hook_3s": 9,
+      "cliff": 7,
+      "emotion": 9,
+      "spoiler_risk": "low",
+      "title": "The Race To Save Her",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip is far too long and repetitive, causing the tension to dissipate before the final line."
+        }
+      }
+    },
+    {
+      "id": "s36_0381",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 36,
+          "start": 136,
+          "end": 163,
+          "beatIds": [
+            "e36_b085",
+            "e36_b086",
+            "e36_b087",
+            "e36_b088",
+            "e36_b089",
+            "e36_b090",
+            "e36_b091",
+            "e36_b092",
+            "e36_b093",
+            "e36_b094",
+            "e36_b095",
+            "e36_b096",
+            "e36_b097",
+            "e36_b098",
+            "e36_b099",
+            "e36_b100"
+          ]
+        }
+      ],
+      "duration": 27,
+      "preScore": 15.22,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "She is to be executed.",
+      "cliffhanger_text": "...and killing my wife afterward. (Unresolved: How he will stop them.)",
+      "why": "It focuses purely on the emotional stakes and the villain's plan, making it very easy to follow.",
+      "standalone": 9,
+      "hook_3s": 9,
+      "cliff": 6,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Execution Plot Revealed",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The dialogue relies on names like Rupert and Catherine without any introduction, leaving the viewer lost."
+        }
+      }
+    },
+    {
+      "id": "s36_0421",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 36,
+          "start": 153.5,
+          "end": 176.8,
+          "beatIds": [
+            "e36_b096",
+            "e36_b097",
+            "e36_b098",
+            "e36_b099",
+            "e36_b100",
+            "e36_b101",
+            "e36_b102",
+            "e36_b103",
+            "e36_b104",
+            "e36_b105",
+            "e36_b106",
+            "e36_b107",
+            "e36_b108"
+          ]
+        }
+      ],
+      "duration": 23.3,
+      "preScore": 14.29,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Two days from now.",
+      "cliffhanger_text": "And now they have taken Juliana! (Unresolved: The fate of Juliana.)",
+      "why": "It is a high-energy montage of threats, but lacks the context of why these things are happening.",
+      "standalone": 5,
+      "hook_3s": 6,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "The Two Day Deadline",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The hook is a generic time reference that fails to anchor the viewer in the specific conflict."
+        }
+      }
+    },
+    {
+      "id": "s36_0401",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 36,
+          "start": 99.5,
+          "end": 156,
+          "beatIds": [
+            "e36_b062",
+            "e36_b063",
+            "e36_b064",
+            "e36_b065",
+            "e36_b066",
+            "e36_b067",
+            "e36_b068",
+            "e36_b069",
+            "e36_b070",
+            "e36_b071",
+            "e36_b072",
+            "e36_b073",
+            "e36_b074",
+            "e36_b075",
+            "e36_b076",
+            "e36_b077",
+            "e36_b078",
+            "e36_b079",
+            "e36_b080",
+            "e36_b081",
+            "e36_b082",
+            "e36_b083",
+            "e36_b084",
+            "e36_b085",
+            "e36_b086",
+            "e36_b087",
+            "e36_b088",
+            "e36_b089",
+            "e36_b090",
+            "e36_b091",
+            "e36_b092",
+            "e36_b093",
+            "e36_b094",
+            "e36_b095",
+            "e36_b096"
+          ]
+        }
+      ],
+      "duration": 56.5,
+      "preScore": 14.05,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "They arrested her!",
+      "cliffhanger_text": "Two days from now. (Unresolved: The execution deadline.)",
+      "why": "The dialogue-heavy approach provides deep context, but it feels more like a scene than a punchy promo.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 9,
+      "spoiler_risk": "low",
+      "title": "The False Accusation Revealed",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "This provides the most coherent setup, though the length is excessive for a standard promo."
+        }
+      }
+    }
+  ]
+}

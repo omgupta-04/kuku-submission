@@ -1,0 +1,1126 @@
+{
+  "ep": 37,
+  "file": "episode-037-Episode 1681370.txt",
+  "meta": {
+    "ep": 37,
+    "file": "episode-037-Episode 1681370.txt",
+    "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+    "continuity": "Following Alexander's vow to return in two days to disrupt the wedding, Rupert and Catherine prepare to cement their coup by inviting high society to celebrate their nuptials and witness Juliana's execution.",
+    "duration": 156.47
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR – DAY",
+      "start": 0,
+      "end": 34.5
+    },
+    {
+      "n": 2,
+      "heading": "INT. NOBLE MANOR - PARLOR – DAY",
+      "start": 34.5,
+      "end": 88
+    },
+    {
+      "n": 3,
+      "heading": "INT. ASHBRIDGE DUNGEON – CONTINUOUS",
+      "start": 88,
+      "end": 116.5
+    },
+    {
+      "n": 4,
+      "heading": "INT. NOBLE MANOR - PARLOR – NIGHT",
+      "start": 116.5,
+      "end": 156.47
+    }
+  ],
+  "beats": [
+    {
+      "id": "e37_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 5.5
+    },
+    {
+      "id": "e37_b002",
+      "type": "sfx",
+      "scene": 1,
+      "start": 1.5,
+      "end": 3.2
+    },
+    {
+      "id": "e37_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 5.5,
+      "end": 9.5
+    },
+    {
+      "id": "e37_b004",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 6,
+      "end": 9.3
+    },
+    {
+      "id": "e37_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.5,
+      "end": 12.5
+    },
+    {
+      "id": "e37_b006",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 10.8,
+      "end": 12.4
+    },
+    {
+      "id": "e37_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 12.5,
+      "end": 15
+    },
+    {
+      "id": "e37_b008",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 12.8,
+      "end": 14.8
+    },
+    {
+      "id": "e37_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 15,
+      "end": 18.8
+    },
+    {
+      "id": "e37_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 15.6,
+      "end": 18.8
+    },
+    {
+      "id": "e37_b011",
+      "type": "camera",
+      "scene": 1,
+      "start": 18.8,
+      "end": 23.2
+    },
+    {
+      "id": "e37_b012",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 19,
+      "end": 23
+    },
+    {
+      "id": "e37_b013",
+      "type": "camera",
+      "scene": 1,
+      "start": 23.2,
+      "end": 26.5
+    },
+    {
+      "id": "e37_b014",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.8,
+      "end": 26.4
+    },
+    {
+      "id": "e37_b015",
+      "type": "camera",
+      "scene": 1,
+      "start": 26.5,
+      "end": 30
+    },
+    {
+      "id": "e37_b016",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 26.6,
+      "end": 29.8
+    },
+    {
+      "id": "e37_b017",
+      "type": "camera",
+      "scene": 1,
+      "start": 30,
+      "end": 32.5
+    },
+    {
+      "id": "e37_b018",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 30.2,
+      "end": 32.2
+    },
+    {
+      "id": "e37_b019",
+      "type": "camera",
+      "scene": 1,
+      "start": 32.5,
+      "end": 34.5
+    },
+    {
+      "id": "e37_b020",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 32.8,
+      "end": 34.5
+    },
+    {
+      "id": "e37_b021",
+      "type": "camera",
+      "scene": 2,
+      "start": 34.5,
+      "end": 37
+    },
+    {
+      "id": "e37_b022",
+      "type": "camera",
+      "scene": 2,
+      "start": 37,
+      "end": 39.8
+    },
+    {
+      "id": "e37_b023",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 37,
+      "end": 39.8
+    },
+    {
+      "id": "e37_b024",
+      "type": "action",
+      "scene": 2,
+      "start": 39.5,
+      "end": 44
+    },
+    {
+      "id": "e37_b025",
+      "type": "camera",
+      "scene": 2,
+      "start": 44,
+      "end": 46.8
+    },
+    {
+      "id": "e37_b026",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 44.5,
+      "end": 46.5
+    },
+    {
+      "id": "e37_b027",
+      "type": "camera",
+      "scene": 2,
+      "start": 46.8,
+      "end": 49.5
+    },
+    {
+      "id": "e37_b028",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 47,
+      "end": 49.2
+    },
+    {
+      "id": "e37_b029",
+      "type": "camera",
+      "scene": 2,
+      "start": 49.5,
+      "end": 53
+    },
+    {
+      "id": "e37_b030",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 50,
+      "end": 52.8
+    },
+    {
+      "id": "e37_b031",
+      "type": "camera",
+      "scene": 2,
+      "start": 53,
+      "end": 56
+    },
+    {
+      "id": "e37_b032",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 54,
+      "end": 56.2
+    },
+    {
+      "id": "e37_b033",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 56.2,
+      "end": 57.2
+    },
+    {
+      "id": "e37_b034",
+      "type": "action",
+      "scene": 2,
+      "start": 56.8,
+      "end": 58.5
+    },
+    {
+      "id": "e37_b035",
+      "type": "camera",
+      "scene": 2,
+      "start": 58.5,
+      "end": 62
+    },
+    {
+      "id": "e37_b036",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 58.8,
+      "end": 61.8
+    },
+    {
+      "id": "e37_b037",
+      "type": "camera",
+      "scene": 2,
+      "start": 62,
+      "end": 65.5
+    },
+    {
+      "id": "e37_b038",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 62.8,
+      "end": 65.5
+    },
+    {
+      "id": "e37_b039",
+      "type": "camera",
+      "scene": 2,
+      "start": 65.5,
+      "end": 69
+    },
+    {
+      "id": "e37_b040",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 66.5,
+      "end": 68.8
+    },
+    {
+      "id": "e37_b041",
+      "type": "camera",
+      "scene": 2,
+      "start": 69,
+      "end": 72.5
+    },
+    {
+      "id": "e37_b042",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 69.5,
+      "end": 72.2
+    },
+    {
+      "id": "e37_b043",
+      "type": "camera",
+      "scene": 2,
+      "start": 72.5,
+      "end": 75.5
+    },
+    {
+      "id": "e37_b044",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 73,
+      "end": 74.2
+    },
+    {
+      "id": "e37_b045",
+      "type": "camera",
+      "scene": 2,
+      "start": 75.5,
+      "end": 82.5
+    },
+    {
+      "id": "e37_b046",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 77,
+      "end": 81.8
+    },
+    {
+      "id": "e37_b047",
+      "type": "camera",
+      "scene": 2,
+      "start": 82.5,
+      "end": 88
+    },
+    {
+      "id": "e37_b048",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 83,
+      "end": 87.5
+    },
+    {
+      "id": "e37_b049",
+      "type": "camera",
+      "scene": 3,
+      "start": 88,
+      "end": 92
+    },
+    {
+      "id": "e37_b050",
+      "type": "sfx",
+      "scene": 3,
+      "start": 88.5,
+      "end": 92
+    },
+    {
+      "id": "e37_b051",
+      "type": "camera",
+      "scene": 3,
+      "start": 92,
+      "end": 95.5
+    },
+    {
+      "id": "e37_b052",
+      "type": "action",
+      "scene": 3,
+      "start": 93.5,
+      "end": 95.5
+    },
+    {
+      "id": "e37_b053",
+      "type": "camera",
+      "scene": 3,
+      "start": 95.5,
+      "end": 100.5
+    },
+    {
+      "id": "e37_b054",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 96,
+      "end": 99.5
+    },
+    {
+      "id": "e37_b055",
+      "type": "camera",
+      "scene": 3,
+      "start": 100.5,
+      "end": 103.5
+    },
+    {
+      "id": "e37_b056",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 100.8,
+      "end": 103.2
+    },
+    {
+      "id": "e37_b057",
+      "type": "camera",
+      "scene": 3,
+      "start": 103.5,
+      "end": 108.5
+    },
+    {
+      "id": "e37_b058",
+      "type": "sfx",
+      "scene": 3,
+      "start": 104,
+      "end": 107
+    },
+    {
+      "id": "e37_b059",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 105.5,
+      "end": 107.8
+    },
+    {
+      "id": "e37_b060",
+      "type": "camera",
+      "scene": 3,
+      "start": 108.5,
+      "end": 113.5
+    },
+    {
+      "id": "e37_b061",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 109,
+      "end": 112.5
+    },
+    {
+      "id": "e37_b062",
+      "type": "camera",
+      "scene": 3,
+      "start": 113.5,
+      "end": 116.5
+    },
+    {
+      "id": "e37_b063",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 113.6,
+      "end": 116.2
+    },
+    {
+      "id": "e37_b064",
+      "type": "camera",
+      "scene": 4,
+      "start": 116.5,
+      "end": 120
+    },
+    {
+      "id": "e37_b065",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 117.2,
+      "end": 119.8
+    },
+    {
+      "id": "e37_b066",
+      "type": "camera",
+      "scene": 4,
+      "start": 120,
+      "end": 124.5
+    },
+    {
+      "id": "e37_b067",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 120.5,
+      "end": 124.2
+    },
+    {
+      "id": "e37_b068",
+      "type": "camera",
+      "scene": 4,
+      "start": 124.5,
+      "end": 127
+    },
+    {
+      "id": "e37_b069",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 124.8,
+      "end": 126.5
+    },
+    {
+      "id": "e37_b070",
+      "type": "camera",
+      "scene": 4,
+      "start": 127,
+      "end": 132.5
+    },
+    {
+      "id": "e37_b071",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 127.5,
+      "end": 132
+    },
+    {
+      "id": "e37_b072",
+      "type": "action",
+      "scene": 4,
+      "start": 132.5,
+      "end": 136
+    },
+    {
+      "id": "e37_b073",
+      "type": "camera",
+      "scene": 4,
+      "start": 132.5,
+      "end": 141.5
+    },
+    {
+      "id": "e37_b074",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 134,
+      "end": 141
+    },
+    {
+      "id": "e37_b075",
+      "type": "camera",
+      "scene": 4,
+      "start": 141.5,
+      "end": 147.5
+    },
+    {
+      "id": "e37_b076",
+      "type": "dialogue",
+      "scene": 4,
+      "start": 142.5,
+      "end": 146.5
+    },
+    {
+      "id": "e37_b077",
+      "type": "action",
+      "scene": 4,
+      "start": 145.5,
+      "end": 148
+    },
+    {
+      "id": "e37_b078",
+      "type": "camera",
+      "scene": 4,
+      "start": 147.5,
+      "end": 156.47
+    },
+    {
+      "id": "e37_b079",
+      "type": "sfx",
+      "scene": 4,
+      "start": 148,
+      "end": 156.47
+    }
+  ],
+  "scores": {
+    "e37_b002": {
+      "id": "e37_b002",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b004": {
+      "id": "e37_b004",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b006": {
+      "id": "e37_b006",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b008": {
+      "id": "e37_b008",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b010": {
+      "id": "e37_b010",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b012": {
+      "id": "e37_b012",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e37_b014": {
+      "id": "e37_b014",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e37_b016": {
+      "id": "e37_b016",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b018": {
+      "id": "e37_b018",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b020": {
+      "id": "e37_b020",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b021": {
+      "id": "e37_b021",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b023": {
+      "id": "e37_b023",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b024": {
+      "id": "e37_b024",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b026": {
+      "id": "e37_b026",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b028": {
+      "id": "e37_b028",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b030": {
+      "id": "e37_b030",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b032": {
+      "id": "e37_b032",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b033": {
+      "id": "e37_b033",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b034": {
+      "id": "e37_b034",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b036": {
+      "id": "e37_b036",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e37_b038": {
+      "id": "e37_b038",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b040": {
+      "id": "e37_b040",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b042": {
+      "id": "e37_b042",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e37_b044": {
+      "id": "e37_b044",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b046": {
+      "id": "e37_b046",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e37_b048": {
+      "id": "e37_b048",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b050": {
+      "id": "e37_b050",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b052": {
+      "id": "e37_b052",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b054": {
+      "id": "e37_b054",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b056": {
+      "id": "e37_b056",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b058": {
+      "id": "e37_b058",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b059": {
+      "id": "e37_b059",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b061": {
+      "id": "e37_b061",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b063": {
+      "id": "e37_b063",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b065": {
+      "id": "e37_b065",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b067": {
+      "id": "e37_b067",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b069": {
+      "id": "e37_b069",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b071": {
+      "id": "e37_b071",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e37_b072": {
+      "id": "e37_b072",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b074": {
+      "id": "e37_b074",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e37_b076": {
+      "id": "e37_b076",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e37_b077": {
+      "id": "e37_b077",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e37_b079": {
+      "id": "e37_b079",
+      "hook": 5,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "reveal"
+    }
+  },
+  "promos": [
+    {
+      "id": "m37_0376",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 37,
+          "start": 100.8,
+          "end": 112.5,
+          "beatIds": [
+            "e37_b056",
+            "e37_b057",
+            "e37_b058",
+            "e37_b059",
+            "e37_b060",
+            "e37_b061"
+          ]
+        },
+        {
+          "ep": 37,
+          "start": 142.5,
+          "end": 156.47,
+          "beatIds": [
+            "e37_b076",
+            "e37_b077",
+            "e37_b078",
+            "e37_b079"
+          ]
+        }
+      ],
+      "duration": 25.67,
+      "preScore": 13.93,
+      "tag": "other",
+      "scene": 3,
+      "hook_text": "They think fear will make me beg.",
+      "cliffhanger_text": "The bold Gothic lettering 'EXECUTION CLAUSE' sits beneath the gold seal; the viewer is left wondering if the execution will proceed.",
+      "why": "The contrast between the protagonist's raw defiance and the antagonist's cold, calculated malice creates immediate narrative tension.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "Defiance Against The Execution Clause",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The transition between the protagonist's defiance and the villain's cold threat creates a jarring tonal shift that lacks narrative cohesion."
+        }
+      }
+    },
+    {
+      "id": "m37_0374",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 37,
+          "start": 23.8,
+          "end": 34.5,
+          "beatIds": [
+            "e37_b014",
+            "e37_b015",
+            "e37_b016",
+            "e37_b017",
+            "e37_b018",
+            "e37_b019",
+            "e37_b020"
+          ]
+        },
+        {
+          "ep": 37,
+          "start": 142.5,
+          "end": 156.47,
+          "beatIds": [
+            "e37_b076",
+            "e37_b077",
+            "e37_b078",
+            "e37_b079"
+          ]
+        }
+      ],
+      "duration": 24.67,
+      "preScore": 13.86,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Juliana's execution comes after the wedding.",
+      "cliffhanger_text": "The bold Gothic lettering 'EXECUTION CLAUSE' sits beneath the gold seal; the viewer is left wondering if the execution will proceed.",
+      "why": "Starting with a specific, high-stakes plot point immediately anchors the viewer in the conflict, though it lacks the emotional intimacy of the other clips.",
+      "standalone": 9,
+      "hook_3s": 9,
+      "cliff": 7,
+      "emotion": 6,
+      "spoiler_risk": "med",
+      "title": "The Wedding Execution Plot",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden jump from a conspiracy plot to a random villain monologue without context leaves the viewer disoriented regarding the stakes."
+        }
+      }
+    },
+    {
+      "id": "s37_0373",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 37,
+          "start": 100.8,
+          "end": 156.47,
+          "beatIds": [
+            "e37_b056",
+            "e37_b057",
+            "e37_b058",
+            "e37_b059",
+            "e37_b060",
+            "e37_b061",
+            "e37_b062",
+            "e37_b063",
+            "e37_b064",
+            "e37_b065",
+            "e37_b066",
+            "e37_b067",
+            "e37_b068",
+            "e37_b069",
+            "e37_b070",
+            "e37_b071",
+            "e37_b072",
+            "e37_b073",
+            "e37_b074",
+            "e37_b075",
+            "e37_b076",
+            "e37_b077",
+            "e37_b078",
+            "e37_b079"
+          ]
+        }
+      ],
+      "duration": 55.67,
+      "preScore": 13.79,
+      "tag": "other",
+      "scene": 3,
+      "hook_text": "They think fear will make me beg.",
+      "cliffhanger_text": "The bold Gothic lettering 'EXECUTION CLAUSE' sits beneath the gold seal; the viewer is left wondering if the execution will proceed.",
+      "why": "This long-form clip provides excellent context and character motivation, making the stakes feel personal and urgent.",
+      "standalone": 10,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 9,
+      "spoiler_risk": "med",
+      "title": "The Price Of Defiance",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "While the pacing is steady, the length makes the final cliffhanger feel like an afterthought rather than a punchy hook."
+        }
+      }
+    },
+    {
+      "id": "m37_0375",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 37,
+          "start": 23.8,
+          "end": 34.5,
+          "beatIds": [
+            "e37_b014",
+            "e37_b015",
+            "e37_b016",
+            "e37_b017",
+            "e37_b018",
+            "e37_b019",
+            "e37_b020"
+          ]
+        },
+        {
+          "ep": 37,
+          "start": 88.5,
+          "end": 103.2,
+          "beatIds": [
+            "e37_b050",
+            "e37_b051",
+            "e37_b052",
+            "e37_b053",
+            "e37_b054",
+            "e37_b055",
+            "e37_b056"
+          ]
+        }
+      ],
+      "duration": 25.4,
+      "preScore": 11.94,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Juliana's execution comes after the wedding.",
+      "cliffhanger_text": "They think fear will make me beg; the viewer is left wondering if she will survive her imprisonment.",
+      "why": "The transition from a cold, villainous planning session to the visceral suffering of the protagonist creates a strong emotional shift.",
+      "standalone": 8,
+      "hook_3s": 9,
+      "cliff": 6,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "Villains Plan The Execution",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The clip ends on a defiant internal monologue that provides emotional closure rather than a true suspenseful cliffhanger."
+        }
+      }
+    }
+  ]
+}

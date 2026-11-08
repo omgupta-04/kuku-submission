@@ -1,0 +1,837 @@
+{
+  "ep": 48,
+  "file": "episode-048-Episode 1688397.txt",
+  "meta": {
+    "ep": 48,
+    "file": "episode-048-Episode 1688397.txt",
+    "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+    "continuity": "Directly follows Episode 47's public disgrace where Catherine bowed to Juliana and accepted the position of a maid; in private, Catherine sheds her feigned defeat and initiates her counter-plot.",
+    "duration": 80
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. CATHERINE'S CHAMBERS – NIGHT",
+      "start": 0,
+      "end": 26.7
+    },
+    {
+      "n": 2,
+      "heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS",
+      "start": 26.7,
+      "end": 80
+    }
+  ],
+  "beats": [
+    {
+      "id": "e48_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 4.5
+    },
+    {
+      "id": "e48_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": "e48_b003",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 2.4,
+      "end": 7.5
+    },
+    {
+      "id": "e48_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.5,
+      "end": 8.5
+    },
+    {
+      "id": "e48_b005",
+      "type": "action",
+      "scene": 1,
+      "start": 7.8,
+      "end": 12.3
+    },
+    {
+      "id": "e48_b006",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 8,
+      "end": 12.3
+    },
+    {
+      "id": "e48_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 12.3,
+      "end": 20
+    },
+    {
+      "id": "e48_b008",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 12.6,
+      "end": 14.9
+    },
+    {
+      "id": "e48_b009",
+      "type": "action",
+      "scene": 1,
+      "start": 15,
+      "end": 18.5
+    },
+    {
+      "id": "e48_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 15.1,
+      "end": 17.2
+    },
+    {
+      "id": "e48_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 17.4,
+      "end": 19.7
+    },
+    {
+      "id": "e48_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 20,
+      "end": 26.7
+    },
+    {
+      "id": "e48_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20.1,
+      "end": 23.7
+    },
+    {
+      "id": "e48_b014",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.9,
+      "end": 26.5
+    },
+    {
+      "id": "e48_b015",
+      "type": "camera",
+      "scene": 2,
+      "start": 26.7,
+      "end": 30.8
+    },
+    {
+      "id": "e48_b016",
+      "type": "action",
+      "scene": 2,
+      "start": 26.8,
+      "end": 29.5
+    },
+    {
+      "id": "e48_b017",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 29.2,
+      "end": 30.8
+    },
+    {
+      "id": "e48_b018",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 30.9,
+      "end": 32
+    },
+    {
+      "id": "e48_b019",
+      "type": "camera",
+      "scene": 2,
+      "start": 32,
+      "end": 33.9
+    },
+    {
+      "id": "e48_b020",
+      "type": "sfx",
+      "scene": 2,
+      "start": 32.3,
+      "end": 33.8
+    },
+    {
+      "id": "e48_b021",
+      "type": "action",
+      "scene": 2,
+      "start": 34,
+      "end": 36.5
+    },
+    {
+      "id": "e48_b022",
+      "type": "camera",
+      "scene": 2,
+      "start": 34,
+      "end": 43
+    },
+    {
+      "id": "e48_b023",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 34.2,
+      "end": 37.1
+    },
+    {
+      "id": "e48_b024",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 37.3,
+      "end": 39
+    },
+    {
+      "id": "e48_b025",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 39.2,
+      "end": 43
+    },
+    {
+      "id": "e48_b026",
+      "type": "camera",
+      "scene": 2,
+      "start": 43,
+      "end": 46.8
+    },
+    {
+      "id": "e48_b027",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 43.3,
+      "end": 46.8
+    },
+    {
+      "id": "e48_b028",
+      "type": "camera",
+      "scene": 2,
+      "start": 46.8,
+      "end": 51.5
+    },
+    {
+      "id": "e48_b029",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 47,
+      "end": 51.3
+    },
+    {
+      "id": "e48_b030",
+      "type": "camera",
+      "scene": 2,
+      "start": 51.5,
+      "end": 58.2
+    },
+    {
+      "id": "e48_b031",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 52,
+      "end": 55
+    },
+    {
+      "id": "e48_b032",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 55.2,
+      "end": 58.2
+    },
+    {
+      "id": "e48_b033",
+      "type": "camera",
+      "scene": 2,
+      "start": 58.2,
+      "end": 61
+    },
+    {
+      "id": "e48_b034",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 58.5,
+      "end": 60.6
+    },
+    {
+      "id": "e48_b035",
+      "type": "camera",
+      "scene": 2,
+      "start": 61,
+      "end": 66.9
+    },
+    {
+      "id": "e48_b036",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 61.8,
+      "end": 64
+    },
+    {
+      "id": "e48_b037",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 64.3,
+      "end": 66.9
+    },
+    {
+      "id": "e48_b038",
+      "type": "camera",
+      "scene": 2,
+      "start": 66.9,
+      "end": 73.5
+    },
+    {
+      "id": "e48_b039",
+      "type": "sfx",
+      "scene": 2,
+      "start": 67.5,
+      "end": 69
+    },
+    {
+      "id": "e48_b040",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 67.8,
+      "end": 70.5
+    },
+    {
+      "id": "e48_b041",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 70.8,
+      "end": 73.4
+    },
+    {
+      "id": "e48_b042",
+      "type": "camera",
+      "scene": 2,
+      "start": 73.5,
+      "end": 76.8
+    },
+    {
+      "id": "e48_b043",
+      "type": "camera",
+      "scene": 2,
+      "start": 76.8,
+      "end": 80
+    }
+  ],
+  "scores": {
+    "e48_b002": {
+      "id": "e48_b002",
+      "hook": 7,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "reveal"
+    },
+    "e48_b003": {
+      "id": "e48_b003",
+      "hook": 8,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e48_b005": {
+      "id": "e48_b005",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b006": {
+      "id": "e48_b006",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e48_b008": {
+      "id": "e48_b008",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e48_b009": {
+      "id": "e48_b009",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b010": {
+      "id": "e48_b010",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b011": {
+      "id": "e48_b011",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b013": {
+      "id": "e48_b013",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e48_b014": {
+      "id": "e48_b014",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e48_b016": {
+      "id": "e48_b016",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b017": {
+      "id": "e48_b017",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e48_b018": {
+      "id": "e48_b018",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e48_b020": {
+      "id": "e48_b020",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e48_b021": {
+      "id": "e48_b021",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e48_b023": {
+      "id": "e48_b023",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e48_b024": {
+      "id": "e48_b024",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e48_b025": {
+      "id": "e48_b025",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b027": {
+      "id": "e48_b027",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b029": {
+      "id": "e48_b029",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b031": {
+      "id": "e48_b031",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e48_b032": {
+      "id": "e48_b032",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e48_b034": {
+      "id": "e48_b034",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b036": {
+      "id": "e48_b036",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e48_b037": {
+      "id": "e48_b037",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b039": {
+      "id": "e48_b039",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e48_b040": {
+      "id": "e48_b040",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b041": {
+      "id": "e48_b041",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e48_b042": {
+      "id": "e48_b042",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e48_b043": {
+      "id": "e48_b043",
+      "hook": 5,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "m48_0568",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 48,
+          "start": 2.4,
+          "end": 14.9,
+          "beatIds": [
+            "e48_b003",
+            "e48_b004",
+            "e48_b005",
+            "e48_b006",
+            "e48_b007",
+            "e48_b008"
+          ]
+        },
+        {
+          "ep": 48,
+          "start": 67.8,
+          "end": 80,
+          "beatIds": [
+            "e48_b040",
+            "e48_b041",
+            "e48_b042",
+            "e48_b043"
+          ]
+        }
+      ],
+      "duration": 24.7,
+      "preScore": 13.38,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+      "cliffhanger_text": "Catherine staring outward into the night; the viewer is left wondering what she plans to do with the priest.",
+      "why": "The opening line is immediately provocative and establishes a clear power dynamic and conflict.",
+      "standalone": 7,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "The Healer's Crown Conspiracy",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The reference to a healer's crown and a ten-day deadline lacks necessary context for a new viewer."
+        }
+      }
+    },
+    {
+      "id": "m48_0570",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 48,
+          "start": 2.4,
+          "end": 14.9,
+          "beatIds": [
+            "e48_b003",
+            "e48_b004",
+            "e48_b005",
+            "e48_b006",
+            "e48_b007",
+            "e48_b008"
+          ]
+        },
+        {
+          "ep": 48,
+          "start": 58.5,
+          "end": 73.4,
+          "beatIds": [
+            "e48_b034",
+            "e48_b035",
+            "e48_b036",
+            "e48_b037",
+            "e48_b038",
+            "e48_b039",
+            "e48_b040",
+            "e48_b041"
+          ]
+        }
+      ],
+      "duration": 27.4,
+      "preScore": 12.35,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+      "cliffhanger_text": "And make sure no one sees him arrive; the tension of the secret mission remains unresolved.",
+      "why": "The dialogue is punchy and the stakes are clearly defined through the threat and the bribe.",
+      "standalone": 7,
+      "hook_3s": 8,
+      "cliff": 6,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Secret Priest Night Mission",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The dialogue about a healer's crown and a ten-day council deadline is too cryptic without prior exposition."
+        }
+      }
+    },
+    {
+      "id": "m48_0574",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 48,
+          "start": 20.1,
+          "end": 30.8,
+          "beatIds": [
+            "e48_b013",
+            "e48_b014",
+            "e48_b015",
+            "e48_b016",
+            "e48_b017"
+          ]
+        },
+        {
+          "ep": 48,
+          "start": 67.8,
+          "end": 80,
+          "beatIds": [
+            "e48_b040",
+            "e48_b041",
+            "e48_b042",
+            "e48_b043"
+          ]
+        }
+      ],
+      "duration": 22.9,
+      "preScore": 11.69,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Ten days is not a wall, Alexander. It's a door.",
+      "cliffhanger_text": "Catherine staring outward into the night; the viewer is left wondering what she plans to do with the priest.",
+      "why": "The metaphor in the opening is intriguing, though it lacks the immediate visceral punch of the other clips.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "Ten Days To Act",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The mention of Alexander and the ten-day deadline is confusing without knowing who the characters are."
+        }
+      }
+    },
+    {
+      "id": "s48_0567",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 48,
+          "start": 20.1,
+          "end": 80,
+          "beatIds": [
+            "e48_b013",
+            "e48_b014",
+            "e48_b015",
+            "e48_b016",
+            "e48_b017",
+            "e48_b018",
+            "e48_b019",
+            "e48_b020",
+            "e48_b021",
+            "e48_b022",
+            "e48_b023",
+            "e48_b024",
+            "e48_b025",
+            "e48_b026",
+            "e48_b027",
+            "e48_b028",
+            "e48_b029",
+            "e48_b030",
+            "e48_b031",
+            "e48_b032",
+            "e48_b033",
+            "e48_b034",
+            "e48_b035",
+            "e48_b036",
+            "e48_b037",
+            "e48_b038",
+            "e48_b039",
+            "e48_b040",
+            "e48_b041",
+            "e48_b042",
+            "e48_b043"
+          ]
+        }
+      ],
+      "duration": 59.9,
+      "preScore": 11.55,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Ten days is not a wall, Alexander. It's a door.",
+      "cliffhanger_text": "Catherine staring outward into the night; the viewer is left wondering what she plans to do with the priest.",
+      "why": "This clip provides the most context, making the character's motivations and the stakes of the plot very clear.",
+      "standalone": 9,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "The Full Scheme Revealed",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The rapid-fire references to Alexander, the Duke, and the chapel hearing create too much narrative clutter."
+        }
+      }
+    },
+    {
+      "id": "m48_0575",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 48,
+          "start": 20.1,
+          "end": 30.8,
+          "beatIds": [
+            "e48_b013",
+            "e48_b014",
+            "e48_b015",
+            "e48_b016",
+            "e48_b017"
+          ]
+        },
+        {
+          "ep": 48,
+          "start": 58.5,
+          "end": 70.5,
+          "beatIds": [
+            "e48_b034",
+            "e48_b035",
+            "e48_b036",
+            "e48_b037",
+            "e48_b038",
+            "e48_b039",
+            "e48_b040"
+          ]
+        }
+      ],
+      "duration": 22.7,
+      "preScore": 10.61,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Ten days is not a wall, Alexander. It's a door.",
+      "cliffhanger_text": "Send for the priest. Tonight.; the clip cuts off abruptly before the final instruction is fully processed.",
+      "why": "The abrupt ending creates a sense of urgency, but the clip feels slightly less polished than the others.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 5,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Door To Power",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The abrupt cut makes the dialogue feel incomplete rather than suspenseful, and the plot remains confusing."
+        }
+      }
+    }
+  ]
+}

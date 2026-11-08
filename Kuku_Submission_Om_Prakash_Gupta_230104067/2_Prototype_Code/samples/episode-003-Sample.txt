@@ -1,0 +1,74 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: The sister reveals the final secret.
+CONTINUITY NOTES: Invented sample episode for smoke tests only.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MANOR – NIGHT
+Scene start: 00:00.00
+Scene end: 00:45.00
+
+Actions and dialogue:
+
+**DUKE (Tense):**
+Start: (00:00.00) | End: (00:02.50)
+"You betrayed me."
+
+**MARA (Tense):**
+Start: (00:03.00) | End: (00:05.50)
+"I protected you."
+
+**DUKE (Tense):**
+Start: (00:06.00) | End: (00:08.50)
+"Protected me?"
+
+**MARA (Tense):**
+Start: (00:09.00) | End: (00:11.50)
+"Your father sold you."
+
+**DUKE (Tense):**
+Start: (00:12.00) | End: (00:14.50)
+"That is a lie!"
+
+**MARA (Tense):**
+Start: (00:15.00) | End: (00:17.50)
+"Ask him yourself."
+
+**DUKE (Tense):**
+Start: (00:18.00) | End: (00:20.50)
+"Father?"
+
+**MARA (Tense):**
+Start: (00:21.00) | End: (00:23.50)
+"Forgive me, child."
+
+**DUKE (Tense):**
+Start: (00:24.00) | End: (00:26.50)
+"How could you?"
+
+**MARA (Tense):**
+Start: (00:27.00) | End: (00:29.50)
+"I had no choice."
+
+**DUKE (Tense):**
+Start: (00:30.00) | End: (00:32.50)
+"Everyone always has a choice."
+
+**MARA (Tense):**
+Start: (00:33.00) | End: (00:35.50)
+"Mara, listen."
+
+**DUKE (Tense):**
+Start: (00:36.00) | End: (00:38.50)
+"Do not touch me."
+
+**MARA (Tense):**
+Start: (00:39.00) | End: (00:41.50)
+"Then what will you do?"
+
+**DUKE (Tense):**
+Start: (00:42.00) | End: (00:44.50)
+"I will burn it all down."
+
+--- SCRIPT END ---

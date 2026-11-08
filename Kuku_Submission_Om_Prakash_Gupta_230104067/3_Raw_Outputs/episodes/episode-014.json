@@ -1,0 +1,790 @@
+{
+  "ep": 14,
+  "file": "episode-014-Episode 1671716.txt",
+  "meta": {
+    "ep": 14,
+    "file": "episode-014-Episode 1671716.txt",
+    "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+    "continuity": "Picks up immediately from Episode 13's cliffhanger where Juliana grasped the emerald ring beneath the razor-sharp blackthorns.",
+    "duration": 87.63
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "EXT. BLACKTHORN GARDEN – DUSK",
+      "start": 0,
+      "end": 40.5
+    },
+    {
+      "n": 2,
+      "heading": "EXT. ALEXANDER'S COTTAGE – CONTINUOUS",
+      "start": 40.5,
+      "end": 43.5
+    },
+    {
+      "n": 3,
+      "heading": "INT. ALEXANDER'S COTTAGE – NIGHT",
+      "start": 43.5,
+      "end": 87.63
+    }
+  ],
+  "beats": [
+    {
+      "id": "e14_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 5.6
+    },
+    {
+      "id": "e14_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0.5,
+      "end": 5.5
+    },
+    {
+      "id": "e14_b003",
+      "type": "sfx",
+      "scene": 1,
+      "start": 1,
+      "end": 5.5
+    },
+    {
+      "id": "e14_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 5.6,
+      "end": 9.5
+    },
+    {
+      "id": "e14_b005",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 7.7,
+      "end": 9
+    },
+    {
+      "id": "e14_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.5,
+      "end": 13.5
+    },
+    {
+      "id": "e14_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 10.5,
+      "end": 12.7
+    },
+    {
+      "id": "e14_b008",
+      "type": "action",
+      "scene": 1,
+      "start": 12.5,
+      "end": 13.5
+    },
+    {
+      "id": "e14_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 13.5,
+      "end": 15.5
+    },
+    {
+      "id": "e14_b010",
+      "type": "sfx",
+      "scene": 1,
+      "start": 14.2,
+      "end": 15.4
+    },
+    {
+      "id": "e14_b011",
+      "type": "action",
+      "scene": 1,
+      "start": 14.5,
+      "end": 15.6
+    },
+    {
+      "id": "e14_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 15.6,
+      "end": 18.5
+    },
+    {
+      "id": "e14_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 16.8,
+      "end": 18
+    },
+    {
+      "id": "e14_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 18.5,
+      "end": 23
+    },
+    {
+      "id": "e14_b015",
+      "type": "action",
+      "scene": 1,
+      "start": 18.8,
+      "end": 23
+    },
+    {
+      "id": "e14_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 23,
+      "end": 25.5
+    },
+    {
+      "id": "e14_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.1,
+      "end": 25
+    },
+    {
+      "id": "e14_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 25.5,
+      "end": 29.5
+    },
+    {
+      "id": "e14_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 26.5,
+      "end": 28.5
+    },
+    {
+      "id": "e14_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 29.5,
+      "end": 32.5
+    },
+    {
+      "id": "e14_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 29.8,
+      "end": 32
+    },
+    {
+      "id": "e14_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 32.5,
+      "end": 38.5
+    },
+    {
+      "id": "e14_b023",
+      "type": "action",
+      "scene": 1,
+      "start": 33.2,
+      "end": 37
+    },
+    {
+      "id": "e14_b024",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 35.8,
+      "end": 38.5
+    },
+    {
+      "id": "e14_b025",
+      "type": "camera",
+      "scene": 1,
+      "start": 38.5,
+      "end": 40.5
+    },
+    {
+      "id": "e14_b026",
+      "type": "camera",
+      "scene": 2,
+      "start": 40.5,
+      "end": 43.5
+    },
+    {
+      "id": "e14_b027",
+      "type": "sfx",
+      "scene": 2,
+      "start": 40.5,
+      "end": 43.5
+    },
+    {
+      "id": "e14_b028",
+      "type": "camera",
+      "scene": 3,
+      "start": 43.5,
+      "end": 47
+    },
+    {
+      "id": "e14_b029",
+      "type": "action",
+      "scene": 3,
+      "start": 44,
+      "end": 47
+    },
+    {
+      "id": "e14_b030",
+      "type": "sfx",
+      "scene": 3,
+      "start": 44,
+      "end": 47.5
+    },
+    {
+      "id": "e14_b031",
+      "type": "camera",
+      "scene": 3,
+      "start": 47,
+      "end": 50.5
+    },
+    {
+      "id": "e14_b032",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 47.2,
+      "end": 49.8
+    },
+    {
+      "id": "e14_b033",
+      "type": "camera",
+      "scene": 3,
+      "start": 50.5,
+      "end": 55.5
+    },
+    {
+      "id": "e14_b034",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 51.8,
+      "end": 54
+    },
+    {
+      "id": "e14_b035",
+      "type": "camera",
+      "scene": 3,
+      "start": 55.5,
+      "end": 58.5
+    },
+    {
+      "id": "e14_b036",
+      "type": "camera",
+      "scene": 3,
+      "start": 58.5,
+      "end": 60.5
+    },
+    {
+      "id": "e14_b037",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 58.5,
+      "end": 60
+    },
+    {
+      "id": "e14_b038",
+      "type": "camera",
+      "scene": 3,
+      "start": 60.5,
+      "end": 63.5
+    },
+    {
+      "id": "e14_b039",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 60.5,
+      "end": 62.5
+    },
+    {
+      "id": "e14_b040",
+      "type": "camera",
+      "scene": 3,
+      "start": 63.5,
+      "end": 66
+    },
+    {
+      "id": "e14_b041",
+      "type": "camera",
+      "scene": 3,
+      "start": 66,
+      "end": 70.5
+    },
+    {
+      "id": "e14_b042",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 66,
+      "end": 67.4
+    },
+    {
+      "id": "e14_b043",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 67.5,
+      "end": 69.8
+    },
+    {
+      "id": "e14_b044",
+      "type": "camera",
+      "scene": 3,
+      "start": 70.5,
+      "end": 76
+    },
+    {
+      "id": "e14_b045",
+      "type": "action",
+      "scene": 3,
+      "start": 71,
+      "end": 76
+    },
+    {
+      "id": "e14_b046",
+      "type": "camera",
+      "scene": 3,
+      "start": 76,
+      "end": 83.5
+    },
+    {
+      "id": "e14_b047",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 76.5,
+      "end": 81
+    },
+    {
+      "id": "e14_b048",
+      "type": "action",
+      "scene": 3,
+      "start": 81.2,
+      "end": 83.5
+    },
+    {
+      "id": "e14_b049",
+      "type": "camera",
+      "scene": 3,
+      "start": 83.5,
+      "end": 87.63
+    },
+    {
+      "id": "e14_b050",
+      "type": "action",
+      "scene": 3,
+      "start": 84,
+      "end": 87
+    },
+    {
+      "id": "e14_b051",
+      "type": "sfx",
+      "scene": 3,
+      "start": 84.5,
+      "end": 87.63
+    }
+  ],
+  "scores": {
+    "e14_b002": {
+      "id": "e14_b002",
+      "hook": 8,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "reveal"
+    },
+    "e14_b003": {
+      "id": "e14_b003",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e14_b005": {
+      "id": "e14_b005",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "reveal"
+    },
+    "e14_b007": {
+      "id": "e14_b007",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "rescue"
+    },
+    "e14_b008": {
+      "id": "e14_b008",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e14_b010": {
+      "id": "e14_b010",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "rescue"
+    },
+    "e14_b011": {
+      "id": "e14_b011",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "rescue"
+    },
+    "e14_b013": {
+      "id": "e14_b013",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e14_b015": {
+      "id": "e14_b015",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e14_b017": {
+      "id": "e14_b017",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e14_b019": {
+      "id": "e14_b019",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e14_b021": {
+      "id": "e14_b021",
+      "hook": 2,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e14_b023": {
+      "id": "e14_b023",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e14_b024": {
+      "id": "e14_b024",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e14_b025": {
+      "id": "e14_b025",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b027": {
+      "id": "e14_b027",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b029": {
+      "id": "e14_b029",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b030": {
+      "id": "e14_b030",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e14_b032": {
+      "id": "e14_b032",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b034": {
+      "id": "e14_b034",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "confession"
+    },
+    "e14_b035": {
+      "id": "e14_b035",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b037": {
+      "id": "e14_b037",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "confession"
+    },
+    "e14_b039": {
+      "id": "e14_b039",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b040": {
+      "id": "e14_b040",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b042": {
+      "id": "e14_b042",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b043": {
+      "id": "e14_b043",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b045": {
+      "id": "e14_b045",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e14_b047": {
+      "id": "e14_b047",
+      "hook": 5,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e14_b048": {
+      "id": "e14_b048",
+      "hook": 4,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e14_b050": {
+      "id": "e14_b050",
+      "hook": 5,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e14_b051": {
+      "id": "e14_b051",
+      "hook": 4,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "threat"
+    }
+  },
+  "promos": [
+    {
+      "id": "m14_0114",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 14,
+          "start": 0.5,
+          "end": 12.7,
+          "beatIds": [
+            "e14_b002",
+            "e14_b003",
+            "e14_b004",
+            "e14_b005",
+            "e14_b006",
+            "e14_b007",
+            "e14_b008"
+          ]
+        },
+        {
+          "ep": 14,
+          "start": 71,
+          "end": 87.63,
+          "beatIds": [
+            "e14_b045",
+            "e14_b046",
+            "e14_b047",
+            "e14_b048",
+            "e14_b049",
+            "e14_b050",
+            "e14_b051"
+          ]
+        }
+      ],
+      "duration": 28.83,
+      "preScore": 15.6,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+      "cliffhanger_text": "Alexander's scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance; the motive for his future violence remains unresolved.",
+      "why": "The visual contrast between the delicate ring and the brutalized hand creates immediate intrigue about the stakes of the rescue.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Price of Her Husband",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden introduction of the ring and the husband without context leaves the viewer confused about the stakes."
+        }
+      }
+    },
+    {
+      "id": "m14_0117",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 14,
+          "start": 14.2,
+          "end": 25,
+          "beatIds": [
+            "e14_b010",
+            "e14_b011",
+            "e14_b012",
+            "e14_b013",
+            "e14_b014",
+            "e14_b015",
+            "e14_b016",
+            "e14_b017"
+          ]
+        },
+        {
+          "ep": 14,
+          "start": 71,
+          "end": 87.63,
+          "beatIds": [
+            "e14_b045",
+            "e14_b046",
+            "e14_b047",
+            "e14_b048",
+            "e14_b049",
+            "e14_b050",
+            "e14_b051"
+          ]
+        }
+      ],
+      "duration": 27.43,
+      "preScore": 13.9,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.",
+      "cliffhanger_text": "Alexander's scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance; the target of his wrath is left unknown.",
+      "why": "Starting with the sound of shackles being released provides an immediate sense of liberation and high-stakes tension.",
+      "standalone": 7,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 9,
+      "spoiler_risk": "low",
+      "title": "Freedom and Brewing Vengeance",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "Starting with the sound of handcuffs without establishing the setting or the characters makes the opening disorienting."
+        }
+      }
+    },
+    {
+      "id": "m14_0122",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 14,
+          "start": 10.5,
+          "end": 23,
+          "beatIds": [
+            "e14_b007",
+            "e14_b008",
+            "e14_b009",
+            "e14_b010",
+            "e14_b011",
+            "e14_b012",
+            "e14_b013",
+            "e14_b014",
+            "e14_b015"
+          ]
+        },
+        {
+          "ep": 14,
+          "start": 67.5,
+          "end": 81,
+          "beatIds": [
+            "e14_b043",
+            "e14_b044",
+            "e14_b045",
+            "e14_b046",
+            "e14_b047"
+          ]
+        }
+      ],
+      "duration": 26,
+      "preScore": 10.78,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "Now release my husband.",
+      "cliffhanger_text": "No one will ever hurt you for protecting me again; the immediate danger is resolved, leaving the viewer with a sense of closure rather than a cliffhanger.",
+      "why": "This clip focuses more on the aftermath and emotional resolution, which lacks the urgent narrative drive of the other options.",
+      "standalone": 9,
+      "hook_3s": 6,
+      "cliff": 3,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Aftermath of Rescue",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The dialogue is abrupt and lacks context, and the ending provides too much closure to function as an effective hook."
+        }
+      }
+    }
+  ]
+}

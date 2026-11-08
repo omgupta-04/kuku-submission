@@ -1,0 +1,125 @@
+@import "tailwindcss";
+
+/*
+  PromoFinder brand: "cutting room".
+  Warm paper, ink, one signal colour (vermilion, like a recording tally).
+  Hook = teal, cliffhanger = amber: they only ever mean those two things.
+*/
+:root {
+  color-scheme: light;
+  --paper: #f6f3ed;
+  --surface: #fffdf9;
+  --sunk: #ece7dc;
+  --ink: #1a1714;
+  --muted: #6b6358;
+  --line: #e2dccf;
+  --accent: #c93a22;
+  --accent-soft: #fbe6e0;
+  --hook: #0f766e;
+  --cliff: #b45309;
+  --bad: #b42318;
+  --ok-bg: #e0f0ea;
+  --warn-bg: #fbecd7;
+  --bad-bg: #fbe4e0;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-sunk: var(--sunk);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-hook: var(--hook);
+  --color-cliff: var(--cliff);
+  --color-bad: var(--bad);
+  --color-ok-bg: var(--ok-bg);
+  --color-warn-bg: var(--warn-bg);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  line-height: 1.55;
+}
+
+::selection { background: var(--accent); color: #fff; }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+
+/* Display type: serif for page and section titles, never bold (serif looks heavy when faux-bolded). */
+h1, h2 {
+  font-family: var(--font-display), Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.015em;
+}
+h1 { line-height: 1.05; }
+
+table { font-variant-numeric: tabular-nums; }
+code, pre, .font-mono { font-feature-settings: "zero"; }
+
+/* One quiet rule between sections instead of colour washes */
+main > section + section { border-top: 1px solid var(--line); }
+
+.eyebrow {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 0 rgba(26, 23, 20, 0.04), 0 6px 20px -12px rgba(26, 23, 20, 0.18);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 0.375rem;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  background: var(--sunk);
+  color: var(--ink);
+}
+
+.btn {
+  border-radius: 0.5rem;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  padding: 0.55rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: background 0.15s, border-color 0.15s, transform 0.1s;
+}
+.btn:hover { background: var(--sunk); border-color: #cfc7b7; }
+.btn:active { transform: translateY(1px); }
+.btn-primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+.btn-primary:hover { background: #a92f1a; border-color: #a92f1a; }
+.btn:disabled { opacity: 0.45; cursor: not-allowed; transform: none; }
+
+/* Form controls */
+input[type="text"], input[type="password"], input[type="number"], select {
+  background: var(--surface);
+  color: var(--ink);
+}
+input[type="checkbox"], input[type="range"] { accent-color: var(--accent); }
+
+/* Tables */
+thead th { position: sticky; top: 0; font-weight: 600; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}

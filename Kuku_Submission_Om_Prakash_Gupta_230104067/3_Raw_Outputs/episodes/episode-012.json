@@ -1,0 +1,852 @@
+{
+  "ep": 12,
+  "file": "episode-012-Episode 1671714.txt",
+  "meta": {
+    "ep": 12,
+    "file": "episode-012-Episode 1671714.txt",
+    "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+    "continuity": "Picks up directly from Episode 11's cliffhanger where the Constable pulls Gerald's planted gold pocket watch from Alexander's trench coat.",
+    "duration": 87.21000000000001
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. COTTAGE – CONTINUOUS",
+      "start": 0,
+      "end": 87.21000000000001
+    }
+  ],
+  "beats": [
+    {
+      "id": "e12_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 4.6
+    },
+    {
+      "id": "e12_b002",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 0.5,
+      "end": 4.5
+    },
+    {
+      "id": "e12_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.6,
+      "end": 9.1
+    },
+    {
+      "id": "e12_b004",
+      "type": "action",
+      "scene": 1,
+      "start": 4.8,
+      "end": 6
+    },
+    {
+      "id": "e12_b005",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 5.7,
+      "end": 8.8
+    },
+    {
+      "id": "e12_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.1,
+      "end": 11.8
+    },
+    {
+      "id": "e12_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 10,
+      "end": 11.7
+    },
+    {
+      "id": "e12_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.8,
+      "end": 13.9
+    },
+    {
+      "id": "e12_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 12.3,
+      "end": 13.9
+    },
+    {
+      "id": "e12_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 13.9,
+      "end": 20.8
+    },
+    {
+      "id": "e12_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 14.3,
+      "end": 20.6
+    },
+    {
+      "id": "e12_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 20.8,
+      "end": 23.7
+    },
+    {
+      "id": "e12_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 21.6,
+      "end": 23.6
+    },
+    {
+      "id": "e12_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 23.7,
+      "end": 26.9
+    },
+    {
+      "id": "e12_b015",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.7,
+      "end": 26.8
+    },
+    {
+      "id": "e12_b016",
+      "type": "action",
+      "scene": 1,
+      "start": 26.8,
+      "end": 28
+    },
+    {
+      "id": "e12_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 26.8,
+      "end": 27.9
+    },
+    {
+      "id": "e12_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 28,
+      "end": 29.8
+    },
+    {
+      "id": "e12_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 28.1,
+      "end": 30
+    },
+    {
+      "id": "e12_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 29.8,
+      "end": 31
+    },
+    {
+      "id": "e12_b021",
+      "type": "camera",
+      "scene": 1,
+      "start": 31,
+      "end": 32.4
+    },
+    {
+      "id": "e12_b022",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 30,
+      "end": 32.4
+    },
+    {
+      "id": "e12_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 32.4,
+      "end": 35.3
+    },
+    {
+      "id": "e12_b024",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 32.4,
+      "end": 35.2
+    },
+    {
+      "id": "e12_b025",
+      "type": "camera",
+      "scene": 1,
+      "start": 35.3,
+      "end": 40
+    },
+    {
+      "id": "e12_b026",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 35.4,
+      "end": 40
+    },
+    {
+      "id": "e12_b027",
+      "type": "camera",
+      "scene": 1,
+      "start": 40,
+      "end": 41.8
+    },
+    {
+      "id": "e12_b028",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 40.1,
+      "end": 41.5
+    },
+    {
+      "id": "e12_b029",
+      "type": "camera",
+      "scene": 1,
+      "start": 41.8,
+      "end": 43.7
+    },
+    {
+      "id": "e12_b030",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 42.2,
+      "end": 43.5
+    },
+    {
+      "id": "e12_b031",
+      "type": "camera",
+      "scene": 1,
+      "start": 43.7,
+      "end": 46.6
+    },
+    {
+      "id": "e12_b032",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 44,
+      "end": 46.4
+    },
+    {
+      "id": "e12_b033",
+      "type": "camera",
+      "scene": 1,
+      "start": 46.6,
+      "end": 52.4
+    },
+    {
+      "id": "e12_b034",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 46.7,
+      "end": 52.3
+    },
+    {
+      "id": "e12_b035",
+      "type": "camera",
+      "scene": 1,
+      "start": 52.4,
+      "end": 56.8
+    },
+    {
+      "id": "e12_b036",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 52.4,
+      "end": 56.7
+    },
+    {
+      "id": "e12_b037",
+      "type": "action",
+      "scene": 1,
+      "start": 56.8,
+      "end": 58
+    },
+    {
+      "id": "e12_b038",
+      "type": "camera",
+      "scene": 1,
+      "start": 56.8,
+      "end": 60.8
+    },
+    {
+      "id": "e12_b039",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 57.3,
+      "end": 60.6
+    },
+    {
+      "id": "e12_b040",
+      "type": "camera",
+      "scene": 1,
+      "start": 60.8,
+      "end": 63.2
+    },
+    {
+      "id": "e12_b041",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 60.8,
+      "end": 63.1
+    },
+    {
+      "id": "e12_b042",
+      "type": "camera",
+      "scene": 1,
+      "start": 63.2,
+      "end": 65.2
+    },
+    {
+      "id": "e12_b043",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 63.3,
+      "end": 65.1
+    },
+    {
+      "id": "e12_b044",
+      "type": "camera",
+      "scene": 1,
+      "start": 65.2,
+      "end": 69.5
+    },
+    {
+      "id": "e12_b045",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 65.4,
+      "end": 69.2
+    },
+    {
+      "id": "e12_b046",
+      "type": "camera",
+      "scene": 1,
+      "start": 69.5,
+      "end": 74
+    },
+    {
+      "id": "e12_b047",
+      "type": "action",
+      "scene": 1,
+      "start": 69.6,
+      "end": 71.2
+    },
+    {
+      "id": "e12_b048",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 69.8,
+      "end": 73.8
+    },
+    {
+      "id": "e12_b049",
+      "type": "camera",
+      "scene": 1,
+      "start": 74,
+      "end": 81.8
+    },
+    {
+      "id": "e12_b050",
+      "type": "action",
+      "scene": 1,
+      "start": 74.2,
+      "end": 76
+    },
+    {
+      "id": "e12_b051",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 75.3,
+      "end": 78.2
+    },
+    {
+      "id": "e12_b052",
+      "type": "action",
+      "scene": 1,
+      "start": 81.5,
+      "end": 83
+    },
+    {
+      "id": "e12_b053",
+      "type": "camera",
+      "scene": 1,
+      "start": 81.8,
+      "end": 87.21000000000001
+    },
+    {
+      "id": "e12_b054",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 82.8,
+      "end": 84.7
+    },
+    {
+      "id": "e12_b055",
+      "type": "action",
+      "scene": 1,
+      "start": 84.7,
+      "end": 87.21000000000001
+    }
+  ],
+  "scores": {
+    "e12_b002": {
+      "id": "e12_b002",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e12_b004": {
+      "id": "e12_b004",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e12_b005": {
+      "id": "e12_b005",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e12_b007": {
+      "id": "e12_b007",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e12_b009": {
+      "id": "e12_b009",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b011": {
+      "id": "e12_b011",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "betrayal"
+    },
+    "e12_b013": {
+      "id": "e12_b013",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b015": {
+      "id": "e12_b015",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e12_b016": {
+      "id": "e12_b016",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b017": {
+      "id": "e12_b017",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b019": {
+      "id": "e12_b019",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e12_b022": {
+      "id": "e12_b022",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e12_b024": {
+      "id": "e12_b024",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b026": {
+      "id": "e12_b026",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b028": {
+      "id": "e12_b028",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e12_b030": {
+      "id": "e12_b030",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b032": {
+      "id": "e12_b032",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e12_b034": {
+      "id": "e12_b034",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e12_b036": {
+      "id": "e12_b036",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e12_b037": {
+      "id": "e12_b037",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b039": {
+      "id": "e12_b039",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e12_b041": {
+      "id": "e12_b041",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e12_b043": {
+      "id": "e12_b043",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e12_b045": {
+      "id": "e12_b045",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e12_b047": {
+      "id": "e12_b047",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b048": {
+      "id": "e12_b048",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b050": {
+      "id": "e12_b050",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b051": {
+      "id": "e12_b051",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e12_b052": {
+      "id": "e12_b052",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b054": {
+      "id": "e12_b054",
+      "hook": 5,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e12_b055": {
+      "id": "e12_b055",
+      "hook": 4,
+      "cliff": 9,
+      "context_need": 2,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "s12_0102",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 12,
+          "start": 65.4,
+          "end": 87.21,
+          "beatIds": [
+            "e12_b045",
+            "e12_b046",
+            "e12_b047",
+            "e12_b048",
+            "e12_b049",
+            "e12_b050",
+            "e12_b051",
+            "e12_b052",
+            "e12_b053",
+            "e12_b054",
+            "e12_b055"
+          ]
+        }
+      ],
+      "duration": 21.81,
+      "preScore": 16,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Fail, or refuse, and your husband hangs from the gallows.",
+      "cliffhanger_text": "Tell me where the garden is. (The nature of the garden and the danger within remain unknown.)",
+      "why": "The high-stakes threat immediately establishes the conflict and the protagonist's desperate motivation.",
+      "standalone": 8,
+      "hook_3s": 9,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Gallows Threat",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden mention of a garden without any prior context or explanation makes the stakes feel arbitrary and confusing."
+        }
+      }
+    },
+    {
+      "id": "m12_0105",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 12,
+          "start": 57.3,
+          "end": 69.2,
+          "beatIds": [
+            "e12_b039",
+            "e12_b040",
+            "e12_b041",
+            "e12_b042",
+            "e12_b043",
+            "e12_b044",
+            "e12_b045"
+          ]
+        },
+        {
+          "ep": 12,
+          "start": 74.2,
+          "end": 87.21,
+          "beatIds": [
+            "e12_b050",
+            "e12_b051",
+            "e12_b052",
+            "e12_b053",
+            "e12_b054",
+            "e12_b055"
+          ]
+        }
+      ],
+      "duration": 24.91,
+      "preScore": 15,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "You will retrieve it with your bare hands before the magistrate arrives.",
+      "cliffhanger_text": "Tell me where the garden is. (The nature of the garden and the danger within remain unknown.)",
+      "why": "The clip effectively layers the physical threat of the hands being shredded with the emotional stakes of the husband's life.",
+      "standalone": 7,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Shredded Hands Ultimatum",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The transition from the threat of shredded hands to the garden mystery is jarring and lacks narrative cohesion."
+        }
+      }
+    },
+    {
+      "id": "m12_0106",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 12,
+          "start": 0.5,
+          "end": 11.7,
+          "beatIds": [
+            "e12_b002",
+            "e12_b003",
+            "e12_b004",
+            "e12_b005",
+            "e12_b006",
+            "e12_b007"
+          ]
+        },
+        {
+          "ep": 12,
+          "start": 74.2,
+          "end": 87.21,
+          "beatIds": [
+            "e12_b050",
+            "e12_b051",
+            "e12_b052",
+            "e12_b053",
+            "e12_b054",
+            "e12_b055"
+          ]
+        }
+      ],
+      "duration": 24.21,
+      "preScore": 13.67,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Put out your hands, veteran. You are under arrest for theft.",
+      "cliffhanger_text": "Tell me where the garden is. (The nature of the garden and the danger within remain unknown.)",
+      "why": "The transition from an arrest scene to a completely different location and threat feels jarring and lacks narrative cohesion.",
+      "standalone": 4,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 6,
+      "spoiler_risk": "med",
+      "title": "Arrest and Forced Sacrifice",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The jump from an arrest for theft to a mysterious garden demand is disjointed and lacks a clear causal link."
+        }
+      }
+    },
+    {
+      "id": "m12_0107",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 12,
+          "start": 0.5,
+          "end": 11.7,
+          "beatIds": [
+            "e12_b002",
+            "e12_b003",
+            "e12_b004",
+            "e12_b005",
+            "e12_b006",
+            "e12_b007"
+          ]
+        },
+        {
+          "ep": 12,
+          "start": 56.8,
+          "end": 69.2,
+          "beatIds": [
+            "e12_b037",
+            "e12_b038",
+            "e12_b039",
+            "e12_b040",
+            "e12_b041",
+            "e12_b042",
+            "e12_b043",
+            "e12_b044",
+            "e12_b045"
+          ]
+        }
+      ],
+      "duration": 23.6,
+      "preScore": 12.67,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Put out your hands, veteran. You are under arrest for theft.",
+      "cliffhanger_text": "Fail, or refuse, and your husband hangs from the gallows. (The outcome of the demand remains unresolved.)",
+      "why": "The clip builds tension well by escalating from an arrest to a brutal ultimatum, keeping the viewer hooked on the husband's fate.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "Arrest to Gallows Ultimatum",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_resolved",
+          "judge_critic_disagree"
+        ],
+        "critic": {
+          "confusing": false,
+          "resolved": true,
+          "note": "The clip ends on a clear ultimatum regarding the husband's life, which functions more as a definitive threat than a true cliffhanger."
+        }
+      }
+    }
+  ]
+}

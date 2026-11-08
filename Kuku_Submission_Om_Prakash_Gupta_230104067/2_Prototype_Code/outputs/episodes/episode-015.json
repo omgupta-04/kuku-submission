@@ -1,0 +1,1054 @@
+{
+  "ep": 15,
+  "file": "episode-015-Episode 1671717.txt",
+  "meta": {
+    "ep": 15,
+    "file": "episode-015-Episode 1671717.txt",
+    "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+    "continuity": "Follows Episode 14 where Alexander solemnly vowed Juliana would never be hurt again; Juliana's hands remain heavily bandaged from retrieving the emerald ring.",
+    "duration": 86
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "EXT. HERBAL GARDEN - NIGHT",
+      "start": 0,
+      "end": 86
+    }
+  ],
+  "beats": [
+    {
+      "id": "e15_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 3.5
+    },
+    {
+      "id": "e15_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 3.5
+    },
+    {
+      "id": "e15_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 3.5,
+      "end": 5
+    },
+    {
+      "id": "e15_b004",
+      "type": "action",
+      "scene": 1,
+      "start": 3.6,
+      "end": 4.9
+    },
+    {
+      "id": "e15_b005",
+      "type": "sfx",
+      "scene": 1,
+      "start": 3.8,
+      "end": 4.9
+    },
+    {
+      "id": "e15_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 5,
+      "end": 7.5
+    },
+    {
+      "id": "e15_b007",
+      "type": "action",
+      "scene": 1,
+      "start": 5.1,
+      "end": 7.4
+    },
+    {
+      "id": "e15_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 7.5,
+      "end": 11.8
+    },
+    {
+      "id": "e15_b009",
+      "type": "action",
+      "scene": 1,
+      "start": 7.6,
+      "end": 11.8
+    },
+    {
+      "id": "e15_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 8.5,
+      "end": 11.7
+    },
+    {
+      "id": "e15_b011",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.8,
+      "end": 15.8
+    },
+    {
+      "id": "e15_b012",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 13,
+      "end": 15.7
+    },
+    {
+      "id": "e15_b013",
+      "type": "camera",
+      "scene": 1,
+      "start": 15.8,
+      "end": 18.8
+    },
+    {
+      "id": "e15_b014",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 16.4,
+      "end": 18.7
+    },
+    {
+      "id": "e15_b015",
+      "type": "camera",
+      "scene": 1,
+      "start": 18.8,
+      "end": 22.5
+    },
+    {
+      "id": "e15_b016",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20,
+      "end": 22.3
+    },
+    {
+      "id": "e15_b017",
+      "type": "action",
+      "scene": 1,
+      "start": 20.5,
+      "end": 22.5
+    },
+    {
+      "id": "e15_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 22.5,
+      "end": 26.8
+    },
+    {
+      "id": "e15_b019",
+      "type": "action",
+      "scene": 1,
+      "start": 22.8,
+      "end": 26.5
+    },
+    {
+      "id": "e15_b020",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.2,
+      "end": 26.3
+    },
+    {
+      "id": "e15_b021",
+      "type": "camera",
+      "scene": 1,
+      "start": 26.8,
+      "end": 31.5
+    },
+    {
+      "id": "e15_b022",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 27.5,
+      "end": 31.2
+    },
+    {
+      "id": "e15_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 31.5,
+      "end": 34
+    },
+    {
+      "id": "e15_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 34,
+      "end": 37
+    },
+    {
+      "id": "e15_b025",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 34.8,
+      "end": 36.8
+    },
+    {
+      "id": "e15_b026",
+      "type": "camera",
+      "scene": 1,
+      "start": 37,
+      "end": 40.5
+    },
+    {
+      "id": "e15_b027",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 37.2,
+      "end": 40.4
+    },
+    {
+      "id": "e15_b028",
+      "type": "camera",
+      "scene": 1,
+      "start": 40.5,
+      "end": 44.2
+    },
+    {
+      "id": "e15_b029",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 41,
+      "end": 44
+    },
+    {
+      "id": "e15_b030",
+      "type": "camera",
+      "scene": 1,
+      "start": 44.2,
+      "end": 46.5
+    },
+    {
+      "id": "e15_b031",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 44.8,
+      "end": 46.4
+    },
+    {
+      "id": "e15_b032",
+      "type": "camera",
+      "scene": 1,
+      "start": 46.5,
+      "end": 48
+    },
+    {
+      "id": "e15_b033",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 46.5,
+      "end": 47.3
+    },
+    {
+      "id": "e15_b034",
+      "type": "action",
+      "scene": 1,
+      "start": 47.4,
+      "end": 49.5
+    },
+    {
+      "id": "e15_b035",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 47.8,
+      "end": 49
+    },
+    {
+      "id": "e15_b036",
+      "type": "camera",
+      "scene": 1,
+      "start": 49.5,
+      "end": 53.5
+    },
+    {
+      "id": "e15_b037",
+      "type": "action",
+      "scene": 1,
+      "start": 50,
+      "end": 53.5
+    },
+    {
+      "id": "e15_b038",
+      "type": "camera",
+      "scene": 1,
+      "start": 53.5,
+      "end": 56.5
+    },
+    {
+      "id": "e15_b039",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 53.5,
+      "end": 55.7
+    },
+    {
+      "id": "e15_b040",
+      "type": "camera",
+      "scene": 1,
+      "start": 56.5,
+      "end": 60
+    },
+    {
+      "id": "e15_b041",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 57.3,
+      "end": 59.8
+    },
+    {
+      "id": "e15_b042",
+      "type": "action",
+      "scene": 1,
+      "start": 60,
+      "end": 62
+    },
+    {
+      "id": "e15_b043",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 60,
+      "end": 61
+    },
+    {
+      "id": "e15_b044",
+      "type": "camera",
+      "scene": 1,
+      "start": 62,
+      "end": 63.2
+    },
+    {
+      "id": "e15_b045",
+      "type": "camera",
+      "scene": 1,
+      "start": 63.2,
+      "end": 67.5
+    },
+    {
+      "id": "e15_b046",
+      "type": "action",
+      "scene": 1,
+      "start": 63.5,
+      "end": 67.5
+    },
+    {
+      "id": "e15_b047",
+      "type": "camera",
+      "scene": 1,
+      "start": 67.5,
+      "end": 73.5
+    },
+    {
+      "id": "e15_b048",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 70.5,
+      "end": 72.6
+    },
+    {
+      "id": "e15_b049",
+      "type": "camera",
+      "scene": 1,
+      "start": 73.5,
+      "end": 75.5
+    },
+    {
+      "id": "e15_b050",
+      "type": "camera",
+      "scene": 1,
+      "start": 75.5,
+      "end": 78.5
+    },
+    {
+      "id": "e15_b051",
+      "type": "action",
+      "scene": 1,
+      "start": 76,
+      "end": 78.5
+    },
+    {
+      "id": "e15_b052",
+      "type": "camera",
+      "scene": 1,
+      "start": 78.5,
+      "end": 82.8
+    },
+    {
+      "id": "e15_b053",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 79,
+      "end": 82.4
+    },
+    {
+      "id": "e15_b054",
+      "type": "camera",
+      "scene": 1,
+      "start": 82.8,
+      "end": 86
+    },
+    {
+      "id": "e15_b055",
+      "type": "sfx",
+      "scene": 1,
+      "start": 84,
+      "end": 86
+    }
+  ],
+  "scores": {
+    "e15_b002": {
+      "id": "e15_b002",
+      "hook": 6,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e15_b004": {
+      "id": "e15_b004",
+      "hook": 7,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "threat"
+    },
+    "e15_b005": {
+      "id": "e15_b005",
+      "hook": 4,
+      "cliff": 1,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e15_b007": {
+      "id": "e15_b007",
+      "hook": 5,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "threat"
+    },
+    "e15_b009": {
+      "id": "e15_b009",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e15_b010": {
+      "id": "e15_b010",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e15_b012": {
+      "id": "e15_b012",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e15_b014": {
+      "id": "e15_b014",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e15_b016": {
+      "id": "e15_b016",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e15_b017": {
+      "id": "e15_b017",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e15_b019": {
+      "id": "e15_b019",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e15_b020": {
+      "id": "e15_b020",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e15_b022": {
+      "id": "e15_b022",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e15_b023": {
+      "id": "e15_b023",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e15_b025": {
+      "id": "e15_b025",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e15_b027": {
+      "id": "e15_b027",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e15_b029": {
+      "id": "e15_b029",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e15_b031": {
+      "id": "e15_b031",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e15_b033": {
+      "id": "e15_b033",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e15_b034": {
+      "id": "e15_b034",
+      "hook": 8,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e15_b035": {
+      "id": "e15_b035",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e15_b037": {
+      "id": "e15_b037",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e15_b039": {
+      "id": "e15_b039",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e15_b041": {
+      "id": "e15_b041",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e15_b042": {
+      "id": "e15_b042",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e15_b043": {
+      "id": "e15_b043",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e15_b044": {
+      "id": "e15_b044",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e15_b046": {
+      "id": "e15_b046",
+      "hook": 8,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e15_b048": {
+      "id": "e15_b048",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e15_b049": {
+      "id": "e15_b049",
+      "hook": 4,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e15_b051": {
+      "id": "e15_b051",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e15_b053": {
+      "id": "e15_b053",
+      "hook": 5,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e15_b055": {
+      "id": "e15_b055",
+      "hook": 4,
+      "cliff": 10,
+      "context_need": 1,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "m15_0132",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 15,
+          "start": 47.4,
+          "end": 59.8,
+          "beatIds": [
+            "e15_b034",
+            "e15_b035",
+            "e15_b036",
+            "e15_b037",
+            "e15_b038",
+            "e15_b039",
+            "e15_b040",
+            "e15_b041"
+          ]
+        },
+        {
+          "ep": 15,
+          "start": 73.5,
+          "end": 86,
+          "beatIds": [
+            "e15_b049",
+            "e15_b050",
+            "e15_b051",
+            "e15_b052",
+            "e15_b053",
+            "e15_b054",
+            "e15_b055"
+          ]
+        }
+      ],
+      "duration": 24.9,
+      "preScore": 17.28,
+      "tag": "humiliation",
+      "scene": 1,
+      "hook_text": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.",
+      "cliffhanger_text": "Alexander places himself between Juliana and the thugs, with the thug asking 'What? You want to fight us, veteran?'; the outcome of the confrontation is unresolved.",
+      "why": "It immediately establishes a high-stakes conflict and introduces a hero figure, creating instant narrative tension.",
+      "standalone": 8,
+      "hook_3s": 9,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Veteran Defends The Garden",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden introduction of Alexander without context makes the transition jarring for a new viewer."
+        }
+      }
+    },
+    {
+      "id": "s15_0127",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 15,
+          "start": 63.5,
+          "end": 86,
+          "beatIds": [
+            "e15_b046",
+            "e15_b047",
+            "e15_b048",
+            "e15_b049",
+            "e15_b050",
+            "e15_b051",
+            "e15_b052",
+            "e15_b053",
+            "e15_b054",
+            "e15_b055"
+          ]
+        }
+      ],
+      "duration": 22.5,
+      "preScore": 17.08,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.",
+      "cliffhanger_text": "Alexander faces the thugs, with the thug asking 'What? You want to fight us, veteran?'; the fight remains pending.",
+      "why": "The high-energy entrance of the hero is a strong hook, though the transition to the confrontation feels slightly abrupt.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Alexander Charges To The Rescue",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "Alexander appears out of nowhere with no established relationship to the victim or the situation."
+        }
+      }
+    },
+    {
+      "id": "m15_0134",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 15,
+          "start": 3.6,
+          "end": 15.7,
+          "beatIds": [
+            "e15_b004",
+            "e15_b005",
+            "e15_b006",
+            "e15_b007",
+            "e15_b008",
+            "e15_b009",
+            "e15_b010",
+            "e15_b011",
+            "e15_b012"
+          ]
+        },
+        {
+          "ep": 15,
+          "start": 73.5,
+          "end": 86,
+          "beatIds": [
+            "e15_b049",
+            "e15_b050",
+            "e15_b051",
+            "e15_b052",
+            "e15_b053",
+            "e15_b054",
+            "e15_b055"
+          ]
+        }
+      ],
+      "duration": 24.6,
+      "preScore": 16.5,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "The thug brutally smashes his club down into a wooden planter box, shattering the frame.",
+      "cliffhanger_text": "Alexander faces the thugs, with the thug asking 'What? You want to fight us, veteran?'; the fight remains pending.",
+      "why": "Starting with the destruction of property provides a clear inciting incident for the conflict that follows.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Thugs Destroy The Medicinal Garden",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The abrupt shift from the thugs' vandalism to Alexander's arrival lacks narrative cohesion."
+        }
+      }
+    },
+    {
+      "id": "s15_0125",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 15,
+          "start": 47.4,
+          "end": 82.4,
+          "beatIds": [
+            "e15_b034",
+            "e15_b035",
+            "e15_b036",
+            "e15_b037",
+            "e15_b038",
+            "e15_b039",
+            "e15_b040",
+            "e15_b041",
+            "e15_b042",
+            "e15_b043",
+            "e15_b044",
+            "e15_b045",
+            "e15_b046",
+            "e15_b047",
+            "e15_b048",
+            "e15_b049",
+            "e15_b050",
+            "e15_b051",
+            "e15_b052",
+            "e15_b053"
+          ]
+        }
+      ],
+      "duration": 35,
+      "preScore": 15.23,
+      "tag": "humiliation",
+      "scene": 1,
+      "hook_text": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.",
+      "cliffhanger_text": "The thug asks 'What? You want to fight us, veteran?'; the scene ends before the fight begins.",
+      "why": "The clip is a bit long, but it effectively builds the emotional stakes before introducing the hero's intervention.",
+      "standalone": 8,
+      "hook_3s": 9,
+      "cliff": 7,
+      "emotion": 9,
+      "spoiler_risk": "low",
+      "title": "Juliana Shoved By Cruel Thugs",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "This clip provides enough context to understand the stakes before the tension peaks."
+        }
+      }
+    },
+    {
+      "id": "s15_0123",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 15,
+          "start": 47.4,
+          "end": 67.5,
+          "beatIds": [
+            "e15_b034",
+            "e15_b035",
+            "e15_b036",
+            "e15_b037",
+            "e15_b038",
+            "e15_b039",
+            "e15_b040",
+            "e15_b041",
+            "e15_b042",
+            "e15_b043",
+            "e15_b044",
+            "e15_b045",
+            "e15_b046"
+          ]
+        }
+      ],
+      "duration": 20.1,
+      "preScore": 14.33,
+      "tag": "humiliation",
+      "scene": 1,
+      "hook_text": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.",
+      "cliffhanger_text": "Alexander storms forward with lethal intensity; the scene cuts before he reaches the thugs.",
+      "why": "It focuses heavily on the victim's pain, which is emotionally engaging but lacks the payoff of the confrontation.",
+      "standalone": 7,
+      "hook_3s": 9,
+      "cliff": 6,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "Juliana Attacked In The Garden",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The progression from the assault to the arrival of a savior is clear and effective."
+        }
+      }
+    },
+    {
+      "id": "m15_0136",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 15,
+          "start": 3.6,
+          "end": 15.7,
+          "beatIds": [
+            "e15_b004",
+            "e15_b005",
+            "e15_b006",
+            "e15_b007",
+            "e15_b008",
+            "e15_b009",
+            "e15_b010",
+            "e15_b011",
+            "e15_b012"
+          ]
+        },
+        {
+          "ep": 15,
+          "start": 47.8,
+          "end": 61,
+          "beatIds": [
+            "e15_b035",
+            "e15_b036",
+            "e15_b037",
+            "e15_b038",
+            "e15_b039",
+            "e15_b040",
+            "e15_b041",
+            "e15_b042",
+            "e15_b043"
+          ]
+        }
+      ],
+      "duration": 25.3,
+      "preScore": 13.5,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "The thug brutally smashes his club down into a wooden planter box, shattering the frame.",
+      "cliffhanger_text": "The Tall Thug hoists his club to crush the remaining herbs while Juliana screams 'Stop!'; the immediate fate of the plants is unresolved.",
+      "why": "The clip focuses entirely on the destruction of the garden, which feels repetitive and lacks a heroic counter-balance.",
+      "standalone": 7,
+      "hook_3s": 8,
+      "cliff": 5,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "The Destruction Of The Herbs",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The disjointed editing between the vandalism and the injury makes the timeline difficult to follow."
+        }
+      }
+    },
+    {
+      "id": "s15_0128",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 15,
+          "start": 3.6,
+          "end": 61,
+          "beatIds": [
+            "e15_b004",
+            "e15_b005",
+            "e15_b006",
+            "e15_b007",
+            "e15_b008",
+            "e15_b009",
+            "e15_b010",
+            "e15_b011",
+            "e15_b012",
+            "e15_b013",
+            "e15_b014",
+            "e15_b015",
+            "e15_b016",
+            "e15_b017",
+            "e15_b018",
+            "e15_b019",
+            "e15_b020",
+            "e15_b021",
+            "e15_b022",
+            "e15_b023",
+            "e15_b024",
+            "e15_b025",
+            "e15_b026",
+            "e15_b027",
+            "e15_b028",
+            "e15_b029",
+            "e15_b030",
+            "e15_b031",
+            "e15_b032",
+            "e15_b033",
+            "e15_b034",
+            "e15_b035",
+            "e15_b036",
+            "e15_b037",
+            "e15_b038",
+            "e15_b039",
+            "e15_b040",
+            "e15_b041",
+            "e15_b042",
+            "e15_b043"
+          ]
+        }
+      ],
+      "duration": 57.4,
+      "preScore": 13.42,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "The thug brutally smashes his club down into a wooden planter box, shattering the frame.",
+      "cliffhanger_text": "The Tall Thug hoists his club to crush the remaining herbs while Juliana screams 'Stop!'; the immediate fate of the plants is unresolved.",
+      "why": "It is far too long for a Reel and loses momentum by focusing on dialogue rather than the core conflict.",
+      "standalone": 6,
+      "hook_3s": 8,
+      "cliff": 5,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "Juliana Defends Her Medicinal Garden",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "This is a comprehensive sequence that establishes the conflict and the stakes clearly."
+        }
+      }
+    }
+  ]
+}

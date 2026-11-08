@@ -1,0 +1,1196 @@
+{
+  "ep": 30,
+  "file": "episode-030-Episode 1678583.txt",
+  "meta": {
+    "ep": 30,
+    "file": "episode-030-Episode 1678583.txt",
+    "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+    "continuity": "Follows directly from Episode 29 where Juliana was locked away in the castle's subterranean wet cells, vowing never to let them take Alexander from her.",
+    "duration": 151.21
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. CASTLE CORRIDOR – DAY",
+      "start": 0,
+      "end": 47.6
+    },
+    {
+      "n": 2,
+      "heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS",
+      "start": 47.6,
+      "end": 144.5
+    },
+    {
+      "n": 3,
+      "heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT",
+      "start": 144.5,
+      "end": 151.21
+    }
+  ],
+  "beats": [
+    {
+      "id": "e30_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 5.2
+    },
+    {
+      "id": "e30_b002",
+      "type": "sfx",
+      "scene": 1,
+      "start": 0,
+      "end": 4.5
+    },
+    {
+      "id": "e30_b003",
+      "type": "action",
+      "scene": 1,
+      "start": 3,
+      "end": 5.5
+    },
+    {
+      "id": "e30_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 5.2,
+      "end": 7.5
+    },
+    {
+      "id": "e30_b005",
+      "type": "sfx",
+      "scene": 1,
+      "start": 6.8,
+      "end": 7.9
+    },
+    {
+      "id": "e30_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 7.5,
+      "end": 13.5
+    },
+    {
+      "id": "e30_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 8.8,
+      "end": 13.3
+    },
+    {
+      "id": "e30_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 13.5,
+      "end": 16.9
+    },
+    {
+      "id": "e30_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 13.6,
+      "end": 16.8
+    },
+    {
+      "id": "e30_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 16.9,
+      "end": 26
+    },
+    {
+      "id": "e30_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 17.3,
+      "end": 25.8
+    },
+    {
+      "id": "e30_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 26,
+      "end": 29.8
+    },
+    {
+      "id": "e30_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 26.5,
+      "end": 29.2
+    },
+    {
+      "id": "e30_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 29.8,
+      "end": 32
+    },
+    {
+      "id": "e30_b015",
+      "type": "camera",
+      "scene": 1,
+      "start": 32,
+      "end": 33.4
+    },
+    {
+      "id": "e30_b016",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 32.1,
+      "end": 33.3
+    },
+    {
+      "id": "e30_b017",
+      "type": "camera",
+      "scene": 1,
+      "start": 33.4,
+      "end": 39.8
+    },
+    {
+      "id": "e30_b018",
+      "type": "action",
+      "scene": 1,
+      "start": 33.4,
+      "end": 35.2
+    },
+    {
+      "id": "e30_b019",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 33.6,
+      "end": 39.8
+    },
+    {
+      "id": "e30_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 39.8,
+      "end": 43.8
+    },
+    {
+      "id": "e30_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 41.8,
+      "end": 43.5
+    },
+    {
+      "id": "e30_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 43.8,
+      "end": 47.6
+    },
+    {
+      "id": "e30_b023",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 44.8,
+      "end": 47.3
+    },
+    {
+      "id": "e30_b024",
+      "type": "camera",
+      "scene": 2,
+      "start": 47.6,
+      "end": 51
+    },
+    {
+      "id": "e30_b025",
+      "type": "sfx",
+      "scene": 2,
+      "start": 48,
+      "end": 50.5
+    },
+    {
+      "id": "e30_b026",
+      "type": "camera",
+      "scene": 2,
+      "start": 51,
+      "end": 54.6
+    },
+    {
+      "id": "e30_b027",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 51.2,
+      "end": 54
+    },
+    {
+      "id": "e30_b028",
+      "type": "camera",
+      "scene": 2,
+      "start": 54.6,
+      "end": 58.8
+    },
+    {
+      "id": "e30_b029",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 57,
+      "end": 58.8
+    },
+    {
+      "id": "e30_b030",
+      "type": "camera",
+      "scene": 2,
+      "start": 58.8,
+      "end": 62.8
+    },
+    {
+      "id": "e30_b031",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 59.4,
+      "end": 62.5
+    },
+    {
+      "id": "e30_b032",
+      "type": "camera",
+      "scene": 2,
+      "start": 62.8,
+      "end": 64.8
+    },
+    {
+      "id": "e30_b033",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 63.1,
+      "end": 64.3
+    },
+    {
+      "id": "e30_b034",
+      "type": "camera",
+      "scene": 2,
+      "start": 64.8,
+      "end": 73.5
+    },
+    {
+      "id": "e30_b035",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 65.3,
+      "end": 72.8
+    },
+    {
+      "id": "e30_b036",
+      "type": "action",
+      "scene": 2,
+      "start": 70.8,
+      "end": 73.2
+    },
+    {
+      "id": "e30_b037",
+      "type": "camera",
+      "scene": 2,
+      "start": 73.5,
+      "end": 74.8
+    },
+    {
+      "id": "e30_b038",
+      "type": "camera",
+      "scene": 2,
+      "start": 74.8,
+      "end": 82.8
+    },
+    {
+      "id": "e30_b039",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 75,
+      "end": 82.5
+    },
+    {
+      "id": "e30_b040",
+      "type": "camera",
+      "scene": 2,
+      "start": 82.8,
+      "end": 85.6
+    },
+    {
+      "id": "e30_b041",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 83.2,
+      "end": 85.4
+    },
+    {
+      "id": "e30_b042",
+      "type": "camera",
+      "scene": 2,
+      "start": 85.6,
+      "end": 88.5
+    },
+    {
+      "id": "e30_b043",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 85.8,
+      "end": 87.8
+    },
+    {
+      "id": "e30_b044",
+      "type": "camera",
+      "scene": 2,
+      "start": 88.5,
+      "end": 91.8
+    },
+    {
+      "id": "e30_b045",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 89,
+      "end": 91.3
+    },
+    {
+      "id": "e30_b046",
+      "type": "camera",
+      "scene": 2,
+      "start": 91.8,
+      "end": 94.5
+    },
+    {
+      "id": "e30_b047",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 92,
+      "end": 93.4
+    },
+    {
+      "id": "e30_b048",
+      "type": "camera",
+      "scene": 2,
+      "start": 94.5,
+      "end": 101.9
+    },
+    {
+      "id": "e30_b049",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 94.6,
+      "end": 101.8
+    },
+    {
+      "id": "e30_b050",
+      "type": "camera",
+      "scene": 2,
+      "start": 101.9,
+      "end": 104.4
+    },
+    {
+      "id": "e30_b051",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 102.2,
+      "end": 103.9
+    },
+    {
+      "id": "e30_b052",
+      "type": "camera",
+      "scene": 2,
+      "start": 104.4,
+      "end": 106.6
+    },
+    {
+      "id": "e30_b053",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 104.8,
+      "end": 106
+    },
+    {
+      "id": "e30_b054",
+      "type": "camera",
+      "scene": 2,
+      "start": 106.6,
+      "end": 109
+    },
+    {
+      "id": "e30_b055",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 107.3,
+      "end": 108.8
+    },
+    {
+      "id": "e30_b056",
+      "type": "camera",
+      "scene": 2,
+      "start": 109,
+      "end": 116.8
+    },
+    {
+      "id": "e30_b057",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 109.5,
+      "end": 116.5
+    },
+    {
+      "id": "e30_b058",
+      "type": "camera",
+      "scene": 2,
+      "start": 116.8,
+      "end": 121.9
+    },
+    {
+      "id": "e30_b059",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 120,
+      "end": 121.5
+    },
+    {
+      "id": "e30_b060",
+      "type": "camera",
+      "scene": 2,
+      "start": 121.9,
+      "end": 125.1
+    },
+    {
+      "id": "e30_b061",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 122.4,
+      "end": 124.9
+    },
+    {
+      "id": "e30_b062",
+      "type": "camera",
+      "scene": 2,
+      "start": 125.1,
+      "end": 133.5
+    },
+    {
+      "id": "e30_b063",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 125.5,
+      "end": 133
+    },
+    {
+      "id": "e30_b064",
+      "type": "camera",
+      "scene": 2,
+      "start": 133.5,
+      "end": 136.8
+    },
+    {
+      "id": "e30_b065",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 134.1,
+      "end": 136.2
+    },
+    {
+      "id": "e30_b066",
+      "type": "camera",
+      "scene": 2,
+      "start": 136.8,
+      "end": 144.5
+    },
+    {
+      "id": "e30_b067",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 137.5,
+      "end": 143.5
+    },
+    {
+      "id": "e30_b068",
+      "type": "camera",
+      "scene": 3,
+      "start": 144.5,
+      "end": 148.5
+    },
+    {
+      "id": "e30_b069",
+      "type": "sfx",
+      "scene": 3,
+      "start": 144.5,
+      "end": 151.21
+    },
+    {
+      "id": "e30_b070",
+      "type": "camera",
+      "scene": 3,
+      "start": 148.5,
+      "end": 151.21
+    },
+    {
+      "id": "e30_b071",
+      "type": "action",
+      "scene": 3,
+      "start": 148.5,
+      "end": 151.21
+    }
+  ],
+  "scores": {
+    "e30_b002": {
+      "id": "e30_b002",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e30_b003": {
+      "id": "e30_b003",
+      "hook": 1,
+      "cliff": 0,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e30_b005": {
+      "id": "e30_b005",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e30_b007": {
+      "id": "e30_b007",
+      "hook": 6,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e30_b009": {
+      "id": "e30_b009",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e30_b011": {
+      "id": "e30_b011",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e30_b013": {
+      "id": "e30_b013",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "reveal"
+    },
+    "e30_b014": {
+      "id": "e30_b014",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e30_b016": {
+      "id": "e30_b016",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e30_b018": {
+      "id": "e30_b018",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e30_b019": {
+      "id": "e30_b019",
+      "hook": 8,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e30_b021": {
+      "id": "e30_b021",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e30_b023": {
+      "id": "e30_b023",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e30_b025": {
+      "id": "e30_b025",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e30_b027": {
+      "id": "e30_b027",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e30_b029": {
+      "id": "e30_b029",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e30_b031": {
+      "id": "e30_b031",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e30_b033": {
+      "id": "e30_b033",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e30_b035": {
+      "id": "e30_b035",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e30_b036": {
+      "id": "e30_b036",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e30_b037": {
+      "id": "e30_b037",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e30_b039": {
+      "id": "e30_b039",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e30_b041": {
+      "id": "e30_b041",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e30_b043": {
+      "id": "e30_b043",
+      "hook": 8,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "betrayal"
+    },
+    "e30_b045": {
+      "id": "e30_b045",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e30_b047": {
+      "id": "e30_b047",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e30_b049": {
+      "id": "e30_b049",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e30_b051": {
+      "id": "e30_b051",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e30_b053": {
+      "id": "e30_b053",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e30_b055": {
+      "id": "e30_b055",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e30_b057": {
+      "id": "e30_b057",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e30_b059": {
+      "id": "e30_b059",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e30_b061": {
+      "id": "e30_b061",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e30_b063": {
+      "id": "e30_b063",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e30_b065": {
+      "id": "e30_b065",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e30_b067": {
+      "id": "e30_b067",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e30_b069": {
+      "id": "e30_b069",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e30_b071": {
+      "id": "e30_b071",
+      "hook": 5,
+      "cliff": 9,
+      "context_need": 3,
+      "tag": "rescue"
+    }
+  },
+  "promos": [
+    {
+      "id": "m30_0340",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 30,
+          "start": 85.8,
+          "end": 101.8,
+          "beatIds": [
+            "e30_b043",
+            "e30_b044",
+            "e30_b045",
+            "e30_b046",
+            "e30_b047",
+            "e30_b048",
+            "e30_b049"
+          ]
+        },
+        {
+          "ep": 30,
+          "start": 137.5,
+          "end": 151.21,
+          "beatIds": [
+            "e30_b067",
+            "e30_b068",
+            "e30_b069",
+            "e30_b070",
+            "e30_b071"
+          ]
+        }
+      ],
+      "duration": 29.71,
+      "preScore": 16,
+      "tag": "betrayal",
+      "scene": 2,
+      "hook_text": "Then call it witchcraft.",
+      "cliffhanger_text": "Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting upward in dread and fragile hope as the frame holds, cutting abruptly to black.",
+      "why": "The contrast between the cold, calculated conspiracy and the raw, visceral fear of the victim creates a compelling emotional hook.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Witchcraft Conspiracy Plot",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden jump to a dungeon scene with an unnamed character lacks necessary context for a new viewer."
+        }
+      }
+    },
+    {
+      "id": "m30_0337",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 30,
+          "start": 33.6,
+          "end": 47.3,
+          "beatIds": [
+            "e30_b019",
+            "e30_b020",
+            "e30_b021",
+            "e30_b022",
+            "e30_b023"
+          ]
+        },
+        {
+          "ep": 30,
+          "start": 137.5,
+          "end": 151.21,
+          "beatIds": [
+            "e30_b067",
+            "e30_b068",
+            "e30_b069",
+            "e30_b070",
+            "e30_b071"
+          ]
+        }
+      ],
+      "duration": 27.41,
+      "preScore": 15.83,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Then make certain she isn't! A peasant weed, Rupert!",
+      "cliffhanger_text": "Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting upward in dread and fragile hope as the frame holds, cutting abruptly to black.",
+      "why": "Starting with an aggressive confrontation immediately establishes high stakes and character dynamics, though the context of the 'prisoner' is slightly vague.",
+      "standalone": 7,
+      "hook_3s": 9,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "Burning The Peasant Weed",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The reference to a peasant weed and the abrupt shift to the dungeon creates a disjointed narrative flow."
+        }
+      }
+    },
+    {
+      "id": "m30_0341",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 30,
+          "start": 85.8,
+          "end": 101.8,
+          "beatIds": [
+            "e30_b043",
+            "e30_b044",
+            "e30_b045",
+            "e30_b046",
+            "e30_b047",
+            "e30_b048",
+            "e30_b049"
+          ]
+        },
+        {
+          "ep": 30,
+          "start": 125.5,
+          "end": 143.5,
+          "beatIds": [
+            "e30_b063",
+            "e30_b064",
+            "e30_b065",
+            "e30_b066",
+            "e30_b067"
+          ]
+        }
+      ],
+      "duration": 34,
+      "preScore": 15.14,
+      "tag": "betrayal",
+      "scene": 2,
+      "hook_text": "Then call it witchcraft.",
+      "cliffhanger_text": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+      "why": "The dialogue is sharp and villainous, but the ending feels like a summary statement rather than a true cliffhanger.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 6,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "Framing The Witch Trial",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The dialogue flows logically and maintains high stakes without requiring prior knowledge."
+        }
+      }
+    },
+    {
+      "id": "m30_0338",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 30,
+          "start": 33.6,
+          "end": 47.3,
+          "beatIds": [
+            "e30_b019",
+            "e30_b020",
+            "e30_b021",
+            "e30_b022",
+            "e30_b023"
+          ]
+        },
+        {
+          "ep": 30,
+          "start": 125.5,
+          "end": 143.5,
+          "beatIds": [
+            "e30_b063",
+            "e30_b064",
+            "e30_b065",
+            "e30_b066",
+            "e30_b067"
+          ]
+        }
+      ],
+      "duration": 31.7,
+      "preScore": 15,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Then make certain she isn't! A peasant weed, Rupert!",
+      "cliffhanger_text": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+      "why": "The aggressive opening is strong, but the transition to the final line lacks the emotional weight of the visual cliffhanger seen in other versions.",
+      "standalone": 8,
+      "hook_3s": 9,
+      "cliff": 6,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "The Nobleman's Cruel Plan",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The aggressive opening about weeds is jarring and lacks sufficient setup for a general audience."
+        }
+      }
+    },
+    {
+      "id": "s30_0336",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 30,
+          "start": 85.8,
+          "end": 143.5,
+          "beatIds": [
+            "e30_b043",
+            "e30_b044",
+            "e30_b045",
+            "e30_b046",
+            "e30_b047",
+            "e30_b048",
+            "e30_b049",
+            "e30_b050",
+            "e30_b051",
+            "e30_b052",
+            "e30_b053",
+            "e30_b054",
+            "e30_b055",
+            "e30_b056",
+            "e30_b057",
+            "e30_b058",
+            "e30_b059",
+            "e30_b060",
+            "e30_b061",
+            "e30_b062",
+            "e30_b063",
+            "e30_b064",
+            "e30_b065",
+            "e30_b066",
+            "e30_b067"
+          ]
+        }
+      ],
+      "duration": 57.7,
+      "preScore": 14.92,
+      "tag": "betrayal",
+      "scene": 2,
+      "hook_text": "Then call it witchcraft.",
+      "cliffhanger_text": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+      "why": "It provides too much exposition, losing the urgency required for a short-form promo.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 5,
+      "emotion": 6,
+      "spoiler_risk": "med",
+      "title": "Detailed Conspiracy Planning Session",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "While comprehensive, the length is excessive for a promo and risks losing viewer attention."
+        }
+      }
+    },
+    {
+      "id": "m30_0342",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 30,
+          "start": 85.8,
+          "end": 101.8,
+          "beatIds": [
+            "e30_b043",
+            "e30_b044",
+            "e30_b045",
+            "e30_b046",
+            "e30_b047",
+            "e30_b048",
+            "e30_b049"
+          ]
+        },
+        {
+          "ep": 30,
+          "start": 120,
+          "end": 133,
+          "beatIds": [
+            "e30_b059",
+            "e30_b060",
+            "e30_b061",
+            "e30_b062",
+            "e30_b063"
+          ]
+        }
+      ],
+      "duration": 29,
+      "preScore": 13.07,
+      "tag": "betrayal",
+      "scene": 2,
+      "hook_text": "Then call it witchcraft.",
+      "cliffhanger_text": "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.",
+      "why": "The dialogue is punchy and clear, but the ending is a bit too definitive, leaving little mystery.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 5,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "The Daughter's Impending Execution",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": false,
+          "resolved": true,
+          "note": "The cliffhanger is weak because the dialogue explicitly confirms the outcome, killing the suspense."
+        }
+      }
+    },
+    {
+      "id": "m30_0339",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 30,
+          "start": 33.6,
+          "end": 47.3,
+          "beatIds": [
+            "e30_b019",
+            "e30_b020",
+            "e30_b021",
+            "e30_b022",
+            "e30_b023"
+          ]
+        },
+        {
+          "ep": 30,
+          "start": 120,
+          "end": 133,
+          "beatIds": [
+            "e30_b059",
+            "e30_b060",
+            "e30_b061",
+            "e30_b062",
+            "e30_b063"
+          ]
+        }
+      ],
+      "duration": 26.7,
+      "preScore": 12.92,
+      "tag": "threat",
+      "scene": 1,
+      "hook_text": "Then make certain she isn't! A peasant weed, Rupert!",
+      "cliffhanger_text": "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.",
+      "why": "The aggressive start is effective, but the ending feels like a resolution of the plot rather than an invitation to watch.",
+      "standalone": 8,
+      "hook_3s": 9,
+      "cliff": 5,
+      "emotion": 7,
+      "spoiler_risk": "med",
+      "title": "The Peasant Weed's Fate",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The confusing opening combined with a predictable, resolved ending makes this clip ineffective."
+        }
+      }
+    }
+  ]
+}

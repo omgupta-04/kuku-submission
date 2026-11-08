@@ -1,0 +1,1119 @@
+{
+  "ep": 13,
+  "file": "episode-013-Episode 1671715.txt",
+  "meta": {
+    "ep": 13,
+    "file": "episode-013-Episode 1671715.txt",
+    "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+    "continuity": "Picks up immediately from Episode 12's climax where Juliana demanded to know where the frozen blackthorn garden was located to save Alexander from the gallows.",
+    "duration": 118.88
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK",
+      "start": 0,
+      "end": 45.8
+    },
+    {
+      "n": 2,
+      "heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS",
+      "start": 45.8,
+      "end": 118.88
+    }
+  ],
+  "beats": [
+    {
+      "id": "e13_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 4.2
+    },
+    {
+      "id": "e13_b002",
+      "type": "sfx",
+      "scene": 1,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": "e13_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.2,
+      "end": 7
+    },
+    {
+      "id": "e13_b004",
+      "type": "action",
+      "scene": 1,
+      "start": 5.1,
+      "end": 7
+    },
+    {
+      "id": "e13_b005",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 5.4,
+      "end": 10.2
+    },
+    {
+      "id": "e13_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 7,
+      "end": 10.8
+    },
+    {
+      "id": "e13_b007",
+      "type": "camera",
+      "scene": 1,
+      "start": 10.8,
+      "end": 14.2
+    },
+    {
+      "id": "e13_b008",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 12.4,
+      "end": 13.8
+    },
+    {
+      "id": "e13_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 14.2,
+      "end": 18.8
+    },
+    {
+      "id": "e13_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 14.4,
+      "end": 17.3
+    },
+    {
+      "id": "e13_b011",
+      "type": "camera",
+      "scene": 1,
+      "start": 18.8,
+      "end": 21
+    },
+    {
+      "id": "e13_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 21,
+      "end": 24.2
+    },
+    {
+      "id": "e13_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 22,
+      "end": 23.9
+    },
+    {
+      "id": "e13_b014",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 24.2,
+      "end": 28.4
+    },
+    {
+      "id": "e13_b015",
+      "type": "camera",
+      "scene": 1,
+      "start": 24.2,
+      "end": 28.5
+    },
+    {
+      "id": "e13_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 28.5,
+      "end": 29.9
+    },
+    {
+      "id": "e13_b017",
+      "type": "camera",
+      "scene": 1,
+      "start": 29.9,
+      "end": 36.8
+    },
+    {
+      "id": "e13_b018",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 30.8,
+      "end": 35.8
+    },
+    {
+      "id": "e13_b019",
+      "type": "action",
+      "scene": 1,
+      "start": 36.2,
+      "end": 39.5
+    },
+    {
+      "id": "e13_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 36.8,
+      "end": 39.8
+    },
+    {
+      "id": "e13_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 37,
+      "end": 38.2
+    },
+    {
+      "id": "e13_b022",
+      "type": "camera",
+      "scene": 1,
+      "start": 39.8,
+      "end": 41.6
+    },
+    {
+      "id": "e13_b023",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 39.9,
+      "end": 41.5
+    },
+    {
+      "id": "e13_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 41.6,
+      "end": 45.8
+    },
+    {
+      "id": "e13_b025",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 41.8,
+      "end": 45.5
+    },
+    {
+      "id": "e13_b026",
+      "type": "action",
+      "scene": 2,
+      "start": 45.8,
+      "end": 47
+    },
+    {
+      "id": "e13_b027",
+      "type": "camera",
+      "scene": 2,
+      "start": 45.8,
+      "end": 47
+    },
+    {
+      "id": "e13_b028",
+      "type": "camera",
+      "scene": 2,
+      "start": 47,
+      "end": 50
+    },
+    {
+      "id": "e13_b029",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 47.2,
+      "end": 48.8
+    },
+    {
+      "id": "e13_b030",
+      "type": "sfx",
+      "scene": 2,
+      "start": 47.8,
+      "end": 49.2
+    },
+    {
+      "id": "e13_b031",
+      "type": "action",
+      "scene": 2,
+      "start": 50,
+      "end": 53
+    },
+    {
+      "id": "e13_b032",
+      "type": "camera",
+      "scene": 2,
+      "start": 50,
+      "end": 52
+    },
+    {
+      "id": "e13_b033",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 51.5,
+      "end": 52.6
+    },
+    {
+      "id": "e13_b034",
+      "type": "camera",
+      "scene": 2,
+      "start": 52,
+      "end": 53.5
+    },
+    {
+      "id": "e13_b035",
+      "type": "camera",
+      "scene": 2,
+      "start": 53.5,
+      "end": 56
+    },
+    {
+      "id": "e13_b036",
+      "type": "action",
+      "scene": 2,
+      "start": 54,
+      "end": 56.5
+    },
+    {
+      "id": "e13_b037",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 54.5,
+      "end": 55.8
+    },
+    {
+      "id": "e13_b038",
+      "type": "camera",
+      "scene": 2,
+      "start": 56,
+      "end": 58.2
+    },
+    {
+      "id": "e13_b039",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 57.2,
+      "end": 58.6
+    },
+    {
+      "id": "e13_b040",
+      "type": "camera",
+      "scene": 2,
+      "start": 58.2,
+      "end": 62
+    },
+    {
+      "id": "e13_b041",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 58.8,
+      "end": 61.8
+    },
+    {
+      "id": "e13_b042",
+      "type": "action",
+      "scene": 2,
+      "start": 62,
+      "end": 64
+    },
+    {
+      "id": "e13_b043",
+      "type": "camera",
+      "scene": 2,
+      "start": 62,
+      "end": 67.5
+    },
+    {
+      "id": "e13_b044",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 62.2,
+      "end": 67
+    },
+    {
+      "id": "e13_b045",
+      "type": "camera",
+      "scene": 2,
+      "start": 67.5,
+      "end": 71.2
+    },
+    {
+      "id": "e13_b046",
+      "type": "sfx",
+      "scene": 2,
+      "start": 68.5,
+      "end": 70.2
+    },
+    {
+      "id": "e13_b047",
+      "type": "camera",
+      "scene": 2,
+      "start": 71.2,
+      "end": 74
+    },
+    {
+      "id": "e13_b048",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 71.4,
+      "end": 73.8
+    },
+    {
+      "id": "e13_b049",
+      "type": "camera",
+      "scene": 2,
+      "start": 74,
+      "end": 78
+    },
+    {
+      "id": "e13_b050",
+      "type": "action",
+      "scene": 2,
+      "start": 74.5,
+      "end": 78
+    },
+    {
+      "id": "e13_b051",
+      "type": "camera",
+      "scene": 2,
+      "start": 78,
+      "end": 80.5
+    },
+    {
+      "id": "e13_b052",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 78.5,
+      "end": 80.5
+    },
+    {
+      "id": "e13_b053",
+      "type": "action",
+      "scene": 2,
+      "start": 80.5,
+      "end": 83
+    },
+    {
+      "id": "e13_b054",
+      "type": "camera",
+      "scene": 2,
+      "start": 80.5,
+      "end": 83
+    },
+    {
+      "id": "e13_b055",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 80.8,
+      "end": 82.2
+    },
+    {
+      "id": "e13_b056",
+      "type": "action",
+      "scene": 2,
+      "start": 83,
+      "end": 86
+    },
+    {
+      "id": "e13_b057",
+      "type": "camera",
+      "scene": 2,
+      "start": 83,
+      "end": 86
+    },
+    {
+      "id": "e13_b058",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 83.8,
+      "end": 85.8
+    },
+    {
+      "id": "e13_b059",
+      "type": "camera",
+      "scene": 2,
+      "start": 86,
+      "end": 89
+    },
+    {
+      "id": "e13_b060",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 86.5,
+      "end": 88.8
+    },
+    {
+      "id": "e13_b061",
+      "type": "camera",
+      "scene": 2,
+      "start": 89,
+      "end": 94
+    },
+    {
+      "id": "e13_b062",
+      "type": "action",
+      "scene": 2,
+      "start": 89.2,
+      "end": 94
+    },
+    {
+      "id": "e13_b063",
+      "type": "camera",
+      "scene": 2,
+      "start": 94,
+      "end": 97
+    },
+    {
+      "id": "e13_b064",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 94.8,
+      "end": 96.4
+    },
+    {
+      "id": "e13_b065",
+      "type": "camera",
+      "scene": 2,
+      "start": 97,
+      "end": 103
+    },
+    {
+      "id": "e13_b066",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 98.2,
+      "end": 102.5
+    },
+    {
+      "id": "e13_b067",
+      "type": "action",
+      "scene": 2,
+      "start": 103,
+      "end": 106.5
+    },
+    {
+      "id": "e13_b068",
+      "type": "camera",
+      "scene": 2,
+      "start": 103,
+      "end": 107
+    },
+    {
+      "id": "e13_b069",
+      "type": "camera",
+      "scene": 2,
+      "start": 107,
+      "end": 109
+    },
+    {
+      "id": "e13_b070",
+      "type": "action",
+      "scene": 2,
+      "start": 109,
+      "end": 112
+    },
+    {
+      "id": "e13_b071",
+      "type": "camera",
+      "scene": 2,
+      "start": 109,
+      "end": 112
+    },
+    {
+      "id": "e13_b072",
+      "type": "camera",
+      "scene": 2,
+      "start": 112,
+      "end": 113
+    },
+    {
+      "id": "e13_b073",
+      "type": "camera",
+      "scene": 2,
+      "start": 113,
+      "end": 114
+    },
+    {
+      "id": "e13_b074",
+      "type": "camera",
+      "scene": 2,
+      "start": 114,
+      "end": 117.2
+    },
+    {
+      "id": "e13_b075",
+      "type": "camera",
+      "scene": 2,
+      "start": 117.2,
+      "end": 118.88
+    }
+  ],
+  "scores": {
+    "e13_b002": {
+      "id": "e13_b002",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e13_b004": {
+      "id": "e13_b004",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e13_b005": {
+      "id": "e13_b005",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 4,
+      "tag": "threat"
+    },
+    "e13_b008": {
+      "id": "e13_b008",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e13_b010": {
+      "id": "e13_b010",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e13_b011": {
+      "id": "e13_b011",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e13_b013": {
+      "id": "e13_b013",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e13_b014": {
+      "id": "e13_b014",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e13_b016": {
+      "id": "e13_b016",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e13_b018": {
+      "id": "e13_b018",
+      "hook": 2,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e13_b019": {
+      "id": "e13_b019",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e13_b021": {
+      "id": "e13_b021",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e13_b023": {
+      "id": "e13_b023",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e13_b025": {
+      "id": "e13_b025",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "humiliation"
+    },
+    "e13_b026": {
+      "id": "e13_b026",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b029": {
+      "id": "e13_b029",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e13_b030": {
+      "id": "e13_b030",
+      "hook": 3,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b031": {
+      "id": "e13_b031",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b033": {
+      "id": "e13_b033",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b036": {
+      "id": "e13_b036",
+      "hook": 7,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b037": {
+      "id": "e13_b037",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b039": {
+      "id": "e13_b039",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "humiliation"
+    },
+    "e13_b041": {
+      "id": "e13_b041",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e13_b042": {
+      "id": "e13_b042",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "humiliation"
+    },
+    "e13_b044": {
+      "id": "e13_b044",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e13_b046": {
+      "id": "e13_b046",
+      "hook": 8,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b048": {
+      "id": "e13_b048",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e13_b050": {
+      "id": "e13_b050",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b052": {
+      "id": "e13_b052",
+      "hook": 7,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b053": {
+      "id": "e13_b053",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e13_b055": {
+      "id": "e13_b055",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e13_b056": {
+      "id": "e13_b056",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b058": {
+      "id": "e13_b058",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b060": {
+      "id": "e13_b060",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e13_b062": {
+      "id": "e13_b062",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b064": {
+      "id": "e13_b064",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e13_b066": {
+      "id": "e13_b066",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e13_b067": {
+      "id": "e13_b067",
+      "hook": 7,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e13_b069": {
+      "id": "e13_b069",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "reveal"
+    },
+    "e13_b070": {
+      "id": "e13_b070",
+      "hook": 6,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "reveal"
+    },
+    "e13_b072": {
+      "id": "e13_b072",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b073": {
+      "id": "e13_b073",
+      "hook": 4,
+      "cliff": 0,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e13_b074": {
+      "id": "e13_b074",
+      "hook": 5,
+      "cliff": 0,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e13_b075": {
+      "id": "e13_b075",
+      "hook": 6,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "reveal"
+    }
+  },
+  "promos": [
+    {
+      "id": "m13_0111",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 13,
+          "start": 68.5,
+          "end": 80.5,
+          "beatIds": [
+            "e13_b046",
+            "e13_b047",
+            "e13_b048",
+            "e13_b049",
+            "e13_b050",
+            "e13_b051",
+            "e13_b052"
+          ]
+        },
+        {
+          "ep": 13,
+          "start": 103,
+          "end": 118.88,
+          "beatIds": [
+            "e13_b067",
+            "e13_b068",
+            "e13_b069",
+            "e13_b070",
+            "e13_b071",
+            "e13_b072",
+            "e13_b073",
+            "e13_b074",
+            "e13_b075"
+          ]
+        }
+      ],
+      "duration": 27.88,
+      "preScore": 16.36,
+      "tag": "other",
+      "scene": 2,
+      "hook_text": "Sickening crunch and scrape of thorns slicing through flesh.",
+      "cliffhanger_text": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+      "why": "The visceral sound design and immediate physical stakes create an intense, high-tension hook that demands attention.",
+      "standalone": 7,
+      "hook_3s": 9,
+      "cliff": 8,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Emerald Ring Briar Search",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden introduction of Juliana and Alexander without context leaves the viewer confused about their relationship and the stakes."
+        }
+      }
+    },
+    {
+      "id": "s13_0109",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 13,
+          "start": 68.5,
+          "end": 118.88,
+          "beatIds": [
+            "e13_b046",
+            "e13_b047",
+            "e13_b048",
+            "e13_b049",
+            "e13_b050",
+            "e13_b051",
+            "e13_b052",
+            "e13_b053",
+            "e13_b054",
+            "e13_b055",
+            "e13_b056",
+            "e13_b057",
+            "e13_b058",
+            "e13_b059",
+            "e13_b060",
+            "e13_b061",
+            "e13_b062",
+            "e13_b063",
+            "e13_b064",
+            "e13_b065",
+            "e13_b066",
+            "e13_b067",
+            "e13_b068",
+            "e13_b069",
+            "e13_b070",
+            "e13_b071",
+            "e13_b072",
+            "e13_b073",
+            "e13_b074",
+            "e13_b075"
+          ]
+        }
+      ],
+      "duration": 50.38,
+      "preScore": 16.29,
+      "tag": "other",
+      "scene": 2,
+      "hook_text": "Sickening crunch and scrape of thorns slicing through flesh.",
+      "cliffhanger_text": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+      "why": "While the length provides more context, the middle section drags, diluting the impact of the initial visceral hook.",
+      "standalone": 8,
+      "hook_3s": 9,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Extended Briar Patch Struggle",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The inclusion of the Constable and the specific mention of the ring's importance lacks sufficient setup for a new audience."
+        }
+      }
+    },
+    {
+      "id": "m13_0113",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 13,
+          "start": 78.5,
+          "end": 88.8,
+          "beatIds": [
+            "e13_b052",
+            "e13_b053",
+            "e13_b054",
+            "e13_b055",
+            "e13_b056",
+            "e13_b057",
+            "e13_b058",
+            "e13_b059",
+            "e13_b060"
+          ]
+        },
+        {
+          "ep": 13,
+          "start": 103,
+          "end": 118.88,
+          "beatIds": [
+            "e13_b067",
+            "e13_b068",
+            "e13_b069",
+            "e13_b070",
+            "e13_b071",
+            "e13_b072",
+            "e13_b073",
+            "e13_b074",
+            "e13_b075"
+          ]
+        }
+      ],
+      "duration": 26.18,
+      "preScore": 15.31,
+      "tag": "other",
+      "scene": 2,
+      "hook_text": "Juliana (Screaming in Pain): Ah!",
+      "cliffhanger_text": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+      "why": "Starting with a scream is effective, but it lacks the immediate environmental context provided by the other clips.",
+      "standalone": 6,
+      "hook_3s": 7,
+      "cliff": 8,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Juliana's Agonized Briar Search",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "Starting mid-scream with unexplained characters makes the emotional weight of the scene feel unearned and confusing."
+        }
+      }
+    },
+    {
+      "id": "m13_0112",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 13,
+          "start": 54,
+          "end": 67,
+          "beatIds": [
+            "e13_b036",
+            "e13_b037",
+            "e13_b038",
+            "e13_b039",
+            "e13_b040",
+            "e13_b041",
+            "e13_b042",
+            "e13_b043",
+            "e13_b044"
+          ]
+        },
+        {
+          "ep": 13,
+          "start": 103,
+          "end": 118.88,
+          "beatIds": [
+            "e13_b067",
+            "e13_b068",
+            "e13_b069",
+            "e13_b070",
+            "e13_b071",
+            "e13_b072",
+            "e13_b073",
+            "e13_b074",
+            "e13_b075"
+          ]
+        }
+      ],
+      "duration": 28.88,
+      "preScore": 15.27,
+      "tag": "other",
+      "scene": 2,
+      "hook_text": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+      "cliffhanger_text": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+      "why": "The inclusion of the antagonists provides necessary narrative stakes, making the search for the ring feel purposeful rather than random.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 8,
+      "emotion": 9,
+      "spoiler_risk": "low",
+      "title": "Cruel Garden Ring Hunt",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The dialogue regarding the husband's freedom is too cryptic for a viewer unfamiliar with the established plot."
+        }
+      }
+    }
+  ]
+}

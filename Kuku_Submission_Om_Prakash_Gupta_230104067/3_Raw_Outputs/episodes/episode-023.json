@@ -1,0 +1,1115 @@
+{
+  "ep": 23,
+  "file": "episode-023-Episode 1678576.txt",
+  "meta": {
+    "ep": 23,
+    "file": "episode-023-Episode 1678576.txt",
+    "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+    "continuity": "Picks up immediately from the Episode 22 cliffhanger inside the forbidden West Wing of Ashbury Manor, where Lady Juliana crouches beside the bedridden Dowager Duchess, racing against time to determine the source of her fatal illness.",
+    "duration": 131.5
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER – NIGHT",
+      "start": 0,
+      "end": 131.5
+    }
+  ],
+  "beats": [
+    {
+      "id": "e23_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 1.8
+    },
+    {
+      "id": "e23_b002",
+      "type": "camera",
+      "scene": 1,
+      "start": 1.8,
+      "end": 6.5
+    },
+    {
+      "id": "e23_b003",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 1.8,
+      "end": 6
+    },
+    {
+      "id": "e23_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 6.5,
+      "end": 11.8
+    },
+    {
+      "id": "e23_b005",
+      "type": "action",
+      "scene": 1,
+      "start": 7.5,
+      "end": 11.8
+    },
+    {
+      "id": "e23_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.8,
+      "end": 16.8
+    },
+    {
+      "id": "e23_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 13.5,
+      "end": 16
+    },
+    {
+      "id": "e23_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 16.8,
+      "end": 20
+    },
+    {
+      "id": "e23_b009",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 16.8,
+      "end": 19.5
+    },
+    {
+      "id": "e23_b010",
+      "type": "camera",
+      "scene": 1,
+      "start": 20,
+      "end": 24
+    },
+    {
+      "id": "e23_b011",
+      "type": "camera",
+      "scene": 1,
+      "start": 24,
+      "end": 27.5
+    },
+    {
+      "id": "e23_b012",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 24,
+      "end": 27.5
+    },
+    {
+      "id": "e23_b013",
+      "type": "camera",
+      "scene": 1,
+      "start": 27.5,
+      "end": 31.5
+    },
+    {
+      "id": "e23_b014",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 29,
+      "end": 31.5
+    },
+    {
+      "id": "e23_b015",
+      "type": "camera",
+      "scene": 1,
+      "start": 31.5,
+      "end": 36
+    },
+    {
+      "id": "e23_b016",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 32,
+      "end": 36
+    },
+    {
+      "id": "e23_b017",
+      "type": "camera",
+      "scene": 1,
+      "start": 36,
+      "end": 38.5
+    },
+    {
+      "id": "e23_b018",
+      "type": "sfx",
+      "scene": 1,
+      "start": 36,
+      "end": 38.5
+    },
+    {
+      "id": "e23_b019",
+      "type": "camera",
+      "scene": 1,
+      "start": 38.5,
+      "end": 43
+    },
+    {
+      "id": "e23_b020",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 40.8,
+      "end": 43
+    },
+    {
+      "id": "e23_b021",
+      "type": "camera",
+      "scene": 1,
+      "start": 43,
+      "end": 46.5
+    },
+    {
+      "id": "e23_b022",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 43.8,
+      "end": 46.5
+    },
+    {
+      "id": "e23_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 46.5,
+      "end": 48
+    },
+    {
+      "id": "e23_b024",
+      "type": "camera",
+      "scene": 1,
+      "start": 48,
+      "end": 53.5
+    },
+    {
+      "id": "e23_b025",
+      "type": "camera",
+      "scene": 1,
+      "start": 53.5,
+      "end": 57.5
+    },
+    {
+      "id": "e23_b026",
+      "type": "action",
+      "scene": 1,
+      "start": 57.5,
+      "end": 58.5
+    },
+    {
+      "id": "e23_b027",
+      "type": "camera",
+      "scene": 1,
+      "start": 58.5,
+      "end": 60.8
+    },
+    {
+      "id": "e23_b028",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 58.5,
+      "end": 60
+    },
+    {
+      "id": "e23_b029",
+      "type": "camera",
+      "scene": 1,
+      "start": 60.8,
+      "end": 62
+    },
+    {
+      "id": "e23_b030",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 60.8,
+      "end": 62
+    },
+    {
+      "id": "e23_b031",
+      "type": "camera",
+      "scene": 1,
+      "start": 62,
+      "end": 69.5
+    },
+    {
+      "id": "e23_b032",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 62,
+      "end": 68.5
+    },
+    {
+      "id": "e23_b033",
+      "type": "camera",
+      "scene": 1,
+      "start": 69.5,
+      "end": 70.5
+    },
+    {
+      "id": "e23_b034",
+      "type": "camera",
+      "scene": 1,
+      "start": 70.5,
+      "end": 73.8
+    },
+    {
+      "id": "e23_b035",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 70.5,
+      "end": 73.5
+    },
+    {
+      "id": "e23_b036",
+      "type": "camera",
+      "scene": 1,
+      "start": 73.8,
+      "end": 76
+    },
+    {
+      "id": "e23_b037",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 73.8,
+      "end": 75.8
+    },
+    {
+      "id": "e23_b038",
+      "type": "camera",
+      "scene": 1,
+      "start": 76,
+      "end": 78.5
+    },
+    {
+      "id": "e23_b039",
+      "type": "camera",
+      "scene": 1,
+      "start": 78.5,
+      "end": 81.5
+    },
+    {
+      "id": "e23_b040",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 79,
+      "end": 81.5
+    },
+    {
+      "id": "e23_b041",
+      "type": "camera",
+      "scene": 1,
+      "start": 81.5,
+      "end": 84.5
+    },
+    {
+      "id": "e23_b042",
+      "type": "sfx",
+      "scene": 1,
+      "start": 81.5,
+      "end": 82.5
+    },
+    {
+      "id": "e23_b043",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 82,
+      "end": 84
+    },
+    {
+      "id": "e23_b044",
+      "type": "camera",
+      "scene": 1,
+      "start": 84.5,
+      "end": 88
+    },
+    {
+      "id": "e23_b045",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 86,
+      "end": 88
+    },
+    {
+      "id": "e23_b046",
+      "type": "sfx",
+      "scene": 1,
+      "start": 88,
+      "end": 90.5
+    },
+    {
+      "id": "e23_b047",
+      "type": "camera",
+      "scene": 1,
+      "start": 88,
+      "end": 91
+    },
+    {
+      "id": "e23_b048",
+      "type": "camera",
+      "scene": 1,
+      "start": 91,
+      "end": 94.5
+    },
+    {
+      "id": "e23_b049",
+      "type": "camera",
+      "scene": 1,
+      "start": 94.5,
+      "end": 97.5
+    },
+    {
+      "id": "e23_b050",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 94.5,
+      "end": 97
+    },
+    {
+      "id": "e23_b051",
+      "type": "camera",
+      "scene": 1,
+      "start": 97.5,
+      "end": 100.5
+    },
+    {
+      "id": "e23_b052",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 97.5,
+      "end": 100
+    },
+    {
+      "id": "e23_b053",
+      "type": "camera",
+      "scene": 1,
+      "start": 100.5,
+      "end": 104.5
+    },
+    {
+      "id": "e23_b054",
+      "type": "camera",
+      "scene": 1,
+      "start": 104.5,
+      "end": 107
+    },
+    {
+      "id": "e23_b055",
+      "type": "sfx",
+      "scene": 1,
+      "start": 104.5,
+      "end": 112
+    },
+    {
+      "id": "e23_b056",
+      "type": "camera",
+      "scene": 1,
+      "start": 107,
+      "end": 112.5
+    },
+    {
+      "id": "e23_b057",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 107.5,
+      "end": 112
+    },
+    {
+      "id": "e23_b058",
+      "type": "sfx",
+      "scene": 1,
+      "start": 112.2,
+      "end": 114
+    },
+    {
+      "id": "e23_b059",
+      "type": "camera",
+      "scene": 1,
+      "start": 112.5,
+      "end": 115
+    },
+    {
+      "id": "e23_b060",
+      "type": "camera",
+      "scene": 1,
+      "start": 115,
+      "end": 116.5
+    },
+    {
+      "id": "e23_b061",
+      "type": "camera",
+      "scene": 1,
+      "start": 116.5,
+      "end": 118.5
+    },
+    {
+      "id": "e23_b062",
+      "type": "camera",
+      "scene": 1,
+      "start": 118.5,
+      "end": 124.5
+    },
+    {
+      "id": "e23_b063",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 118.8,
+      "end": 124
+    },
+    {
+      "id": "e23_b064",
+      "type": "camera",
+      "scene": 1,
+      "start": 124.5,
+      "end": 127.5
+    },
+    {
+      "id": "e23_b065",
+      "type": "camera",
+      "scene": 1,
+      "start": 127.5,
+      "end": 129.5
+    },
+    {
+      "id": "e23_b066",
+      "type": "sfx",
+      "scene": 1,
+      "start": 129.2,
+      "end": 131.2
+    },
+    {
+      "id": "e23_b067",
+      "type": "camera",
+      "scene": 1,
+      "start": 129.5,
+      "end": 131.5
+    }
+  ],
+  "scores": {
+    "e23_b001": {
+      "id": "e23_b001",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e23_b003": {
+      "id": "e23_b003",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "threat"
+    },
+    "e23_b005": {
+      "id": "e23_b005",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e23_b007": {
+      "id": "e23_b007",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e23_b009": {
+      "id": "e23_b009",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e23_b010": {
+      "id": "e23_b010",
+      "hook": 1,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e23_b012": {
+      "id": "e23_b012",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e23_b014": {
+      "id": "e23_b014",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e23_b016": {
+      "id": "e23_b016",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e23_b018": {
+      "id": "e23_b018",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b020": {
+      "id": "e23_b020",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b022": {
+      "id": "e23_b022",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b023": {
+      "id": "e23_b023",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b024": {
+      "id": "e23_b024",
+      "hook": 2,
+      "cliff": 1,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b025": {
+      "id": "e23_b025",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b026": {
+      "id": "e23_b026",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "reveal"
+    },
+    "e23_b028": {
+      "id": "e23_b028",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e23_b030": {
+      "id": "e23_b030",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b032": {
+      "id": "e23_b032",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "reveal"
+    },
+    "e23_b033": {
+      "id": "e23_b033",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b035": {
+      "id": "e23_b035",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b037": {
+      "id": "e23_b037",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b038": {
+      "id": "e23_b038",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b040": {
+      "id": "e23_b040",
+      "hook": 7,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "reveal"
+    },
+    "e23_b042": {
+      "id": "e23_b042",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b043": {
+      "id": "e23_b043",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b045": {
+      "id": "e23_b045",
+      "hook": 8,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "reveal"
+    },
+    "e23_b046": {
+      "id": "e23_b046",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b048": {
+      "id": "e23_b048",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e23_b050": {
+      "id": "e23_b050",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b052": {
+      "id": "e23_b052",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e23_b053": {
+      "id": "e23_b053",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b055": {
+      "id": "e23_b055",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e23_b057": {
+      "id": "e23_b057",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e23_b058": {
+      "id": "e23_b058",
+      "hook": 7,
+      "cliff": 8,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e23_b060": {
+      "id": "e23_b060",
+      "hook": 5,
+      "cliff": 8,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e23_b061": {
+      "id": "e23_b061",
+      "hook": 6,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e23_b063": {
+      "id": "e23_b063",
+      "hook": 5,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e23_b064": {
+      "id": "e23_b064",
+      "hook": 4,
+      "cliff": 9,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e23_b066": {
+      "id": "e23_b066",
+      "hook": 6,
+      "cliff": 10,
+      "context_need": 1,
+      "tag": "threat"
+    }
+  },
+  "promos": [
+    {
+      "id": "s23_0267",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 23,
+          "start": 86,
+          "end": 131.2,
+          "beatIds": [
+            "e23_b045",
+            "e23_b046",
+            "e23_b047",
+            "e23_b048",
+            "e23_b049",
+            "e23_b050",
+            "e23_b051",
+            "e23_b052",
+            "e23_b053",
+            "e23_b054",
+            "e23_b055",
+            "e23_b056",
+            "e23_b057",
+            "e23_b058",
+            "e23_b059",
+            "e23_b060",
+            "e23_b061",
+            "e23_b062",
+            "e23_b063",
+            "e23_b064",
+            "e23_b065",
+            "e23_b066",
+            "e23_b067"
+          ]
+        }
+      ],
+      "duration": 45.2,
+      "preScore": 17.5,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Arsenic.",
+      "cliffhanger_text": "Close-up on the brass door lever as it slowly rotates downward, an",
+      "why": "The clip establishes high stakes immediately and maintains a consistent, escalating tension that culminates in a classic thriller cliffhanger.",
+      "standalone": 9,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "The Poisoned Duchess Emergency Cure",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The clip establishes the stakes clearly and ends on a high-tension cliffhanger."
+        }
+      }
+    },
+    {
+      "id": "m23_0274",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 23,
+          "start": 86,
+          "end": 97,
+          "beatIds": [
+            "e23_b045",
+            "e23_b046",
+            "e23_b047",
+            "e23_b048",
+            "e23_b049",
+            "e23_b050"
+          ]
+        },
+        {
+          "ep": 23,
+          "start": 118.8,
+          "end": 131.2,
+          "beatIds": [
+            "e23_b063",
+            "e23_b064",
+            "e23_b065",
+            "e23_b066",
+            "e23_b067"
+          ]
+        }
+      ],
+      "duration": 23.4,
+      "preScore": 17.5,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Arsenic.",
+      "cliffhanger_text": "Close-up on the brass door lever as it slowly rotates downward, an",
+      "why": "It is a concise edit that jumps straight into the action, though it lacks the context of why the poisoning is happening.",
+      "standalone": 7,
+      "hook_3s": 8,
+      "cliff": 9,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Urgent Cure Under Threat",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The jump cut between segments creates a jarring transition that disrupts the narrative flow."
+        }
+      }
+    },
+    {
+      "id": "m23_0275",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 23,
+          "start": 86,
+          "end": 97,
+          "beatIds": [
+            "e23_b045",
+            "e23_b046",
+            "e23_b047",
+            "e23_b048",
+            "e23_b049",
+            "e23_b050"
+          ]
+        },
+        {
+          "ep": 23,
+          "start": 104.5,
+          "end": 118.5,
+          "beatIds": [
+            "e23_b054",
+            "e23_b055",
+            "e23_b056",
+            "e23_b057",
+            "e23_b058",
+            "e23_b059",
+            "e23_b060",
+            "e23_b061"
+          ]
+        }
+      ],
+      "duration": 25,
+      "preScore": 16.5,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Arsenic.",
+      "cliffhanger_text": "Close-up of the ornate brass door handle on the dark carved wooden door.",
+      "why": "The pacing is solid, but the ending feels slightly less impactful than the version where the door actually begins to open.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Preparing The Antidote Under Pressure",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The pacing is disjointed due to the abrupt transition between the two segments."
+        }
+      }
+    },
+    {
+      "id": "m23_0277",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 23,
+          "start": 79,
+          "end": 90.5,
+          "beatIds": [
+            "e23_b040",
+            "e23_b041",
+            "e23_b042",
+            "e23_b043",
+            "e23_b044",
+            "e23_b045",
+            "e23_b046",
+            "e23_b047"
+          ]
+        },
+        {
+          "ep": 23,
+          "start": 118.8,
+          "end": 131.2,
+          "beatIds": [
+            "e23_b063",
+            "e23_b064",
+            "e23_b065",
+            "e23_b066",
+            "e23_b067"
+          ]
+        }
+      ],
+      "duration": 23.9,
+      "preScore": 16.5,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Someone is poisoning her.",
+      "cliffhanger_text": "Close-up on the brass door lever as it slowly rotates downward, an",
+      "why": "Starting with the accusation provides better narrative context for a new viewer than starting with just the word 'Arsenic'.",
+      "standalone": 10,
+      "hook_3s": 9,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "low",
+      "title": "Uncovering The Poisoner's Deadly Plot",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The transition between the poisoning reveal and the door threat feels rushed and lacks cohesion."
+        }
+      }
+    },
+    {
+      "id": "m23_0278",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 23,
+          "start": 79,
+          "end": 90.5,
+          "beatIds": [
+            "e23_b040",
+            "e23_b041",
+            "e23_b042",
+            "e23_b043",
+            "e23_b044",
+            "e23_b045",
+            "e23_b046",
+            "e23_b047"
+          ]
+        },
+        {
+          "ep": 23,
+          "start": 104.5,
+          "end": 118.5,
+          "beatIds": [
+            "e23_b054",
+            "e23_b055",
+            "e23_b056",
+            "e23_b057",
+            "e23_b058",
+            "e23_b059",
+            "e23_b060",
+            "e23_b061"
+          ]
+        }
+      ],
+      "duration": 25.5,
+      "preScore": 15.5,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Someone is poisoning her.",
+      "cliffhanger_text": "Close-up of the ornate brass door handle on the dark carved wooden door.",
+      "why": "The dialogue-heavy start is engaging, but the ending lacks the immediate physical threat of the door opening.",
+      "standalone": 10,
+      "hook_3s": 9,
+      "cliff": 6,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "The Race To Save Her",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "The segment break creates an awkward shift in tone that undermines the urgency of the scene."
+        }
+      }
+    },
+    {
+      "id": "s23_0268",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 23,
+          "start": 79,
+          "end": 114,
+          "beatIds": [
+            "e23_b040",
+            "e23_b041",
+            "e23_b042",
+            "e23_b043",
+            "e23_b044",
+            "e23_b045",
+            "e23_b046",
+            "e23_b047",
+            "e23_b048",
+            "e23_b049",
+            "e23_b050",
+            "e23_b051",
+            "e23_b052",
+            "e23_b053",
+            "e23_b054",
+            "e23_b055",
+            "e23_b056",
+            "e23_b057",
+            "e23_b058",
+            "e23_b059"
+          ]
+        }
+      ],
+      "duration": 35,
+      "preScore": 14.5,
+      "tag": "reveal",
+      "scene": 1,
+      "hook_text": "Someone is poisoning her.",
+      "cliffhanger_text": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!",
+      "why": "This clip provides a comprehensive look at the scene, but it is too long for a standard social media reel and loses momentum.",
+      "standalone": 10,
+      "hook_3s": 9,
+      "cliff": 5,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Full Scene Of The Poisoning",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [],
+        "critic": {
+          "confusing": false,
+          "resolved": false,
+          "note": "This is a solid, well-paced sequence that maintains tension throughout the entire duration."
+        }
+      }
+    }
+  ]
+}

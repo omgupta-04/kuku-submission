@@ -1,0 +1,832 @@
+{
+  "ep": 16,
+  "file": "episode-016-Episode 1671718.txt",
+  "meta": {
+    "ep": 16,
+    "file": "episode-016-Episode 1671718.txt",
+    "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+    "continuity": "Picks up immediately from Episode 15's cliffhanger where Alexander confronted the three thugs in the moonlit garden while Juliana huddled injured on the ground.",
+    "duration": 83.19
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "EXT. JULIANA'S COTTAGE GARDEN – NIGHT",
+      "start": 0,
+      "end": 83.19
+    }
+  ],
+  "beats": [
+    {
+      "id": "e16_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 2.1
+    },
+    {
+      "id": "e16_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 2.1
+    },
+    {
+      "id": "e16_b003",
+      "type": "camera",
+      "scene": 1,
+      "start": 2.1,
+      "end": 4.5
+    },
+    {
+      "id": "e16_b004",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 2.1,
+      "end": 4.2
+    },
+    {
+      "id": "e16_b005",
+      "type": "camera",
+      "scene": 1,
+      "start": 4.5,
+      "end": 6.4
+    },
+    {
+      "id": "e16_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 6.4,
+      "end": 9.5
+    },
+    {
+      "id": "e16_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 6.4,
+      "end": 8.8
+    },
+    {
+      "id": "e16_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 9.5,
+      "end": 11.2
+    },
+    {
+      "id": "e16_b009",
+      "type": "camera",
+      "scene": 1,
+      "start": 11.2,
+      "end": 13.1
+    },
+    {
+      "id": "e16_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 11.2,
+      "end": 12.7
+    },
+    {
+      "id": "e16_b011",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 13.1,
+      "end": 14.3
+    },
+    {
+      "id": "e16_b012",
+      "type": "camera",
+      "scene": 1,
+      "start": 14.3,
+      "end": 16
+    },
+    {
+      "id": "e16_b013",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 14.4,
+      "end": 15.5
+    },
+    {
+      "id": "e16_b014",
+      "type": "action",
+      "scene": 1,
+      "start": 14.4,
+      "end": 16.8
+    },
+    {
+      "id": "e16_b015",
+      "type": "sfx",
+      "scene": 1,
+      "start": 15.8,
+      "end": 16.5
+    },
+    {
+      "id": "e16_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 16.8,
+      "end": 19.5
+    },
+    {
+      "id": "e16_b017",
+      "type": "action",
+      "scene": 1,
+      "start": 19.2,
+      "end": 21.8
+    },
+    {
+      "id": "e16_b018",
+      "type": "sfx",
+      "scene": 1,
+      "start": 19.8,
+      "end": 21.2
+    },
+    {
+      "id": "e16_b019",
+      "type": "camera",
+      "scene": 1,
+      "start": 21.8,
+      "end": 23
+    },
+    {
+      "id": "e16_b020",
+      "type": "camera",
+      "scene": 1,
+      "start": 23,
+      "end": 25.8
+    },
+    {
+      "id": "e16_b021",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23,
+      "end": 23.8
+    },
+    {
+      "id": "e16_b022",
+      "type": "sfx",
+      "scene": 1,
+      "start": 24.2,
+      "end": 25.5
+    },
+    {
+      "id": "e16_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 25.8,
+      "end": 28.5
+    },
+    {
+      "id": "e16_b024",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 25.8,
+      "end": 27.1
+    },
+    {
+      "id": "e16_b025",
+      "type": "action",
+      "scene": 1,
+      "start": 26.5,
+      "end": 28.5
+    },
+    {
+      "id": "e16_b026",
+      "type": "sfx",
+      "scene": 1,
+      "start": 27,
+      "end": 28.2
+    },
+    {
+      "id": "e16_b027",
+      "type": "camera",
+      "scene": 1,
+      "start": 28.5,
+      "end": 31
+    },
+    {
+      "id": "e16_b028",
+      "type": "camera",
+      "scene": 1,
+      "start": 31,
+      "end": 34.5
+    },
+    {
+      "id": "e16_b029",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 32,
+      "end": 33.8
+    },
+    {
+      "id": "e16_b030",
+      "type": "camera",
+      "scene": 1,
+      "start": 34.5,
+      "end": 38.2
+    },
+    {
+      "id": "e16_b031",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 36.2,
+      "end": 37.8
+    },
+    {
+      "id": "e16_b032",
+      "type": "camera",
+      "scene": 1,
+      "start": 38.2,
+      "end": 40.8
+    },
+    {
+      "id": "e16_b033",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 38.2,
+      "end": 40
+    },
+    {
+      "id": "e16_b034",
+      "type": "camera",
+      "scene": 1,
+      "start": 40.8,
+      "end": 44.2
+    },
+    {
+      "id": "e16_b035",
+      "type": "action",
+      "scene": 1,
+      "start": 41.2,
+      "end": 44
+    },
+    {
+      "id": "e16_b036",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 42.5,
+      "end": 44
+    },
+    {
+      "id": "e16_b037",
+      "type": "camera",
+      "scene": 1,
+      "start": 44.2,
+      "end": 46.2
+    },
+    {
+      "id": "e16_b038",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 44.2,
+      "end": 45.3
+    },
+    {
+      "id": "e16_b039",
+      "type": "camera",
+      "scene": 1,
+      "start": 46.2,
+      "end": 48.5
+    },
+    {
+      "id": "e16_b040",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 46.3,
+      "end": 47.4
+    },
+    {
+      "id": "e16_b041",
+      "type": "action",
+      "scene": 1,
+      "start": 48,
+      "end": 50
+    },
+    {
+      "id": "e16_b042",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 48.8,
+      "end": 49.6
+    },
+    {
+      "id": "e16_b043",
+      "type": "camera",
+      "scene": 1,
+      "start": 49.8,
+      "end": 52.8
+    },
+    {
+      "id": "e16_b044",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 49.8,
+      "end": 52.2
+    },
+    {
+      "id": "e16_b045",
+      "type": "camera",
+      "scene": 1,
+      "start": 52.8,
+      "end": 55.2
+    },
+    {
+      "id": "e16_b046",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 53.2,
+      "end": 54.4
+    },
+    {
+      "id": "e16_b047",
+      "type": "camera",
+      "scene": 1,
+      "start": 55.2,
+      "end": 59
+    },
+    {
+      "id": "e16_b048",
+      "type": "action",
+      "scene": 1,
+      "start": 55.5,
+      "end": 58.5
+    },
+    {
+      "id": "e16_b049",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 56,
+      "end": 58.2
+    },
+    {
+      "id": "e16_b050",
+      "type": "camera",
+      "scene": 1,
+      "start": 59,
+      "end": 63
+    },
+    {
+      "id": "e16_b051",
+      "type": "action",
+      "scene": 1,
+      "start": 60,
+      "end": 63
+    },
+    {
+      "id": "e16_b052",
+      "type": "camera",
+      "scene": 1,
+      "start": 63,
+      "end": 66.5
+    },
+    {
+      "id": "e16_b053",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 64.2,
+      "end": 66.2
+    },
+    {
+      "id": "e16_b054",
+      "type": "camera",
+      "scene": 1,
+      "start": 66.5,
+      "end": 70.5
+    },
+    {
+      "id": "e16_b055",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 67.8,
+      "end": 70.2
+    },
+    {
+      "id": "e16_b056",
+      "type": "camera",
+      "scene": 1,
+      "start": 70.5,
+      "end": 74.2
+    },
+    {
+      "id": "e16_b057",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 71,
+      "end": 74
+    },
+    {
+      "id": "e16_b058",
+      "type": "camera",
+      "scene": 1,
+      "start": 74.2,
+      "end": 76.8
+    },
+    {
+      "id": "e16_b059",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 74.8,
+      "end": 75.8
+    },
+    {
+      "id": "e16_b060",
+      "type": "action",
+      "scene": 1,
+      "start": 76,
+      "end": 77.5
+    },
+    {
+      "id": "e16_b061",
+      "type": "camera",
+      "scene": 1,
+      "start": 76.8,
+      "end": 83.19
+    },
+    {
+      "id": "e16_b062",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 77.8,
+      "end": 78.8
+    },
+    {
+      "id": "e16_b063",
+      "type": "action",
+      "scene": 1,
+      "start": 78.8,
+      "end": 83.19
+    },
+    {
+      "id": "e16_b064",
+      "type": "sfx",
+      "scene": 1,
+      "start": 80,
+      "end": 83.19
+    }
+  ],
+  "scores": {
+    "e16_b002": {
+      "id": "e16_b002",
+      "hook": 6,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e16_b004": {
+      "id": "e16_b004",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e16_b005": {
+      "id": "e16_b005",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e16_b007": {
+      "id": "e16_b007",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "threat"
+    },
+    "e16_b008": {
+      "id": "e16_b008",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e16_b010": {
+      "id": "e16_b010",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e16_b011": {
+      "id": "e16_b011",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "rescue"
+    },
+    "e16_b013": {
+      "id": "e16_b013",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b014": {
+      "id": "e16_b014",
+      "hook": 8,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e16_b015": {
+      "id": "e16_b015",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b017": {
+      "id": "e16_b017",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e16_b018": {
+      "id": "e16_b018",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b019": {
+      "id": "e16_b019",
+      "hook": 2,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b021": {
+      "id": "e16_b021",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b022": {
+      "id": "e16_b022",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e16_b024": {
+      "id": "e16_b024",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b025": {
+      "id": "e16_b025",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "rescue"
+    },
+    "e16_b026": {
+      "id": "e16_b026",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b027": {
+      "id": "e16_b027",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b029": {
+      "id": "e16_b029",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b031": {
+      "id": "e16_b031",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b033": {
+      "id": "e16_b033",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b035": {
+      "id": "e16_b035",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b036": {
+      "id": "e16_b036",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b038": {
+      "id": "e16_b038",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b040": {
+      "id": "e16_b040",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b041": {
+      "id": "e16_b041",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b042": {
+      "id": "e16_b042",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 1,
+      "tag": "threat"
+    },
+    "e16_b044": {
+      "id": "e16_b044",
+      "hook": 9,
+      "cliff": 8,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e16_b046": {
+      "id": "e16_b046",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e16_b048": {
+      "id": "e16_b048",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b049": {
+      "id": "e16_b049",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "confession"
+    },
+    "e16_b051": {
+      "id": "e16_b051",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b053": {
+      "id": "e16_b053",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b055": {
+      "id": "e16_b055",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "identity"
+    },
+    "e16_b057": {
+      "id": "e16_b057",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "identity"
+    },
+    "e16_b059": {
+      "id": "e16_b059",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b060": {
+      "id": "e16_b060",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b062": {
+      "id": "e16_b062",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b063": {
+      "id": "e16_b063",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e16_b064": {
+      "id": "e16_b064",
+      "hook": 2,
+      "cliff": 5,
+      "context_need": 1,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "s16_0139",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 16,
+          "start": 14.4,
+          "end": 52.2,
+          "beatIds": [
+            "e16_b013",
+            "e16_b014",
+            "e16_b015",
+            "e16_b016",
+            "e16_b017",
+            "e16_b018",
+            "e16_b019",
+            "e16_b020",
+            "e16_b021",
+            "e16_b022",
+            "e16_b023",
+            "e16_b024",
+            "e16_b025",
+            "e16_b026",
+            "e16_b027",
+            "e16_b028",
+            "e16_b029",
+            "e16_b030",
+            "e16_b031",
+            "e16_b032",
+            "e16_b033",
+            "e16_b034",
+            "e16_b035",
+            "e16_b036",
+            "e16_b037",
+            "e16_b038",
+            "e16_b039",
+            "e16_b040",
+            "e16_b041",
+            "e16_b042",
+            "e16_b043",
+            "e16_b044"
+          ]
+        }
+      ],
+      "duration": 37.8,
+      "preScore": 15.48,
+      "tag": "rescue",
+      "scene": 1,
+      "hook_text": "The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease.",
+      "cliffhanger_text": "Harrington! Gerald Harrington paid us! The tension remains unresolved regarding what Alexander will do next with this information.",
+      "why": "The clip effectively establishes a high-stakes action sequence and a clear mystery hook that keeps the viewer invested in the protagonist's next move.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "Alexander Confronts The Hired Thugs",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved",
+          "judge_critic_disagree"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The clip introduces characters like Gerald Harrington without context and the interrogation concludes with a direct answer, effectively resolving the immediate tension."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1059 @@
+{
+  "ep": 35,
+  "file": "episode-035-Episode 1681368.txt",
+  "meta": {
+    "ep": 35,
+    "file": "episode-035-Episode 1681368.txt",
+    "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+    "continuity": "While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.",
+    "duration": 157.5
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. STONE CORRIDOR - NIGHT",
+      "start": 0,
+      "end": 15.5
+    },
+    {
+      "n": 2,
+      "heading": "EXT. SNOWY FOREST / CABIN - NIGHT",
+      "start": 15.5,
+      "end": 27.5
+    },
+    {
+      "n": 3,
+      "heading": "INT. SECLUDED CABIN - CONTINUOUS",
+      "start": 27.5,
+      "end": 157.5
+    }
+  ],
+  "beats": [
+    {
+      "id": "e35_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 5.2
+    },
+    {
+      "id": "e35_b002",
+      "type": "action",
+      "scene": 1,
+      "start": 0,
+      "end": 5.2
+    },
+    {
+      "id": "e35_b003",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 5.5,
+      "end": 8.5
+    },
+    {
+      "id": "e35_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 9,
+      "end": 12.8
+    },
+    {
+      "id": "e35_b005",
+      "type": "action",
+      "scene": 1,
+      "start": 9.5,
+      "end": 12.8
+    },
+    {
+      "id": "e35_b006",
+      "type": "sfx",
+      "scene": 1,
+      "start": 11.2,
+      "end": 13
+    },
+    {
+      "id": "e35_b007",
+      "type": "action",
+      "scene": 1,
+      "start": 13,
+      "end": 15.5
+    },
+    {
+      "id": "e35_b008",
+      "type": "camera",
+      "scene": 2,
+      "start": 15.5,
+      "end": 19.5
+    },
+    {
+      "id": "e35_b009",
+      "type": "action",
+      "scene": 2,
+      "start": 15.5,
+      "end": 19.5
+    },
+    {
+      "id": "e35_b010",
+      "type": "sfx",
+      "scene": 2,
+      "start": 16,
+      "end": 19.5
+    },
+    {
+      "id": "e35_b011",
+      "type": "camera",
+      "scene": 2,
+      "start": 19.5,
+      "end": 24
+    },
+    {
+      "id": "e35_b012",
+      "type": "dialogue",
+      "scene": 2,
+      "start": 21,
+      "end": 23
+    },
+    {
+      "id": "e35_b013",
+      "type": "camera",
+      "scene": 2,
+      "start": 24,
+      "end": 27.5
+    },
+    {
+      "id": "e35_b014",
+      "type": "sfx",
+      "scene": 2,
+      "start": 24.8,
+      "end": 27
+    },
+    {
+      "id": "e35_b015",
+      "type": "camera",
+      "scene": 3,
+      "start": 27.5,
+      "end": 30.8
+    },
+    {
+      "id": "e35_b016",
+      "type": "action",
+      "scene": 3,
+      "start": 28.5,
+      "end": 30.8
+    },
+    {
+      "id": "e35_b017",
+      "type": "camera",
+      "scene": 3,
+      "start": 30.8,
+      "end": 33.8
+    },
+    {
+      "id": "e35_b018",
+      "type": "camera",
+      "scene": 3,
+      "start": 33.8,
+      "end": 36.5
+    },
+    {
+      "id": "e35_b019",
+      "type": "camera",
+      "scene": 3,
+      "start": 36.5,
+      "end": 40.5
+    },
+    {
+      "id": "e35_b020",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 37,
+      "end": 40
+    },
+    {
+      "id": "e35_b021",
+      "type": "camera",
+      "scene": 3,
+      "start": 40.5,
+      "end": 44.2
+    },
+    {
+      "id": "e35_b022",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 42.5,
+      "end": 44.2
+    },
+    {
+      "id": "e35_b023",
+      "type": "action",
+      "scene": 3,
+      "start": 44.2,
+      "end": 47.5
+    },
+    {
+      "id": "e35_b024",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 45.5,
+      "end": 48
+    },
+    {
+      "id": "e35_b025",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 48,
+      "end": 49.8
+    },
+    {
+      "id": "e35_b026",
+      "type": "action",
+      "scene": 3,
+      "start": 50,
+      "end": 55.5
+    },
+    {
+      "id": "e35_b027",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 52.5,
+      "end": 55
+    },
+    {
+      "id": "e35_b028",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 56.5,
+      "end": 58
+    },
+    {
+      "id": "e35_b029",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 59.5,
+      "end": 66
+    },
+    {
+      "id": "e35_b030",
+      "type": "camera",
+      "scene": 3,
+      "start": 66.5,
+      "end": 71
+    },
+    {
+      "id": "e35_b031",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 68.5,
+      "end": 70.8
+    },
+    {
+      "id": "e35_b032",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 71.5,
+      "end": 74
+    },
+    {
+      "id": "e35_b033",
+      "type": "camera",
+      "scene": 3,
+      "start": 74.2,
+      "end": 78
+    },
+    {
+      "id": "e35_b034",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 75,
+      "end": 77.5
+    },
+    {
+      "id": "e35_b035",
+      "type": "action",
+      "scene": 3,
+      "start": 78,
+      "end": 82.5
+    },
+    {
+      "id": "e35_b036",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 79,
+      "end": 83
+    },
+    {
+      "id": "e35_b037",
+      "type": "camera",
+      "scene": 3,
+      "start": 83,
+      "end": 87
+    },
+    {
+      "id": "e35_b038",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 83,
+      "end": 89
+    },
+    {
+      "id": "e35_b039",
+      "type": "action",
+      "scene": 3,
+      "start": 87,
+      "end": 89.8
+    },
+    {
+      "id": "e35_b040",
+      "type": "camera",
+      "scene": 3,
+      "start": 89.8,
+      "end": 92
+    },
+    {
+      "id": "e35_b041",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 89.8,
+      "end": 91.5
+    },
+    {
+      "id": "e35_b042",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 92,
+      "end": 93.2
+    },
+    {
+      "id": "e35_b043",
+      "type": "camera",
+      "scene": 3,
+      "start": 93.5,
+      "end": 97.5
+    },
+    {
+      "id": "e35_b044",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 94.5,
+      "end": 97
+    },
+    {
+      "id": "e35_b045",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 98.5,
+      "end": 101
+    },
+    {
+      "id": "e35_b046",
+      "type": "camera",
+      "scene": 3,
+      "start": 101.2,
+      "end": 104.2
+    },
+    {
+      "id": "e35_b047",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 101.5,
+      "end": 104.2
+    },
+    {
+      "id": "e35_b048",
+      "type": "camera",
+      "scene": 3,
+      "start": 104.2,
+      "end": 106.5
+    },
+    {
+      "id": "e35_b049",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 104.5,
+      "end": 106
+    },
+    {
+      "id": "e35_b050",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 107,
+      "end": 110
+    },
+    {
+      "id": "e35_b051",
+      "type": "camera",
+      "scene": 3,
+      "start": 110,
+      "end": 113.5
+    },
+    {
+      "id": "e35_b052",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 111,
+      "end": 113
+    },
+    {
+      "id": "e35_b053",
+      "type": "camera",
+      "scene": 3,
+      "start": 113.5,
+      "end": 118
+    },
+    {
+      "id": "e35_b054",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 114,
+      "end": 118
+    },
+    {
+      "id": "e35_b055",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 118.2,
+      "end": 122
+    },
+    {
+      "id": "e35_b056",
+      "type": "camera",
+      "scene": 3,
+      "start": 122,
+      "end": 125.5
+    },
+    {
+      "id": "e35_b057",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 122,
+      "end": 125.5
+    },
+    {
+      "id": "e35_b058",
+      "type": "camera",
+      "scene": 3,
+      "start": 125.5,
+      "end": 129.5
+    },
+    {
+      "id": "e35_b059",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 126,
+      "end": 129.5
+    },
+    {
+      "id": "e35_b060",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 129.5,
+      "end": 130.5
+    },
+    {
+      "id": "e35_b061",
+      "type": "action",
+      "scene": 3,
+      "start": 130.5,
+      "end": 134
+    },
+    {
+      "id": "e35_b062",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 131,
+      "end": 134
+    },
+    {
+      "id": "e35_b063",
+      "type": "action",
+      "scene": 3,
+      "start": 134,
+      "end": 136.8
+    },
+    {
+      "id": "e35_b064",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 134,
+      "end": 137
+    },
+    {
+      "id": "e35_b065",
+      "type": "action",
+      "scene": 3,
+      "start": 137,
+      "end": 144
+    },
+    {
+      "id": "e35_b066",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 137,
+      "end": 140.5
+    },
+    {
+      "id": "e35_b067",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 141,
+      "end": 144
+    },
+    {
+      "id": "e35_b068",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 144,
+      "end": 145
+    },
+    {
+      "id": "e35_b069",
+      "type": "camera",
+      "scene": 3,
+      "start": 145,
+      "end": 150.5
+    },
+    {
+      "id": "e35_b070",
+      "type": "dialogue",
+      "scene": 3,
+      "start": 145.5,
+      "end": 150
+    },
+    {
+      "id": "e35_b071",
+      "type": "camera",
+      "scene": 3,
+      "start": 150.5,
+      "end": 157.5
+    },
+    {
+      "id": "e35_b072",
+      "type": "sfx",
+      "scene": 3,
+      "start": 150.8,
+      "end": 157.5
+    }
+  ],
+  "scores": {
+    "e35_b002": {
+      "id": "e35_b002",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b003": {
+      "id": "e35_b003",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b005": {
+      "id": "e35_b005",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b006": {
+      "id": "e35_b006",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e35_b007": {
+      "id": "e35_b007",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b009": {
+      "id": "e35_b009",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b010": {
+      "id": "e35_b010",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 0,
+      "tag": "other"
+    },
+    "e35_b012": {
+      "id": "e35_b012",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b014": {
+      "id": "e35_b014",
+      "hook": 3,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b016": {
+      "id": "e35_b016",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e35_b017": {
+      "id": "e35_b017",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e35_b018": {
+      "id": "e35_b018",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e35_b020": {
+      "id": "e35_b020",
+      "hook": 7,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e35_b022": {
+      "id": "e35_b022",
+      "hook": 6,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e35_b023": {
+      "id": "e35_b023",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b024": {
+      "id": "e35_b024",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b025": {
+      "id": "e35_b025",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b026": {
+      "id": "e35_b026",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b027": {
+      "id": "e35_b027",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e35_b028": {
+      "id": "e35_b028",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b029": {
+      "id": "e35_b029",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e35_b031": {
+      "id": "e35_b031",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b032": {
+      "id": "e35_b032",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b034": {
+      "id": "e35_b034",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e35_b035": {
+      "id": "e35_b035",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b036": {
+      "id": "e35_b036",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b038": {
+      "id": "e35_b038",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e35_b039": {
+      "id": "e35_b039",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b041": {
+      "id": "e35_b041",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "reveal"
+    },
+    "e35_b042": {
+      "id": "e35_b042",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b044": {
+      "id": "e35_b044",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b045": {
+      "id": "e35_b045",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b047": {
+      "id": "e35_b047",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b049": {
+      "id": "e35_b049",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b050": {
+      "id": "e35_b050",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e35_b052": {
+      "id": "e35_b052",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b054": {
+      "id": "e35_b054",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e35_b055": {
+      "id": "e35_b055",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "confession"
+    },
+    "e35_b057": {
+      "id": "e35_b057",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e35_b059": {
+      "id": "e35_b059",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e35_b060": {
+      "id": "e35_b060",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b061": {
+      "id": "e35_b061",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b062": {
+      "id": "e35_b062",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b063": {
+      "id": "e35_b063",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b064": {
+      "id": "e35_b064",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b065": {
+      "id": "e35_b065",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 1,
+      "tag": "other"
+    },
+    "e35_b066": {
+      "id": "e35_b066",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e35_b067": {
+      "id": "e35_b067",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 2,
+      "tag": "betrayal"
+    },
+    "e35_b068": {
+      "id": "e35_b068",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e35_b070": {
+      "id": "e35_b070",
+      "hook": 9,
+      "cliff": 8,
+      "context_need": 3,
+      "tag": "betrayal"
+    },
+    "e35_b072": {
+      "id": "e35_b072",
+      "hook": 7,
+      "cliff": 9,
+      "context_need": 3,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "s35_0355",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 35,
+          "start": 126,
+          "end": 157.5,
+          "beatIds": [
+            "e35_b059",
+            "e35_b060",
+            "e35_b061",
+            "e35_b062",
+            "e35_b063",
+            "e35_b064",
+            "e35_b065",
+            "e35_b066",
+            "e35_b067",
+            "e35_b068",
+            "e35_b069",
+            "e35_b070",
+            "e35_b071",
+            "e35_b072"
+          ]
+        }
+      ],
+      "duration": 31.5,
+      "preScore": 15,
+      "tag": "betrayal",
+      "scene": 3,
+      "hook_text": "Because someone wanted you to believe I was dead.",
+      "cliffhanger_text": "The men behind it... are the same men ruling Ashwood now. The identity of the conspirators remains a mystery.",
+      "why": "The clip establishes a clear mystery and high stakes immediately, drawing the viewer into a conspiracy plot.",
+      "standalone": 8,
+      "hook_3s": 8,
+      "cliff": 7,
+      "emotion": 7,
+      "spoiler_risk": "low",
+      "title": "The Conspiracy Behind Ashwood",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The clip drops the viewer into a complex backstory about an ambush and Ashwood without any context."
+        }
+      }
+    },
+    {
+      "id": "m35_0356",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 35,
+          "start": 37,
+          "end": 48,
+          "beatIds": [
+            "e35_b020",
+            "e35_b021",
+            "e35_b022",
+            "e35_b023",
+            "e35_b024"
+          ]
+        },
+        {
+          "ep": 35,
+          "start": 145.5,
+          "end": 157.5,
+          "beatIds": [
+            "e35_b070",
+            "e35_b071",
+            "e35_b072"
+          ]
+        }
+      ],
+      "duration": 23,
+      "preScore": 15,
+      "tag": "reveal",
+      "scene": 3,
+      "hook_text": "Alexander! (Close-up on his mother's tear-streaked face)",
+      "cliffhanger_text": "The men behind it... are the same men ruling Ashwood now. The viewer is left wondering who these men are.",
+      "why": "It combines a high-emotion reunion with a dark political threat, providing a good balance of character and plot.",
+      "standalone": 7,
+      "hook_3s": 7,
+      "cliff": 7,
+      "emotion": 9,
+      "spoiler_risk": "high",
+      "title": "The Emotional Reunion Reveal",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The abrupt transition between the emotional reunion and the political threat creates a jarring, disconnected narrative."
+        }
+      }
+    },
+    {
+      "id": "m35_0357",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 35,
+          "start": 37,
+          "end": 48,
+          "beatIds": [
+            "e35_b020",
+            "e35_b021",
+            "e35_b022",
+            "e35_b023",
+            "e35_b024"
+          ]
+        },
+        {
+          "ep": 35,
+          "start": 137,
+          "end": 150,
+          "beatIds": [
+            "e35_b065",
+            "e35_b066",
+            "e35_b067",
+            "e35_b068",
+            "e35_b069",
+            "e35_b070"
+          ]
+        }
+      ],
+      "duration": 24,
+      "preScore": 14.11,
+      "tag": "reveal",
+      "scene": 3,
+      "hook_text": "Alexander! (Close-up on his mother's tear-streaked face)",
+      "cliffhanger_text": "The men behind it... are the same men ruling Ashwood now. The specific threat remains unresolved.",
+      "why": "The transition from a heartfelt reunion to a cold, vengeful mission creates a compelling character arc in a short time.",
+      "standalone": 7,
+      "hook_3s": 7,
+      "cliff": 6,
+      "emotion": 8,
+      "spoiler_risk": "high",
+      "title": "From Reunion To Vengeance",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden shift from a personal reunion to a vague conspiracy leaves the audience confused about the primary focus."
+        }
+      }
+    }
+  ]
+}

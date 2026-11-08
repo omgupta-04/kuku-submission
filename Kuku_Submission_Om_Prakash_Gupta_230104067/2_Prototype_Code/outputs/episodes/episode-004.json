@@ -1,0 +1,1419 @@
+{
+  "ep": 4,
+  "file": "episode-004-Episode 1671706.txt",
+  "meta": {
+    "ep": 4,
+    "file": "episode-004-Episode 1671706.txt",
+    "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+    "continuity": "Picks up directly from Episode 3's cliffhanger where the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana.",
+    "duration": 151.4
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "heading": "INT. CHAPEL – CONTINUOUS",
+      "start": 0,
+      "end": 151.4
+    }
+  ],
+  "beats": [
+    {
+      "id": "e04_b001",
+      "type": "camera",
+      "scene": 1,
+      "start": 0,
+      "end": 1.5
+    },
+    {
+      "id": "e04_b002",
+      "type": "camera",
+      "scene": 1,
+      "start": 1.5,
+      "end": 3.2
+    },
+    {
+      "id": "e04_b003",
+      "type": "action",
+      "scene": 1,
+      "start": 1.5,
+      "end": 3.2
+    },
+    {
+      "id": "e04_b004",
+      "type": "camera",
+      "scene": 1,
+      "start": 3.2,
+      "end": 5
+    },
+    {
+      "id": "e04_b005",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 3.4,
+      "end": 4.9
+    },
+    {
+      "id": "e04_b006",
+      "type": "camera",
+      "scene": 1,
+      "start": 5,
+      "end": 7.5
+    },
+    {
+      "id": "e04_b007",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 5,
+      "end": 7.5
+    },
+    {
+      "id": "e04_b008",
+      "type": "camera",
+      "scene": 1,
+      "start": 7.6,
+      "end": 10.5
+    },
+    {
+      "id": "e04_b009",
+      "type": "action",
+      "scene": 1,
+      "start": 7.8,
+      "end": 9.5
+    },
+    {
+      "id": "e04_b010",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 9,
+      "end": 10.5
+    },
+    {
+      "id": "e04_b011",
+      "type": "camera",
+      "scene": 1,
+      "start": 10.5,
+      "end": 12
+    },
+    {
+      "id": "e04_b012",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 10.6,
+      "end": 14.2
+    },
+    {
+      "id": "e04_b013",
+      "type": "camera",
+      "scene": 1,
+      "start": 12,
+      "end": 15
+    },
+    {
+      "id": "e04_b014",
+      "type": "camera",
+      "scene": 1,
+      "start": 15,
+      "end": 17.5
+    },
+    {
+      "id": "e04_b015",
+      "type": "action",
+      "scene": 1,
+      "start": 15.5,
+      "end": 17.5
+    },
+    {
+      "id": "e04_b016",
+      "type": "camera",
+      "scene": 1,
+      "start": 17.5,
+      "end": 21.8
+    },
+    {
+      "id": "e04_b017",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 20,
+      "end": 21.8
+    },
+    {
+      "id": "e04_b018",
+      "type": "camera",
+      "scene": 1,
+      "start": 21.9,
+      "end": 23.4
+    },
+    {
+      "id": "e04_b019",
+      "type": "camera",
+      "scene": 1,
+      "start": 23.4,
+      "end": 25.8
+    },
+    {
+      "id": "e04_b020",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 23.5,
+      "end": 25.8
+    },
+    {
+      "id": "e04_b021",
+      "type": "camera",
+      "scene": 1,
+      "start": 25.8,
+      "end": 27.9
+    },
+    {
+      "id": "e04_b022",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 25.9,
+      "end": 27.7
+    },
+    {
+      "id": "e04_b023",
+      "type": "camera",
+      "scene": 1,
+      "start": 27.9,
+      "end": 30.5
+    },
+    {
+      "id": "e04_b024",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 28,
+      "end": 30.2
+    },
+    {
+      "id": "e04_b025",
+      "type": "camera",
+      "scene": 1,
+      "start": 30.5,
+      "end": 32
+    },
+    {
+      "id": "e04_b026",
+      "type": "camera",
+      "scene": 1,
+      "start": 32,
+      "end": 33.8
+    },
+    {
+      "id": "e04_b027",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 32.1,
+      "end": 33.7
+    },
+    {
+      "id": "e04_b028",
+      "type": "camera",
+      "scene": 1,
+      "start": 33.8,
+      "end": 36
+    },
+    {
+      "id": "e04_b029",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 34,
+      "end": 36
+    },
+    {
+      "id": "e04_b030",
+      "type": "camera",
+      "scene": 1,
+      "start": 36,
+      "end": 38.9
+    },
+    {
+      "id": "e04_b031",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 36.5,
+      "end": 38.8
+    },
+    {
+      "id": "e04_b032",
+      "type": "camera",
+      "scene": 1,
+      "start": 38.9,
+      "end": 41.5
+    },
+    {
+      "id": "e04_b033",
+      "type": "camera",
+      "scene": 1,
+      "start": 41.5,
+      "end": 45
+    },
+    {
+      "id": "e04_b034",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 42,
+      "end": 44.8
+    },
+    {
+      "id": "e04_b035",
+      "type": "camera",
+      "scene": 1,
+      "start": 45,
+      "end": 49.8
+    },
+    {
+      "id": "e04_b036",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 46,
+      "end": 48.8
+    },
+    {
+      "id": "e04_b037",
+      "type": "camera",
+      "scene": 1,
+      "start": 49.8,
+      "end": 52.8
+    },
+    {
+      "id": "e04_b038",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 50,
+      "end": 52.5
+    },
+    {
+      "id": "e04_b039",
+      "type": "camera",
+      "scene": 1,
+      "start": 52.8,
+      "end": 55.8
+    },
+    {
+      "id": "e04_b040",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 53.6,
+      "end": 55.8
+    },
+    {
+      "id": "e04_b041",
+      "type": "camera",
+      "scene": 1,
+      "start": 55.8,
+      "end": 59
+    },
+    {
+      "id": "e04_b042",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 56.8,
+      "end": 58.8
+    },
+    {
+      "id": "e04_b043",
+      "type": "camera",
+      "scene": 1,
+      "start": 59,
+      "end": 62.8
+    },
+    {
+      "id": "e04_b044",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 59.5,
+      "end": 62.5
+    },
+    {
+      "id": "e04_b045",
+      "type": "camera",
+      "scene": 1,
+      "start": 62.8,
+      "end": 65.8
+    },
+    {
+      "id": "e04_b046",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 63.5,
+      "end": 65.5
+    },
+    {
+      "id": "e04_b047",
+      "type": "camera",
+      "scene": 1,
+      "start": 65.8,
+      "end": 67.5
+    },
+    {
+      "id": "e04_b048",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 66,
+      "end": 68
+    },
+    {
+      "id": "e04_b049",
+      "type": "camera",
+      "scene": 1,
+      "start": 67.5,
+      "end": 69.5
+    },
+    {
+      "id": "e04_b050",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 68,
+      "end": 69.6
+    },
+    {
+      "id": "e04_b051",
+      "type": "camera",
+      "scene": 1,
+      "start": 69.5,
+      "end": 71.8
+    },
+    {
+      "id": "e04_b052",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 69.8,
+      "end": 72
+    },
+    {
+      "id": "e04_b053",
+      "type": "camera",
+      "scene": 1,
+      "start": 71.8,
+      "end": 74.8
+    },
+    {
+      "id": "e04_b054",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 72.8,
+      "end": 74.5
+    },
+    {
+      "id": "e04_b055",
+      "type": "camera",
+      "scene": 1,
+      "start": 74.8,
+      "end": 76.2
+    },
+    {
+      "id": "e04_b056",
+      "type": "camera",
+      "scene": 1,
+      "start": 76.2,
+      "end": 79
+    },
+    {
+      "id": "e04_b057",
+      "type": "action",
+      "scene": 1,
+      "start": 76.2,
+      "end": 79
+    },
+    {
+      "id": "e04_b058",
+      "type": "camera",
+      "scene": 1,
+      "start": 79,
+      "end": 81.8
+    },
+    {
+      "id": "e04_b059",
+      "type": "action",
+      "scene": 1,
+      "start": 79.2,
+      "end": 81.5
+    },
+    {
+      "id": "e04_b060",
+      "type": "camera",
+      "scene": 1,
+      "start": 81.8,
+      "end": 84
+    },
+    {
+      "id": "e04_b061",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 82,
+      "end": 83.8
+    },
+    {
+      "id": "e04_b062",
+      "type": "camera",
+      "scene": 1,
+      "start": 84,
+      "end": 86
+    },
+    {
+      "id": "e04_b063",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 84,
+      "end": 85.8
+    },
+    {
+      "id": "e04_b064",
+      "type": "camera",
+      "scene": 1,
+      "start": 86,
+      "end": 88.8
+    },
+    {
+      "id": "e04_b065",
+      "type": "camera",
+      "scene": 1,
+      "start": 88.8,
+      "end": 91.5
+    },
+    {
+      "id": "e04_b066",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 89.8,
+      "end": 91
+    },
+    {
+      "id": "e04_b067",
+      "type": "camera",
+      "scene": 1,
+      "start": 91.5,
+      "end": 94.8
+    },
+    {
+      "id": "e04_b068",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 92,
+      "end": 94.5
+    },
+    {
+      "id": "e04_b069",
+      "type": "camera",
+      "scene": 1,
+      "start": 94.8,
+      "end": 97.8
+    },
+    {
+      "id": "e04_b070",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 95.8,
+      "end": 98
+    },
+    {
+      "id": "e04_b071",
+      "type": "camera",
+      "scene": 1,
+      "start": 97.8,
+      "end": 100.2
+    },
+    {
+      "id": "e04_b072",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 98.2,
+      "end": 100
+    },
+    {
+      "id": "e04_b073",
+      "type": "camera",
+      "scene": 1,
+      "start": 100.2,
+      "end": 102.2
+    },
+    {
+      "id": "e04_b074",
+      "type": "action",
+      "scene": 1,
+      "start": 100.2,
+      "end": 102.2
+    },
+    {
+      "id": "e04_b075",
+      "type": "camera",
+      "scene": 1,
+      "start": 102.2,
+      "end": 105
+    },
+    {
+      "id": "e04_b076",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 102.5,
+      "end": 104.2
+    },
+    {
+      "id": "e04_b077",
+      "type": "camera",
+      "scene": 1,
+      "start": 105,
+      "end": 107.8
+    },
+    {
+      "id": "e04_b078",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 105.2,
+      "end": 107
+    },
+    {
+      "id": "e04_b079",
+      "type": "camera",
+      "scene": 1,
+      "start": 107.8,
+      "end": 110
+    },
+    {
+      "id": "e04_b080",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 107.8,
+      "end": 109.8
+    },
+    {
+      "id": "e04_b081",
+      "type": "camera",
+      "scene": 1,
+      "start": 110,
+      "end": 112.8
+    },
+    {
+      "id": "e04_b082",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 110,
+      "end": 113
+    },
+    {
+      "id": "e04_b083",
+      "type": "camera",
+      "scene": 1,
+      "start": 112.8,
+      "end": 114.8
+    },
+    {
+      "id": "e04_b084",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 113,
+      "end": 114.8
+    },
+    {
+      "id": "e04_b085",
+      "type": "sfx",
+      "scene": 1,
+      "start": 114,
+      "end": 115.2
+    },
+    {
+      "id": "e04_b086",
+      "type": "camera",
+      "scene": 1,
+      "start": 114.8,
+      "end": 116.8
+    },
+    {
+      "id": "e04_b087",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 115,
+      "end": 116.8
+    },
+    {
+      "id": "e04_b088",
+      "type": "camera",
+      "scene": 1,
+      "start": 116.8,
+      "end": 119
+    },
+    {
+      "id": "e04_b089",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 117,
+      "end": 119
+    },
+    {
+      "id": "e04_b090",
+      "type": "camera",
+      "scene": 1,
+      "start": 119,
+      "end": 122.8
+    },
+    {
+      "id": "e04_b091",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 120.5,
+      "end": 122.8
+    },
+    {
+      "id": "e04_b092",
+      "type": "camera",
+      "scene": 1,
+      "start": 122.8,
+      "end": 125.8
+    },
+    {
+      "id": "e04_b093",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 123,
+      "end": 125.5
+    },
+    {
+      "id": "e04_b094",
+      "type": "camera",
+      "scene": 1,
+      "start": 125.8,
+      "end": 127.4
+    },
+    {
+      "id": "e04_b095",
+      "type": "action",
+      "scene": 1,
+      "start": 126,
+      "end": 127.4
+    },
+    {
+      "id": "e04_b096",
+      "type": "camera",
+      "scene": 1,
+      "start": 127.4,
+      "end": 131.5
+    },
+    {
+      "id": "e04_b097",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 127.5,
+      "end": 131.5
+    },
+    {
+      "id": "e04_b098",
+      "type": "camera",
+      "scene": 1,
+      "start": 131.5,
+      "end": 134.8
+    },
+    {
+      "id": "e04_b099",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 132,
+      "end": 134.5
+    },
+    {
+      "id": "e04_b100",
+      "type": "camera",
+      "scene": 1,
+      "start": 134.8,
+      "end": 136
+    },
+    {
+      "id": "e04_b101",
+      "type": "camera",
+      "scene": 1,
+      "start": 136,
+      "end": 138.8
+    },
+    {
+      "id": "e04_b102",
+      "type": "camera",
+      "scene": 1,
+      "start": 138.8,
+      "end": 140.8
+    },
+    {
+      "id": "e04_b103",
+      "type": "dialogue",
+      "scene": 1,
+      "start": 139.5,
+      "end": 140.8
+    },
+    {
+      "id": "e04_b104",
+      "type": "camera",
+      "scene": 1,
+      "start": 140.8,
+      "end": 142.8
+    },
+    {
+      "id": "e04_b105",
+      "type": "camera",
+      "scene": 1,
+      "start": 142.8,
+      "end": 144.8
+    },
+    {
+      "id": "e04_b106",
+      "type": "camera",
+      "scene": 1,
+      "start": 144.8,
+      "end": 146.5
+    },
+    {
+      "id": "e04_b107",
+      "type": "action",
+      "scene": 1,
+      "start": 145,
+      "end": 146.5
+    },
+    {
+      "id": "e04_b108",
+      "type": "camera",
+      "scene": 1,
+      "start": 146.5,
+      "end": 151.4
+    },
+    {
+      "id": "e04_b109",
+      "type": "action",
+      "scene": 1,
+      "start": 147.5,
+      "end": 151.4
+    },
+    {
+      "id": "e04_b110",
+      "type": "sfx",
+      "scene": 1,
+      "start": 147,
+      "end": 149
+    }
+  ],
+  "scores": {
+    "e04_b001": {
+      "id": "e04_b001",
+      "hook": 6,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "reveal"
+    },
+    "e04_b003": {
+      "id": "e04_b003",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e04_b005": {
+      "id": "e04_b005",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e04_b007": {
+      "id": "e04_b007",
+      "hook": 4,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e04_b009": {
+      "id": "e04_b009",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e04_b010": {
+      "id": "e04_b010",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 5,
+      "tag": "humiliation"
+    },
+    "e04_b012": {
+      "id": "e04_b012",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 6,
+      "tag": "humiliation"
+    },
+    "e04_b015": {
+      "id": "e04_b015",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b017": {
+      "id": "e04_b017",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "confession"
+    },
+    "e04_b018": {
+      "id": "e04_b018",
+      "hook": 3,
+      "cliff": 2,
+      "context_need": 4,
+      "tag": "identity"
+    },
+    "e04_b020": {
+      "id": "e04_b020",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "confession"
+    },
+    "e04_b022": {
+      "id": "e04_b022",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "confession"
+    },
+    "e04_b024": {
+      "id": "e04_b024",
+      "hook": 5,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e04_b025": {
+      "id": "e04_b025",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b027": {
+      "id": "e04_b027",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e04_b029": {
+      "id": "e04_b029",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "confession"
+    },
+    "e04_b031": {
+      "id": "e04_b031",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e04_b032": {
+      "id": "e04_b032",
+      "hook": 2,
+      "cliff": 2,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b034": {
+      "id": "e04_b034",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "confession"
+    },
+    "e04_b036": {
+      "id": "e04_b036",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "confession"
+    },
+    "e04_b038": {
+      "id": "e04_b038",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b040": {
+      "id": "e04_b040",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b042": {
+      "id": "e04_b042",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b044": {
+      "id": "e04_b044",
+      "hook": 4,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e04_b046": {
+      "id": "e04_b046",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "confession"
+    },
+    "e04_b048": {
+      "id": "e04_b048",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b050": {
+      "id": "e04_b050",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e04_b052": {
+      "id": "e04_b052",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e04_b054": {
+      "id": "e04_b054",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 4,
+      "tag": "confession"
+    },
+    "e04_b055": {
+      "id": "e04_b055",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b057": {
+      "id": "e04_b057",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b059": {
+      "id": "e04_b059",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b061": {
+      "id": "e04_b061",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b063": {
+      "id": "e04_b063",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b064": {
+      "id": "e04_b064",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e04_b066": {
+      "id": "e04_b066",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b068": {
+      "id": "e04_b068",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b070": {
+      "id": "e04_b070",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b072": {
+      "id": "e04_b072",
+      "hook": 3,
+      "cliff": 3,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b074": {
+      "id": "e04_b074",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b076": {
+      "id": "e04_b076",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b078": {
+      "id": "e04_b078",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b080": {
+      "id": "e04_b080",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b082": {
+      "id": "e04_b082",
+      "hook": 5,
+      "cliff": 6,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b084": {
+      "id": "e04_b084",
+      "hook": 6,
+      "cliff": 7,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b085": {
+      "id": "e04_b085",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 2,
+      "tag": "other"
+    },
+    "e04_b087": {
+      "id": "e04_b087",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e04_b089": {
+      "id": "e04_b089",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "threat"
+    },
+    "e04_b091": {
+      "id": "e04_b091",
+      "hook": 6,
+      "cliff": 5,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e04_b093": {
+      "id": "e04_b093",
+      "hook": 7,
+      "cliff": 6,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e04_b095": {
+      "id": "e04_b095",
+      "hook": 5,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b097": {
+      "id": "e04_b097",
+      "hook": 7,
+      "cliff": 7,
+      "context_need": 6,
+      "tag": "threat"
+    },
+    "e04_b099": {
+      "id": "e04_b099",
+      "hook": 8,
+      "cliff": 8,
+      "context_need": 6,
+      "tag": "betrayal"
+    },
+    "e04_b100": {
+      "id": "e04_b100",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e04_b101": {
+      "id": "e04_b101",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b103": {
+      "id": "e04_b103",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "rescue"
+    },
+    "e04_b104": {
+      "id": "e04_b104",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b105": {
+      "id": "e04_b105",
+      "hook": 4,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    },
+    "e04_b107": {
+      "id": "e04_b107",
+      "hook": 4,
+      "cliff": 4,
+      "context_need": 5,
+      "tag": "other"
+    },
+    "e04_b109": {
+      "id": "e04_b109",
+      "hook": 6,
+      "cliff": 6,
+      "context_need": 4,
+      "tag": "other"
+    },
+    "e04_b110": {
+      "id": "e04_b110",
+      "hook": 5,
+      "cliff": 5,
+      "context_need": 3,
+      "tag": "other"
+    }
+  },
+  "promos": [
+    {
+      "id": "m04_0076",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 4,
+          "start": 72.8,
+          "end": 83.8,
+          "beatIds": [
+            "e04_b054",
+            "e04_b055",
+            "e04_b056",
+            "e04_b057",
+            "e04_b058",
+            "e04_b059",
+            "e04_b060",
+            "e04_b061"
+          ]
+        },
+        {
+          "ep": 4,
+          "start": 120.5,
+          "end": 134.5,
+          "beatIds": [
+            "e04_b091",
+            "e04_b092",
+            "e04_b093",
+            "e04_b094",
+            "e04_b095",
+            "e04_b096",
+            "e04_b097",
+            "e04_b098",
+            "e04_b099"
+          ]
+        }
+      ],
+      "duration": 25,
+      "preScore": 12.85,
+      "tag": "confession",
+      "scene": 1,
+      "hook_text": "Then I accept.",
+      "cliffhanger_text": "You are disowned!",
+      "why": "The transition from a romantic wedding scene to a sudden, high-stakes family confrontation creates immediate narrative tension.",
+      "standalone": 8,
+      "hook_3s": 7,
+      "cliff": 9,
+      "emotion": 8,
+      "spoiler_risk": "med",
+      "title": "The Disowned Bride Wedding Scandal",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": false,
+          "note": "The sudden shift from a wedding scene to a disownment involving characters like Gerald and Lady Ashcroft without context is jarring and confusing."
+        }
+      }
+    },
+    {
+      "id": "m04_0077",
+      "kind": "stitched",
+      "segments": [
+        {
+          "ep": 4,
+          "start": 72.8,
+          "end": 83.8,
+          "beatIds": [
+            "e04_b054",
+            "e04_b055",
+            "e04_b056",
+            "e04_b057",
+            "e04_b058",
+            "e04_b059",
+            "e04_b060",
+            "e04_b061"
+          ]
+        },
+        {
+          "ep": 4,
+          "start": 102.5,
+          "end": 114.8,
+          "beatIds": [
+            "e04_b076",
+            "e04_b077",
+            "e04_b078",
+            "e04_b079",
+            "e04_b080",
+            "e04_b081",
+            "e04_b082",
+            "e04_b083",
+            "e04_b084",
+            "e04_b085"
+          ]
+        }
+      ],
+      "duration": 23.3,
+      "preScore": 12.45,
+      "tag": "confession",
+      "scene": 1,
+      "hook_text": "Then I accept.",
+      "cliffhanger_text": "...husband and wife!",
+      "why": "The clip focuses entirely on the wedding ceremony, which lacks the conflict necessary to hook a casual scroller.",
+      "standalone": 9,
+      "hook_3s": 7,
+      "cliff": 2,
+      "emotion": 6,
+      "spoiler_risk": "low",
+      "title": "The Mysterious Warrior Wedding Ceremony",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The clip resolves the tension by completing the marriage ceremony, leaving no actual cliffhanger for the viewer."
+        }
+      }
+    },
+    {
+      "id": "s04_0074",
+      "kind": "single",
+      "segments": [
+        {
+          "ep": 4,
+          "start": 72.8,
+          "end": 114.8,
+          "beatIds": [
+            "e04_b054",
+            "e04_b055",
+            "e04_b056",
+            "e04_b057",
+            "e04_b058",
+            "e04_b059",
+            "e04_b060",
+            "e04_b061",
+            "e04_b062",
+            "e04_b063",
+            "e04_b064",
+            "e04_b065",
+            "e04_b066",
+            "e04_b067",
+            "e04_b068",
+            "e04_b069",
+            "e04_b070",
+            "e04_b071",
+            "e04_b072",
+            "e04_b073",
+            "e04_b074",
+            "e04_b075",
+            "e04_b076",
+            "e04_b077",
+            "e04_b078",
+            "e04_b079",
+            "e04_b080",
+            "e04_b081",
+            "e04_b082",
+            "e04_b083",
+            "e04_b084",
+            "e04_b085"
+          ]
+        }
+      ],
+      "duration": 42,
+      "preScore": 12.39,
+      "tag": "confession",
+      "scene": 1,
+      "hook_text": "Then I accept.",
+      "cliffhanger_text": "...husband and wife!",
+      "why": "While well-produced, the clip is too long and lacks a compelling hook or cliffhanger to justify its duration for a new viewer.",
+      "standalone": 9,
+      "hook_3s": 7,
+      "cliff": 2,
+      "emotion": 5,
+      "spoiler_risk": "low",
+      "title": "Full Wedding Ceremony Extended Cut",
+      "score": 0,
+      "qc": {
+        "pass": true,
+        "flags": [
+          "critic_confusing",
+          "critic_resolved"
+        ],
+        "critic": {
+          "confusing": true,
+          "resolved": true,
+          "note": "The clip is far too long and concludes with the marriage being fully finalized, which kills any sense of suspense."
+        }
+      }
+    }
+  ]
+}

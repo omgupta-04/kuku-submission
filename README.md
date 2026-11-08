@@ -2,6 +2,8 @@
 
 AI Generalist Assignment - Problem 1: Find the Promos
 
+- **Live Prototype URL:** [https://kuku-submission.vercel.app/](https://kuku-submission.vercel.app/)
+
 ## Structure
 - **`1_Solution_Doc_Om_Prakash_Gupta_230104067.pdf`**: 2-page solution brief.
 - **`2_Prototype_Code/`**: Next.js prototype application (`promofinder`).
